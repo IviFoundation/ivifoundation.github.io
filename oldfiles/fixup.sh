@@ -5,7 +5,7 @@
 
 
 # apply pandoc to each aspx file, generation markdown
-find \*.aspx > $$files
+find . -name \*.aspx > $$files
 for file in `cat $$file` do
     basename -s .aspx $file > $basename
     $destination = $basename.markdown
