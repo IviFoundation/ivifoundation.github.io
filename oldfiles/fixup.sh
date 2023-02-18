@@ -23,16 +23,25 @@ do
     filebase=`echo $file | sed s/\.aspx//`
     #filebase=`basename -s .aspx $file`
     Title=`nawk '/Title=/ { gsub(/^.*Title=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
-    echo "Title is: '$Title' for $file"
+    #echo "Title is: '$Title' for $file"
 
-    VirtualPath=`nawk '/virtualPath=/ { gsub(/^.*Title=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
-    echo "VirtualPath is: '$VirtualPath' for $file"
+    VirtualPath=`nawk '/virtualPath=/ { gsub(/^.*virtualPath=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
+    #echo "VirtualPath is: '$VirtualPath' for $file"
+
+    # convert ANSI codes to ASCII
+    cp $file $$temp
+    for ANSI_Replacement in "s/\x93/'/g" "s/\x92/'/g" "s/\x94/\"/g" "s/\xe2/^/g" "s/\x96/-/g"  "s/\xfc/ue/g" "s/\xae/(R)/g" "s/\x80/Euro/g" "s/\x99/(tm)/g" "s/\x9c/oe/g" "s/\x9d//g" "s/\x98/~/g"
+    do
+        sed $ANSI_Replacement $$temp > $$temp2
+        cp $$temp2 $$temp
+    done
 
 
-    nawk -f $$awkscript < $filebase.aspx |
-    pandoc --from=html --to=markdown  > $filebase.temp
+    nawk -f $$awkscript < $$temp |
+    pandoc --from=html --to=gfm  > $$temp2
 
+    #stick the title in the front (?)
     echo "#" $Title  > $filebase.md
-    cat $filebase.temp >> $filebase.md
+    cat $$temp2 >> $filebase.md
 
 done
