@@ -13,6 +13,45 @@ echo '
 /<%@[^%]*%>/ { skip=1;  } 
         {if (!(skip || SkipMultiple)) print($0); skip=0 } ' >> $$awkscript
 
+echo '
+/div id=\"leftCol\".*\/div/  {next}
+/div id=\"leftCol\"/ { 
+    count = 0
+    while (1) {
+        getline;
+        if ($0 ~ /<div/) 
+            count++;
+        if ($0 ~ /<\/div/) {
+            if (count==0)
+                break;
+            count--
+        }
+    }
+    next
+  } 
+/div id=\"rightCol\"/ { 
+    count = 0
+    while (1) {
+        getline;
+        if ($0 ~ /<div.*\/div>/)
+            print $0
+        else if ($0 ~ /<div/) 
+            count++;
+        else if ($0 ~ /<\/div/) {
+            if (count==0)
+                break;
+            print $0
+            count--
+        }
+        else
+            print $0
+    }
+    next
+  } 
+ { print $0 }
+  ' >> $$awk-removeDiv
+
+
 
 
 # apply pandoc to each aspx file, generation markdown
@@ -20,13 +59,15 @@ find . -name \*.aspx > $$files
 for file in `cat $$files` 
 # for testing: for file in contact_us.aspx
 do
+    # Get file basename for operations below
     filebase=`echo $file | sed s/\.aspx//`
-    #filebase=`basename -s .aspx $file`
-    Title=`nawk '/Title=/ { gsub(/^.*Title=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
-    #echo "Title is: '$Title' for $file"
 
+    echo "Processing: " $filebase
+
+    # Extract the aspx Tutle and VirtualPath variables
+    Title=`nawk '/Title=/ { gsub(/^.*Title=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
     VirtualPath=`nawk '/virtualPath=/ { gsub(/^.*virtualPath=\"/, "") ; gsub( /\"[^\"]*$/, ""); print $0 }' $file`
-    #echo "VirtualPath is: '$VirtualPath' for $file"
+    
 
     # convert ANSI codes to ASCII
     cp $file $$temp
@@ -36,12 +77,24 @@ do
         cp $$temp2 $$temp
     done
 
-
+    # Run the awk scripts and pandoc.  First removes aspx header, second removes division (for left-hand nav)
     nawk -f $$awkscript < $$temp |
+    nawk -f $$awk-removeDiv |
     pandoc --from=html --to=gfm  > $$temp2
 
-    #stick the title in the front (?)
-    echo "#" $Title  > $filebase.md
-    cat $$temp2 >> $filebase.md
+    # pandoc doesn't seem to like piping into this filter..
+    sed 's/\.aspx)/.md)/g' $$temp2 > $$temp
 
+    #stick the title in the front (?)  --- NO most files have the title in-line
+    #echo "#" $Title  > $filebase.md
+
+    # move the working file to output.
+    cat $$temp > $filebase.md
+    
 done
+
+rm $$awkscript
+rm $$awk-removeDiv
+rm $$temp
+rm $$temp2
+rm $$files
