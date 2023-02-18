@@ -2,6 +2,8 @@
 
 # Script to fix up old IVI .aspx files
 
+destinationDir="../site/"
+
 # Things to do:
 #    Perhaps put whole scraper here.  --- Need to at least get pdf files
 #    Go ahead and put the files in an active feed to study
@@ -61,6 +63,7 @@ for file in `cat $$files`
 do
     # Get file basename for operations below
     filebase=`echo $file | sed s/\.aspx//`
+    directory=`echo $file | sed s/[^\/]*.aspx//`
 
     echo "Processing: " $filebase
 
@@ -89,7 +92,10 @@ do
     #echo "#" $Title  > $filebase.md
 
     # move the working file to output.
-    cat $$temp > $filebase.md
+    if [ ! -d $destinationDir$directory ]; then
+        mkdir $destinationDir$directory    
+    fi
+    cp $$temp  $destinationDir$directory`basename $filebase.md`
     
 done
 
