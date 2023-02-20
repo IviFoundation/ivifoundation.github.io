@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 # Hello World!
 
 ![](https://www.ivifoundation.org/images/logo_ivi.gif)
@@ -9,4 +11,5 @@ Tested by Alejandro on 2023-02-08.
 
 ## Hello from the Infrastructure WG!
 
-👏
+
+[about](about/default.html)

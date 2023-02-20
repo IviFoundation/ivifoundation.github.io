@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About IVI
 
 These pages will help you learn more about the IVI Foundation and IVI
