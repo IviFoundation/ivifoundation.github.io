@@ -1,6 +1,4 @@
-<div id="homeLeftCol">
 
-<div id="intro">
 
 # Welcome to the Interchangeable Virtual Instruments Foundation
 
@@ -9,19 +7,9 @@ specifications for programming test instruments that simplify
 interchangeability, provide better performance, and reduce the cost of
 program development and maintenance.
 
-</div>
-
-<div class="line">
-
-</div>
-
-<div id="contentArea">
-
-<div id="contentLeft" style="height: 400px; width: 304px;">
 
 ### Security<span class="style1"> </span>
 
-<span class="style1"> </span>
 
 The IVI Foundation has been collaborating with the LXI Consortium to
 update the IVI standards for secure instrument network communication.
@@ -46,7 +34,6 @@ Release](http://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release
 
 ### VXI*plug\&play*<span class="style1"> </span>
 
-<span class="style1"> </span>
 
 The VXI*plug\&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
@@ -67,17 +54,11 @@ a common interface language between computers and test instruments. For
 more information, [click
 here](http://ivifoundation.org/scpi/default.md).
 
-<span class="style1"> </span>
+
 
  
 
-</div>
-
-<div id="contentRight">
-
- 
-
-### IVI Overcomes Industry Challenges<span class="style1"> </span>
+### IVI Overcomes Industry Challenges
 
 In today's world two factors hinder efficient test system setup and
 support:
@@ -96,7 +77,6 @@ Foundation was formed in 1998 and officially incorporated in 2001. Its
 membership includes end-users, instrument vendors, software vendors,
 system suppliers, and system integrators.
 
-</div>
 
   
   
