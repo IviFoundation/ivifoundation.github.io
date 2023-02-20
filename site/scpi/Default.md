@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SCPI Consortium
 
 The Standard Commands for Programmable Instrumentation (SCPI) Consortium
@@ -24,5 +27,5 @@ specifications and all ongoing work will be accomplished as part of the
 IVI Foundation.
 
 To view/download SCPI, go to the
-[Specifications](http://www.ivifoundation.org/specifications/default.md)
+[Specifications](http://www.ivifoundation.org/specifications/default.html)
 page.

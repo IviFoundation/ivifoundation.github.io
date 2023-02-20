@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ivifoundation.github.io
 
 ⚒️ *In development.* ⚒️

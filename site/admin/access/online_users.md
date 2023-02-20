@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Online Users
 
 <table>

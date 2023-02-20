@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # My Profile
 
 First Name:

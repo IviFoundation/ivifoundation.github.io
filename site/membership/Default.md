@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Members Documents Have Moved to SharePoint
 
 IVI Foundation members have access to working group documents and

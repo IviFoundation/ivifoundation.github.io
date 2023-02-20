@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # July 2002 Meeting Information
 
   

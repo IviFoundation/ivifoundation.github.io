@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Legal
 
 The IVI foundation was incorporated as a not-for-profit corporation in
@@ -16,10 +19,10 @@ IVI's formal legal documents are:
   - [First Board
     Consent](../downloads/Operating-Legal/IVI%20-%20First%20Board%20Consent.pdf)
 
-See the [IP Policy](ip_policy.md) page to download IVI's intellectual
+See the [IP Policy](ip_policy.html) page to download IVI's intellectual
 property policy.
 
-See the [Bylaws](bylaws.md) page for IVI's governing bylaws.
+See the [Bylaws](bylaws.html) page for IVI's governing bylaws.
 
-See the [Specifications](../specifications/default.md) page for IVI's
+See the [Specifications](../specifications/default.html) page for IVI's
 day-to-day operating procedures.

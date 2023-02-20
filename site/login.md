@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <div id="homeRightCol">
 
 <div id="loginArea">
@@ -13,8 +16,8 @@
   Email:  
 \* Password:  
 \*  
-[Create an account](membership/create_member.md)   [Forgot
-Password](membership/recoverpassword.md)
+[Create an account](membership/create_member.html)   [Forgot
+Password](membership/recoverpassword.html)
 
 </div>
 

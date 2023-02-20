@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Older IVI Shared Components
 
 This page provides access to older versions of the IVI Shared
 Components. To access the latest release, please see the main [Shared
-Components](Default.md) page.
+Components](Default.html) page.
 
 ## IVI Shared Components (32-bit) -- Older Versions
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Add User
 
 ### Roles:

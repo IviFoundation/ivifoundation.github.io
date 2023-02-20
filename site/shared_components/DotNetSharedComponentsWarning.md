@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # .NET Shared Components Warning
 
 <span lang="en-us">A warning is generated when building a .NET project
@@ -35,5 +38,5 @@ still in provisional status.  This means that</span>
     IVI.NET working group to work through the process of removing the
     assembly from provisional status.  Non-members should refer to the
     [Shared
-    Components](http://www.ivifoundation.org/shared_components/Default.md)
+    Components](http://www.ivifoundation.org/shared_components/Default.html)
     page for the IVI.NET Shared Components status.</span>

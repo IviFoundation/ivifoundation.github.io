@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # News Archive
 
   
@@ -15,7 +18,7 @@ existing resources by deploying a single test software system on to test
 systems built with different instrument hardware.
 
   - [News release announcing completion of IVI
-    specifications](Oct2002NewsRelease.md)
+    specifications](Oct2002NewsRelease.html)
   - Presentation at press conference at AUTOTESTCON
   - Other supporting press materials  
       - [Member

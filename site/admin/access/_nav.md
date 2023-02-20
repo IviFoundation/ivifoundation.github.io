@@ -1,15 +1,18 @@
-[. Administration Home](~/admin/default.md)
+---
+layout: default
+---
+[. Administration Home](~/admin/default.html)
 
-[. News](~/admin/news/default.md)
+[. News](~/admin/news/default.html)
 
-[. Users](~/admin/access/users.md)
+[. Users](~/admin/access/users.html)
 
-   [Access Rules](access_rules.md)
+   [Access Rules](access_rules.html)
 
-   [Access Summary](access_rule_summary.md)
+   [Access Summary](access_rule_summary.html)
 
-   [User List](users.md)
+   [User List](users.html)
 
-   [Add User](add_user.md)
+   [Add User](add_user.html)
 
-   [Role Management](roles.md)
+   [Role Management](roles.html)

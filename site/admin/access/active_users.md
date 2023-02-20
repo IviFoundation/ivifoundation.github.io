@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Active / Inactive Users
 
 <table>

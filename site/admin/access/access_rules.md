@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Website Access Rules
 
 <table>

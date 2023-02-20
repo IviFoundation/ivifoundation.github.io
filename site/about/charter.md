@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Charter
 
 The primary purpose of the IVI Foundation is to promote the development

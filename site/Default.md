@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 
 # Welcome to the Interchangeable Virtual Instruments Foundation
@@ -38,7 +41,7 @@ Release](http://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release
 The VXI*plug\&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
 VXI systems. For more information, [click
-here](http://ivifoundation.org/VXIPlug_Play/default.md).
+here](http://ivifoundation.org/VXIPlug_Play/default.html).
 
  
 
@@ -52,7 +55,7 @@ The Standard Commands for Programmable Instrumentation (SCPI) Consortium
 was an organization whose members shared a common commitment to develop
 a common interface language between computers and test instruments. For
 more information, [click
-here](http://ivifoundation.org/scpi/default.md).
+here](http://ivifoundation.org/scpi/default.html).
 
 
 
@@ -119,8 +122,8 @@ system suppliers, and system integrators.
   Email:  
 \* Password:  
 \*  
-[Create an account](membership/create_member.md)   [Forgot
-Password](membership/recoverpassword.md)
+[Create an account](membership/create_member.html)   [Forgot
+Password](membership/recoverpassword.html)
 
 </div>
 
@@ -135,7 +138,7 @@ Password](membership/recoverpassword.md)
  
 
 [**February 6-9, 2023 Virtual
-Meeting**](http://www.ivifoundation.org/meetings/2023Feb/Default-FEB2023.md)
+Meeting**](http://www.ivifoundation.org/meetings/2023Feb/Default-FEB2023.html)
 
  
 

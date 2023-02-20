@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Legal Committee
 
 The legal committee is a committee of members that reports to the IVI

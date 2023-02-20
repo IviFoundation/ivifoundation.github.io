@@ -1,3 +1,6 @@
+---
+layout: default
+---
 **<span style="font-size:14.0pt;color:#993300">IVI Meeting Portland:
 <span style="mso-spacerun:yes"> </span>Tuesday, Oct. 14 to Thursday,
 Oct. 16</span>**

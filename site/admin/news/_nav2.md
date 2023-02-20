@@ -1,7 +1,10 @@
-[. Administration Home](~/admin/default.md)
+---
+layout: default
+---
+[. Administration Home](~/admin/default.html)
 
-[. News](~/admin/news/default.md)
+[. News](~/admin/news/default.html)
 
-   [Add News](~/admin/news/add_news.md)
+   [Add News](~/admin/news/add_news.html)
 
-[. Users](~/admin/access/users.md)
+[. Users](~/admin/access/users.html)

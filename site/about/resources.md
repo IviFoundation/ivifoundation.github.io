@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <div id="visDiv" data-runat="server">
 
 </div>

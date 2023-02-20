@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <div id="rightCol0">
 
 <span style="font-size:14.0pt;color:#993300"> **          ** </span>

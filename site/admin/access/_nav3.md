@@ -1,3 +1,6 @@
-[Users by Name](users.md)  |  [Users by Role](users_by_role.md)  | 
-[Active Users](active_users.md)  |  [Online
-Users](online_users.md)  |  [Locked Out Users](locked_users.md)
+---
+layout: default
+---
+[Users by Name](users.html)  |  [Users by Role](users_by_role.html)  | 
+[Active Users](active_users.html)  |  [Online
+Users](online_users.html)  |  [Locked Out Users](locked_users.html)

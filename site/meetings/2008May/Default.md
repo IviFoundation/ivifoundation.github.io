@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # IVI Foundation Meeting - Munich, Germany - May 13-15, 2008
 
 ## **Hosted by Rohde & Schwarz**

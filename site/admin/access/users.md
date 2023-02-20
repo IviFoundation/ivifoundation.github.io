@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Users by Name
 
 <table>

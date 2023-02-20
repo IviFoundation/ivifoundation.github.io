@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Create User
 
 Sign Up for Your New Account

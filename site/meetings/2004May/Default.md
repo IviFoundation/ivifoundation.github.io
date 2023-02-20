@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # May 2004 Meeting Information
 
   

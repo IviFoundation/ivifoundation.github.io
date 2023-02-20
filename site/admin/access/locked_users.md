@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Locked Out Users
 
 <table>

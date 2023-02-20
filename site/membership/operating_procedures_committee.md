@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Operating Procedures Committee
 
 The Operating Procedures Committee is responsible for IVI specification
@@ -14,6 +17,6 @@ are ever found to be in conflict with the bylaws, that is a flaw in the
 Operating Procedures and the bylaws take precedence.
 
 To download the latest version of the operating procedures see:
-[Specifications](../specifications/default.md)
+[Specifications](../specifications/default.html)
 
-To download the bylaws see: [About \> Bylaws](../about/bylaws.md)
+To download the bylaws see: [About \> Bylaws](../about/bylaws.html)

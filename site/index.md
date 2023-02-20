@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+---
+layout: default
+---
 # Hello World!
 
 ![](https://www.ivifoundation.org/images/logo_ivi.gif)

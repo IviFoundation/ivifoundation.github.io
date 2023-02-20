@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Measurement & Stimulus Subsystems (IVI-MSS)
 
 The *Measurement and Stimulus Subsystem (IVI-MSS)* specification
@@ -36,4 +39,4 @@ Role Control Modules.
 MSS overview presentation: [IVI-MSS
 Overview](../docs/MSS-Overview.pdf)  
 Download the full IVI-MSS specification at:
-[Specifications](../specifications/default.md)
+[Specifications](../specifications/default.html)

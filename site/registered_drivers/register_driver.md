@@ -1,9 +1,12 @@
+---
+layout: default
+---
 # 
 
 The IVI Foundation requires that all IVI drivers be registered with the
 foundation before the IVI Conformant logo can be attached to the driver.
 To learn how IVI uses this information, see the IVI [Privacy
-Policy](../privacy_policy.md).
+Policy](../privacy_policy.html).
 
 > **IVI New Driver Registration Policy:   
 > **  
@@ -20,7 +23,7 @@ Policy](../privacy_policy.md).
 >     due within two weeks of posting; otherwise, the driver will be
 >     removed from the IVI site. Alternatively, you can sign up for IVI
 >     membership at the [How to Join
->     page](http://ivifoundation.org/membership/how_to_join.md) for
+>     page](http://ivifoundation.org/membership/how_to_join.html) for
 >     only $750/year, which would entitle you to post drivers
 >     free-of-charge.
 >   - If you wish to join the IVI Foundation, go to the How to Join page
@@ -30,7 +33,7 @@ Policy](../privacy_policy.md).
 Fill out the following form to register your driver. See IVI-3.1: Driver
 Architecture Specification, Section 5.21: Compliance Documentation,
 available at [Downloads \>
-Specifications](../specifications/default.md), for a detailed
+Specifications](../specifications/default.html), for a detailed
 description of the various fields.
 
 Note on updating an entry: You can update an entry simply by filling out

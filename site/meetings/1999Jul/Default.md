@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # July 1999 Meeting Information
 
   

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # IPR Policy
 
 The IVI Foundation has adopted intellectual property policies and

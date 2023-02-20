@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Users Committee
 
 The Users Committee reports directly to the Board of Directors. Its

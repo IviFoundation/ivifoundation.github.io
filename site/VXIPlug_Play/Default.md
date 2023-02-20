@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # VXI*plug\&play*
 
 The VXI*plug\&play* Systems Alliance was an organization whose members
@@ -21,4 +24,4 @@ specifications and all ongoing work will be accomplished as part of the
 IVI Foundation.
 
 The current, IVI-maintained VISA specification is available at
-[Specifications](../specifications/default.md).
+[Specifications](../specifications/default.html).

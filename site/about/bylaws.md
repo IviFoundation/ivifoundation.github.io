@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Bylaws
 
 The IVI Foundation has adopted formal Bylaws to govern its activities.
@@ -22,7 +25,7 @@ conducted via email
 
 IVI's day-to-day activities are governed by IVI specification 1.2,
 Operating Procedures, available on the
-[Specifications](../specifications/default.md) page. This document
+[Specifications](../specifications/default.html) page. This document
 describes IVI Foundation rules and practices for conducting business.
 All discussions and business conducted in any forum within the
 foundation conforms to these procedures.
@@ -38,4 +41,4 @@ revised).
 
 For more information on IVI operating procedures, see the Operating
 Procedure Committee page: [Membership \> Committees \> Operating
-Procedures](../membership/operating_procedures_committee.md)
+Procedures](../membership/operating_procedures_committee.html)

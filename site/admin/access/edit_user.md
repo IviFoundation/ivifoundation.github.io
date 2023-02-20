@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # User Information
 
 ### Main Info:

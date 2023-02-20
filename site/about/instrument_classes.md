@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Instrument Classes
 
 To enable interchangeability, the foundation creates IVI class
@@ -24,4 +27,4 @@ extending the scope of current specifications to cover more instrument
 functionality.
 
 Instrument class specifications are available on the
-[Specifications](../specifications/default.md) page.
+[Specifications](../specifications/default.html) page.

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Shared Components
 
 To improve users' experience when they combine drivers and other
@@ -27,7 +30,7 @@ IVI-COM, IVI-C, or IVI.NET drivers. The IVI Shared Components require
 | [IviSharedComponents\_300.exe](../downloads/Shared%20Components/IviSharedComponents_300.exe)                                   | This file is an executable installer that installs the IVI Shared Components on either a 32-bit or 64-bit system.This executable installer installs the same components as the MSI package. |
 | [Cleanup Utility](../downloads/Shared%20Components/x86/CleanupUtility.exe)                                                     | Utility used to uninstall the IVI Shared Components version 2.2.1 or greater.                                                                                                               |
 | [IVI Shared Components Release Notes](../downloads/Shared%20Components/IVI%20Shared%20Components%20Release%20Notes%203.0.docx) | This document provides information on the current and previous versions of the IVI Shared Components, including known issues.                                                               |
-| [Older IVI Shared Components Versions](OlderIviSharedComponents.md)                                                          | Download older versions of the IVI Shared Components.                                                                                                                                       |
+| [Older IVI Shared Components Versions](OlderIviSharedComponents.html)                                                          | Download older versions of the IVI Shared Components.                                                                                                                                       |
 
   
   
@@ -45,7 +48,7 @@ greater.
 | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [IviNetSharedComponents\_200.exe](../downloads/Shared%20Components/IviNetSharedComponents_200.exe)                               | This file is an executable installer that installs the IVI.NET Shared Components on either a 32-bit or 64-bit system. The IVI Shared Components 2.0.0 or greater (links above) **must be installed before installing the IVI.NET Shared Components**. |
 | [IVI.NET Shared Components Release Notes](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues.                                                                                                                     |
-| [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.md)                                                     | Download older versions of the IVI.NET Shared Components.                                                                                                                                                                                             |
+| [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.html)                                                     | Download older versions of the IVI.NET Shared Components.                                                                                                                                                                                             |
 
   
   

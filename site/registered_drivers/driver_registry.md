@@ -1,6 +1,9 @@
+---
+layout: default
+---
 # Driver Registry
 
-[](register_driver.md)
+[](register_driver.html)
 
 [![RSS Feed](../images/rss.gif)](driver_registry_feed.ashx)This page
 lists the drivers registered with the IVI Foundation. Information in

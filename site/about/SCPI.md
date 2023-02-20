@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SCPI Consortium
 
 The Standard Commands for Programmable Instrumentation (SCPI) Consortium

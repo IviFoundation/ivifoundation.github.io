@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # News
 
 **Recent IVI News:**
@@ -10,4 +13,4 @@
 
 **Prior IVI Press Releases:**
 
-Go to the [IVI News Archive](news_archive.md)
+Go to the [IVI News Archive](news_archive.html)

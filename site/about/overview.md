@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Overview
 
 The IVI standards define an open driver architecture, a set of

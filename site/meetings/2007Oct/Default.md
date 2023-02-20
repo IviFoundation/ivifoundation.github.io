@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # October 2007 Meeting Information
 
   

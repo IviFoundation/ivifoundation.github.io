@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+---
+layout: default
+---
 
 # Driver Architecture
 
@@ -18,7 +21,7 @@ instrument specific capabilities that are not standardized by the
 foundation and that are unique to a particular instrument. Inherent
 capabilities are described in IVI 3.2: Inherent Capabilities
 specification, available on the
-[Specifications](../specifications/default.md) Page.
+[Specifications](../specifications/default.html) Page.
 
 In addition to these inherent and instrument specific capabilities, IVI
 drivers can comply with an instrument class specification to support the
@@ -62,4 +65,4 @@ configuration.
 
 To learn more about IVI driver architecture, see the IVI architecture
 specifications, available on the
-[Specifications](../specifications/default.md) page.
+[Specifications](../specifications/default.html) page.

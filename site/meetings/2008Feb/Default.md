@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # IVI Foundation Meeting - Las Vegas - February 6-8, 2008
 
  

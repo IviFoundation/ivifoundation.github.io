@@ -1,8 +1,11 @@
+---
+layout: default
+---
 # Older IVI.NET Shared Components
 
 This page provides access to older versions of the IVI.NET Shared
 Components. To access the latest release, please see the main [Shared
-Components](Default.md) page.
+Components](Default.html) page.
 
 ## IVI.NET Shared Components (32-bit) -- Older Versions
 

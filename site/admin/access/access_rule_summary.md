@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Website Access Security Summary
 
 <table>

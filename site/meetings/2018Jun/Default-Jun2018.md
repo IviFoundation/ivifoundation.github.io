@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <div id="rightCol0">
 
 <div data-align="center">

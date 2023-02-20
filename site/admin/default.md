@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # IVI Administration
 
 This is the administration area of the IVI website. Please use the menu

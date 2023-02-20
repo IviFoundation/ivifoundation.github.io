@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # News Administration
 
 Add News
