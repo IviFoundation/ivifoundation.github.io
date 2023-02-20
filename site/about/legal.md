@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: Legal
+nav_order: 9
 ---
 # Legal
 

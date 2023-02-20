@@ -1,5 +1,9 @@
 ---
 layout: default
+parent: About
+title: Charter
+nav_order: 3
+
 ---
 # Charter
 

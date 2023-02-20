@@ -1,5 +1,8 @@
 ---
 layout: default
+nav_order: 13
+title: Shared Components
+has_children: true
 ---
 # Shared Components
 

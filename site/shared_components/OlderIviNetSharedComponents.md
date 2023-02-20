@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: Shared Components
+title: Older .NET Shared Components
+nav_order: 3
 ---
 # Older IVI.NET Shared Components
 

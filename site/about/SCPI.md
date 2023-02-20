@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: SCPI
+nav_order: 7
 ---
 # SCPI Consortium
 

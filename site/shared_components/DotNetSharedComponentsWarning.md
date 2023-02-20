@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: Shared Components
+title: .NET Shared Components Warning
+nav_order: 1
 ---
 # .NET Shared Components Warning
 

@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: Architecture Overview
+nav_order: 4
 ---
 
 # Driver Architecture

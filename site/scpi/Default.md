@@ -1,5 +1,7 @@
 ---
 layout: default
+title: IVI SCPI Standard
+nav_order: 12
 ---
 # SCPI Consortium
 

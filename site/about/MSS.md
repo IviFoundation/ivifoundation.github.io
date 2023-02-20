@@ -1,5 +1,9 @@
 ---
 layout: default
+parent: About
+title: Measurement & Stimulus for Interchangeability
+nav_order: 2
+
 ---
 # Measurement & Stimulus Subsystems (IVI-MSS)
 

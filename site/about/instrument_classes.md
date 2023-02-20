@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: Instrument Classes
+nav_order: 5
 ---
 # Instrument Classes
 

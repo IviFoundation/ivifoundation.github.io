@@ -1,5 +1,8 @@
 ---
 layout: default
+nav_order: 0.9
+title: About
+has_children: true
 ---
 # About IVI
 

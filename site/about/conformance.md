@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: Conformance
+nav_order: 6
 ---
 # Conformance
 

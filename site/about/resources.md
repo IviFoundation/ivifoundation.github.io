@@ -1,9 +1,9 @@
 ---
 layout: default
+parent: About
+title: Corporate Contacts
+nav_order: 10
 ---
-<div id="visDiv" data-runat="server">
-
-</div>
 
 # Resources
 
@@ -16,9 +16,6 @@ to help you:
   - Find IVI technical information and code samples
   - Learn more about exciting IVI applications
 
-<div class="basicLine">
-
-</div>
 
 [Keysight Technologies](http://www.keysight.com/find/ivi)  
 Keysight Technologies provides IVI-COM drivers for its instruments as
@@ -66,9 +63,6 @@ An industry leader in VXI instrumentation and system integration,
 Teradyne is committed to the support of open standards such as IVI,
 VXIPlug\&Play, and XML. Click here for more information.
 
-<div class="basicLine">
-
-</div>
 
 Notes:
 
