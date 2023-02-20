@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
----
-layout: default
----
 
 # Driver Architecture
 

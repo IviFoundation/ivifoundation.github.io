@@ -88,7 +88,7 @@ enable_copy_code_button: true
 # By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
 mermaid:
   # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  # Pick an available vasfafsaersion from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
   # See also docs/ui-components/code
@@ -182,5 +182,3 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-Footer
-© 2023 GitHub, Inc. 
