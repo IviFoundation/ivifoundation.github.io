@@ -1,5 +1,7 @@
 ---
 layout: default
+nav_order: 0
+Title: "IVI Website"
 ---
 
 

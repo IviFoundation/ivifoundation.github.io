@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 1
+title: Contact Us
 ---
 # Contact Us
 

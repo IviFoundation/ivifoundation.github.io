@@ -1,5 +1,7 @@
 ---
 layout: default
+nav_order: 0.1
+title: "Dummy page"
 ---
 
 # Hello World!

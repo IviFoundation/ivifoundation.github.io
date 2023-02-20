@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 0
+title: Login
 ---
 <div id="homeRightCol">
 
