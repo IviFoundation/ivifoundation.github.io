@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Driver Architecture
 
 IVI drivers provide many capabilities that go beyond those of
