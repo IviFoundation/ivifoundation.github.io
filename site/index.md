@@ -12,5 +12,6 @@ Tested by Alejandro on 2023-02-08.
 
 ## Hello from the Infrastructure WG!
 
+## You can enter the draft IVI website here:
 
-[about](about/default.html)
+[Main IVI Website](Default.html)
