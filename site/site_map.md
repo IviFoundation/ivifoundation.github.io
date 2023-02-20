@@ -3,12 +3,15 @@ layout: default
 nav_order: 4
 title: site map
 ---
+# IVI Site Map
 
-# Navigation Structure
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-TOC
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
 {:toc}
+</details>
