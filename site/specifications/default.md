@@ -267,7 +267,7 @@ SCPI-99
 
  
 
-[PDF](../docs/scpi-99.pdf)
+[PDF](../downloads/SCPI/scpi-99.pdf)
 
  
 
