@@ -51,7 +51,7 @@ jobs:
       #   working-directory: ./site
       - name: Build with Jekyll
         # Defaults output to '/_site'
-        run: bundle exec jekyll build --profile --trace
+        run: bundle exec jekyll build --baseurl / --profile --trace
         #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
         working-directory: ./site
         env:
