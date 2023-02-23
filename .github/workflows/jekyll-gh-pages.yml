@@ -34,6 +34,7 @@ jobs:
           ruby-version: "3.1"
           # Runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
+          working-directory: ./site
       - name: Version info
         run: |
           ruby --version
