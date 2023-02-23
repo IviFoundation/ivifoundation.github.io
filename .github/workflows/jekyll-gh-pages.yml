@@ -43,13 +43,16 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+        with:
+          working-directory: ./site
       # ACB: Revisit this. Currently giving errors like: https://github.com/IviFoundation/ivifoundation.github.io/actions/runs/4251400207/jobs/7393701919
       # - name: Checking Jekyll configuration
       #   run: bundle exec jekyll doctor
       #   working-directory: ./site
       - name: Build with Jekyll
         # Defaults output to '/_site'
-        run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
+        run: bundle exec jekyll build --baseurl https://dev.ivifoundation.org --profile --trace
+        #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
         working-directory: ./site
         env:
           JEKYLL_ENV: production
