@@ -1,0 +1,9 @@
+Windows 2000: Service Pack 3 (MSI installer)
+Windows 2000: no service packs (EXE installer)
+
+Note: The essential requirement is MSI 2.0, which is available in Windows 2000 SP3 and pre-installed by the EXE version of the IVI Shared Component Installer. 
+
+Windows XP: no service packs 
+Windows Vista: no service packs
+Windows 7: no service packs
+Microsoft .NET Framework:  2.0

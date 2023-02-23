@@ -1,0 +1,7 @@
+VISA Shared Components for Linux
+
+Version 7.0.0,  November, 2018
+   (1) Initial Release
+   
+-------------------------------------
+Known Issues

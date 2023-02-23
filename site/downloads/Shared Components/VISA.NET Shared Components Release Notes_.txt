@@ -1,0 +1,37 @@
+---------------------------------------
+VISA.NET Shared Components Release Notes
+---------------------------------------
+
+Version 7.2, September 2022
+
+1) Added support for HiSLIP 2.0 and secure I/O connections
+2) Added support for IPxiSession2
+
+Version 5.11, February 2019
+
+1) Prevent installation on Windows Vista and earlier.
+2) Fixed an issue where the formatted I/O floating point radix character was determined by the default culture.
+
+Version 5.8, November 2016
+
+1) Fixed an issue where the setter for the ReadBufferSize property of MessageBasedFormattedIO
+sets WriteBufferSize of the internal ReaderWriter.
+
+Version 5.7, May 2016
+
+1) Added support for PXI trigger lines TTL8-TTL11.
+
+Version 5.6, May 2015
+
+1) Fixed formatted read operations to handle timeout exceptions correctly if the read buffer was empty.
+2) Fixed global resource manager to report the correct implementation and specification versions.
+
+Version 5.5, January 2015
+
+1) Initial release
+
+---------------------------------------
+Known Issues
+---------------------------------------
+
+None
