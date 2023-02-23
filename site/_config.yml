@@ -1,6 +1,7 @@
 title: IVI Foundation
 description: Incorporating Jekyll just-the-docs them into md derived from old site
 theme: just-the-docs
+baseurl: ""
 
 # This causes some sort of problem with the md->html generation (?) commenting out for now (JEM 2023-02-19)
 #permalink: pretty
@@ -34,7 +35,7 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/images/square-logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
