@@ -41,6 +41,6 @@ Role Control Modules.
 **Additional Information:**
 
 MSS overview presentation: [IVI-MSS
-Overview](../docs/MSS-Overview.pdf)  
+Overview](../assets/docs/MSS-Overview.pdf)  
 Download the full IVI-MSS specification at:
 [Specifications](../specifications/default.html)
