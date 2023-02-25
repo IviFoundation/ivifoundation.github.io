@@ -36,10 +36,10 @@ Release](http://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release
 
 
 
-### VXI*plug\&play*<span class="style1"> </span>
+### VXI*plug&play*<span class="style1"> </span>
 
 
-The VXI*plug\&play* Systems Alliance was an organization whose members
+The VXI*plug&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
 VXI systems. For more information, [click
 here](http://ivifoundation.org/VXIPlug_Play/default.html).
