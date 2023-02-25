@@ -37,6 +37,11 @@ exclude:
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/images/square-logo.png"
 
+
+# Put in  a favicon 
+favicon_ico: "/images/favicon.ico"
+
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -113,7 +118,6 @@ footer_content: "IVI Foundation -- Dedicated to simplifying test system developm
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
 
 
 # Footer "Edit this page on GitHub" link text
