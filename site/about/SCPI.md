@@ -22,11 +22,6 @@ VXIbus or LAN networks.
 
 The SCPI Consortium voted to become part of the IVI Foundation in late
 2002 and the IVI Foundation Board of Directors voted to accept the
-merger in the spring of 2003. Annual meetings of the SCPI Consortium
-have been meeting in conjunction with the IVI Foundations meetings since
-2002. IVI has assumed control of the SCPI specifications and all ongoing
-work will be accomplished as part of the IVI Foundation. SCPI will
-continue to support a separate web site for the SCPI Consortium until
-this merger is well communicated to the industry. For more details about
-the SCPI Consortium and its specifications, please visit
-[www.scpiconsortium.org](www.scpiconsortium.org).
+merger in the spring of 2003. IVI has assumed control of the SCPI 
+specifications and all ongoing
+work will be accomplished as part of the IVI Foundation.
