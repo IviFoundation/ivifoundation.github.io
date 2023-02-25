@@ -23,7 +23,7 @@ For details on these updates:
 
 [Press
 Release](http://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release.pdf)
-- IVI and LXI Leading the T\&M Industry in Security Standardization
+- IVI and LXI Leading the T&M Industry in Security Standardization
 
 
 
@@ -46,9 +46,6 @@ here](http://ivifoundation.org/VXIPlug_Play/default.html).
 
  
 
-###  
-
-###  
 
 ### SCPI
 
@@ -85,55 +82,6 @@ system suppliers, and system integrators.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="clear">
-
-</div>
-
-</div>
-
-</div>
-
-<div id="homeRightCol" style="height: 539px">
-
-<div id="loginArea">
-
-<span>Login</span>
-
-<div style="font-size: 8px;">
-
- 
-
-</div>
-
-  Email:
-\* Password:
-\*
-[Create an account](membership/create_member.html)   [Forgot
-Password](membership/recoverpassword.html)
-
-</div>
-
-<div class="failureText">
-
-</div>
-
-<div class="vertLineshort">
-
 ### Next IVI Meeting
 
  
@@ -143,16 +91,7 @@ Meeting**](http://www.ivifoundation.org/meetings/2023Feb/Default-FEB2023.html)
 
  
 
-</div>
-
-<div class="vertLineshort">
 
 [](downloads/IVI_GSG%20v1.01.pdf)
 
 [IVI Getting Started Guide](downloads/IVI-GSG-CurrentVersion.pdf)
-
- 
-
-</div>
-
-</div>

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: VXI Plug&Play
+title: VXI<em>plug&play</em>
 nav_order: 16
 ---
-# VXI*plug\&play*
+# VXI*plug&play*
 
-The VXI*plug\&play* Systems Alliance was an organization whose members
+The VXI*plug&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
 VXI systems. The alliance accomplished major improvements in ease of use
 by endorsing and implementing common standards and practices in both
@@ -16,12 +16,12 @@ play" interoperability at both the hardware and system software level.
 
 **Integration into the IVI Foundation**
 
-The VXI*plug\&play* Systems Alliance voted to become part of the IVI
+The VXI*plug&play* Systems Alliance voted to become part of the IVI
 Foundation in late 2002 and the IVI Foundation Board of Directors voted
 to accept the merger in the spring of 2003. The VISA technical committee
-of the VXI*plug\&play* Systems Alliance has been meeting in conjunction
+of the VXI*plug&play* Systems Alliance has been meeting in conjunction
 with the IVI Foundations meetings since 2002, and it is now formally
-integrated into IVI IVI has assumed control of the VXI*plug\&play*
+integrated into IVI IVI has assumed control of the VXI*plug&play*
 specifications and all ongoing work will be accomplished as part of the
 IVI Foundation.
 

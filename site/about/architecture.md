@@ -8,7 +8,7 @@ nav_order: 4
 # Driver Architecture
 
 IVI drivers provide many capabilities that go beyond those of
-VXIplug\&play drivers. The IVI specifications have been developed to
+VXI*plug&play* drivers. The IVI specifications have been developed to
 enable drivers with a consistent and high standard of quality,
 usability, and completeness. The specifications define advanced features
 such as instrument simulation, state caching, automatic range checking,

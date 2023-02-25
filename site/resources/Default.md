@@ -242,7 +242,7 @@ oscilloscopes and other compliant instruments and software.
 [Teradyne](http://www.teradyne.com/militaryaerospace/)  
 An industry leader in VXI instrumentation and system integration,
 Teradyne is committed to the support of open standards such as IVI,
-VXIPlug\&Play, and XML. Click here for more information.
+VXI*Plug&Play*, and XML. Click here for more information.
 
 <span class="style2">[VTI
 Instruments](http://www.vtiinstruments.com/)</span>  
