@@ -35,11 +35,11 @@ exclude:
    - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/square-logo.png"
+logo: "/images/square-logo.png"
 
 
 # Put in  a favicon 
-favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "/images/favicon.ico"
 
 
 # Enable or disable the site search

@@ -42,7 +42,7 @@ which supports instrument exchange with minimal code changes. The
 highest level of interchangeability is achieved by using the IVI signal
 specifications.
 
-![](../assets/images/Interchangeability.jpg)
+![](../images/Interchangeability.jpg)
 
 **More Information**
 
