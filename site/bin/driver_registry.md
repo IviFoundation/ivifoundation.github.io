@@ -5,7 +5,7 @@ layout: default
 
 [](register_driver.html)
 
-[![RSS Feed](../images/rss.gif)](driver_registry_feed.ashx)This page
+[![RSS Feed](../assets/images/rss.gif)](driver_registry_feed.ashx)This page
 lists the drivers registered with the IVI Foundation. Information in
 this list is updated autmatically; for concerns or corrections, contact
 the IVI Foundation.
