@@ -3,26 +3,17 @@ layout: default
 nav_order:  4
 title: More Information
 ---
-# Resources
+This page identifies various resources for learning more about IVI and the
+IVI standards.
 
- 
+## Contents
+{: .no_toc .text-delta }
 
-**Resources Content Index**  
-  
 
-IVI Instrument Driver Fundamentals Course
 
-IVI Getting Started Guides
+1. TOC
+{:toc}
 
-IVI Getting Started Guides Training Videos
-
-White Papers
-
-Autotestcon 2012 Presentations
-
-Upgrading to Windows 7 - How it Impacts your IVI and VISA Installations
-
-IVI Driver Assistance from Member Companies
 
 ## IVI Instrument Driver Fundamentals Course
 
@@ -175,8 +166,7 @@ Autotestcon-2016](http://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autot
 here](http://www.ivifoundation.org/resources/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
 VISA Installations.pdf"
-
-##  
+ 
 
 ## IVI Driver Assistance from Member Companies
 

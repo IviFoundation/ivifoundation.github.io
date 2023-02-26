@@ -3,17 +3,29 @@ layout: default
 title: Specifications
 nav_order:  3
 ---
-# IVI Specifications
 
-This page has links to all of the current IVI specifications, including specifications for drivers, protocols, SCPI, and VXI*plug&play*.
+This page has links to all of the current IVI specifications, including 
+specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
-**Operating & Legal:**
+# Specifications
+{: .no_toc .text-delta }
+
+
+
+
+
+1. TOC
+{:toc}
+
+# IVI Driver Specifications
+
+## Operating & Legal
 
 | Specification  | Word | PDF |
 |:---------------|:-----|:----|
 |IVI-1.2: Operating Procedures|[Word](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.docx)|[PDF](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.pdf)|
 
-**IVI Specification Generations:**
+## IVI Specification Generations
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -23,7 +35,7 @@ This page has links to all of the current IVI specifications, including specific
 |IVI-2014| [Word](../downloads/IVI%20Generations/IVI%202014.docx)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
 |IVI-2003|[Word](../downloads/IVI%20Generations/IVI-2003.docx)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)
 
-**Architecture:**
+## Architecture
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -42,7 +54,7 @@ This page has links to all of the current IVI specifications, including specific
 |IVI-5.0: Glossary|[Word](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.pdf)|
 |IVI-3.7: IVI Event Server|Obsolete|||
 
-**Instrument Classes:**
+## Instrument Classes
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -60,7 +72,7 @@ This page has links to all of the current IVI specifications, including specific
 |IVI-4.14: IviUpconverter Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.14_Upconverter_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.14_Upconverter_2016-10-14.pdf)|
 |IVI-4.15: IviDigitizer Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.15_IviDigitizer_2019-06-07.docx)|[PDF](../downloads/Class%20Specifications/IVI-4.15_IviDigitizer_2019-06-07.pdf)|
 
-**IVI Protocol Specifications:**
+# IVI Protocol Specifications
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -70,14 +82,14 @@ This page has links to all of the current IVI specifications, including specific
 |IVI-6.4: IVI File Format Specification|[Word](../downloads/Protocol%20Specifications/IVI-6.4_FileFormat_2014_03_07.docx)|[PDF](../downloads/Protocol%20Specifications/IVI-6.4_FileFormat_2014_03_07.pdf)|
 |IVI-6.5: SASL Mechanism Specification|[Word](../downloads/Protocol%20Specifications/IVI-6.5_SASLMechanismSpecification_2022-05-19.docx)|[PDF](../downloads/Protocol%20Specifications/IVI-6.5_SASLMechanismSpecification_2022-05-19.pdf)|
 
-# **Standard Commands for Programmable Instruments (SCPI):**
+# Standard Commands for Programmable Instruments (SCPI)
 The SCPI specifications, formerly maintained by the SCPI Consortium are now maintained by the IVI Foundation.
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
 |SCPI-99||[PDF](../downloads/SCPI/scpi-99.pdf)|
 
-# **VXI*plug&play* Specifications:**
+# VXI*plug&play* Specifications
 The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Systems Alliance are now maintained by the IVI Foundation.
 
 # VISA Specifications
