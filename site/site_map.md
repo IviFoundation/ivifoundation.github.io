@@ -1,11 +1,10 @@
 ---
 layout: default
-nav_order: 4
-title: Site map
 ---
+[//]: It's not clear that 'Just  the Docs' theme either needs or supports a TOC (JM)
+
 # IVI Site Map
 
-{: .no_toc }
 
 <details open markdown="block">
   <summary>
