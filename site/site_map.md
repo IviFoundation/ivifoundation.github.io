@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 4
-title: site map
+title: Site map
 ---
 # IVI Site Map
 

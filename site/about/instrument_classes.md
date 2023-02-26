@@ -2,7 +2,7 @@
 layout: default
 parent: About
 title: Instrument Classes
-nav_order: 5
+nav_order:  4
 ---
 # Instrument Classes
 

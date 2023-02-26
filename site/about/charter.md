@@ -2,7 +2,7 @@
 layout: default
 parent: About
 title: Charter
-nav_order: 3
+nav_order:  1
 
 ---
 # Charter

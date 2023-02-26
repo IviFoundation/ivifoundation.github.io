@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 0.9
+nav_order:  1
 title: About
 has_children: true
 ---

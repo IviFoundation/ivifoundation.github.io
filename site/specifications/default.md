@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Specifications
-nav_order: 15
+nav_order:  3
 ---
 # IVI Specifications
 

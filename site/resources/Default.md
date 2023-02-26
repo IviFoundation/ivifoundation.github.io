@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 11
+nav_order:  4
 title: More Information
 ---
 # Resources
