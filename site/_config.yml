@@ -155,8 +155,13 @@ callouts:
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
+  #- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-news-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  #- jekyll-github-metadata
 
 kramdown:
   syntax_highlighter_opts:

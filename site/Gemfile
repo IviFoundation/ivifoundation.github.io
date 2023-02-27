@@ -4,7 +4,18 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "webrick"
 
-gem "jekyll-github-metadata"
+# Get around this error: Could not find gem 'sass-embedded (= 1.58.3)' with platform 'x86_64-linux' in rubygems repository https://rubygems.org/ or installed locally.
+# gem "sass-embedded", "1.58.3", platforms: :x86_64_linux_musl
+
+#gem "jekyll-github-metadata"
+#gem "jekyll-seo-tag"
+
+gem "jekyll-sass-converter", "~> 2.0"
+gem "jekyll-sitemap"
+gem "jekyll-news-sitemap"
+gem "jekyll-titles-from-headings"
+gem "jekyll-optional-front-matter"
+gem "jekyll-default-layout"
 
 #gem "just-the-docs", "0.4.0" # pinned to the current release
 gem "just-the-docs"
