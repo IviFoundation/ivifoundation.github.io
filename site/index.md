@@ -89,9 +89,8 @@ system suppliers, and system integrators.
 [**February 6-9, 2023 Virtual
 Meeting**](assets/meetings/2023Feb/Default-FEB2023.html)
 
- 
+## Getting Started
 
-
-[](downloads/IVI_GSG%20v1.01.pdf)
-
-[IVI Getting Started Guide](downloads/IVI-GSG-CurrentVersion.pdf)
+For general information on getting started using IVI drivers, see the 
+[IVI Getting Started Guide](downloads/IVI-GSG-CurrentVersion.pdf).  For more
+information on the IVI standards, see [More Information](resources/Default.html).
