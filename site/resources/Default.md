@@ -132,7 +132,7 @@ Pro](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20Keysight%20VE
 ## White Papers
 
 [Understanding the Benefits of
-IVI](../docs/Understanding%20the%20Benefits%20of%20IVI%5B3%5D.pdf)  
+IVI](../assets/docs/Understanding%20the%20Benefits%20of%20IVI.pdf)  
 by Kirk G. Fertitta, Pacific Mindworks
 
  
