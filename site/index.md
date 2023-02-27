@@ -42,7 +42,7 @@ Release](http://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release
 The VXI*plug&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
 VXI systems. For more information, [click
-here](http://ivifoundation.org/VXIPlug_Play/default.html).
+here](VXIPlug_Play/Default.html).
 
  
 
@@ -53,7 +53,7 @@ The Standard Commands for Programmable Instrumentation (SCPI) Consortium
 was an organization whose members shared a common commitment to develop
 a common interface language between computers and test instruments. For
 more information, [click
-here](http://ivifoundation.org/scpi/default.html).
+here](scpi/Default.html).
 
 
 
@@ -87,7 +87,7 @@ system suppliers, and system integrators.
  
 
 [**February 6-9, 2023 Virtual
-Meeting**](http://www.ivifoundation.org/meetings/2023Feb/Default-FEB2023.html)
+Meeting**](assets/meetings/2023Feb/Default-FEB2023.html)
 
  
 
