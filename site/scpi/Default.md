@@ -29,5 +29,5 @@ specifications and all ongoing work will be accomplished as part of the
 IVI Foundation.
 
 To view/download SCPI, go to the
-[Specifications](http://www.ivifoundation.org/specifications/default.html)
+[Specifications](../specifications/default.html)
 page.
