@@ -2,7 +2,7 @@
 layout: default
 parent: About
 title: Conformance
-nav_order: 6
+nav_order:  6
 ---
 # Conformance
 
@@ -14,7 +14,7 @@ Registration](../registered_drivers/register_driver.html) page to
 register your driver. You will receive an email containing the Logo file
 when you complete the registration process.
 
-![IVI Conformant Logo](../images/IVI_Conformant_Logo.jpg)  
+![IVI Conformant Logo](../assets/images/IVI_Conformant_Logo.jpg)  
 IVI Conformant Logo
 
  

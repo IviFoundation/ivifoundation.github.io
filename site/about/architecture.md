@@ -1,14 +1,14 @@
 ---
 layout: default
 parent: About
-title: Architecture Overview
-nav_order: 4
+title: Driver Architecture
+nav_order:  3
 ---
 
 # Driver Architecture
 
 IVI drivers provide many capabilities that go beyond those of
-VXIplug\&play drivers. The IVI specifications have been developed to
+VXI*plug&play* drivers. The IVI specifications have been developed to
 enable drivers with a consistent and high standard of quality,
 usability, and completeness. The specifications define advanced features
 such as instrument simulation, state caching, automatic range checking,
@@ -38,7 +38,7 @@ To achieve interchangeability, users program to an IVI class interface
 available through an IVI class-compliant specific driver or a separate
 IVI class driver.
 
-![IVI Architecture](../images/IVI_Architecture.jpg)  
+![IVI Architecture](../assets/images/IVI_Architecture.jpg)  
 **IVI System Architecture**
 
 **Driver API**

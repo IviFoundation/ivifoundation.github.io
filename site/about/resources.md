@@ -17,7 +17,7 @@ to help you:
   - Learn more about exciting IVI applications
 
 
-[Keysight Technologies](http://www.keysight.com/find/ivi)  
+[Keysight Technologies](http://www.keysight.com/)  
 Keysight Technologies provides IVI-COM drivers for its instruments as
 well as software for instrument control. Click to download Agilent
 IVI-COM drivers, get application information and review software

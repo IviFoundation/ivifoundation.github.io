@@ -2,7 +2,7 @@
 layout: default
 parent: About
 title: Overview
-nav_order: 1
+nav_order:  2
 ---
 # Overview
 
@@ -42,9 +42,9 @@ which supports instrument exchange with minimal code changes. The
 highest level of interchangeability is achieved by using the IVI signal
 specifications.
 
-![](../images/Interchangeability.jpg)
+![](../assets/images/Interchangeability.jpg)
 
 **More Information**
 
 For a printable overview of IVI, view/download the [IVI TriFold Brochure
-2013](../docs/IVI%20TriFold%20Brochure%202013.pdf).
+2013](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).

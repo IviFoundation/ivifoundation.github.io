@@ -1,28 +1,19 @@
 ---
 layout: default
-nav_order: 11
+nav_order:  4
 title: More Information
 ---
-# Resources
+This page identifies various resources for learning more about IVI and the
+IVI standards.
 
- 
+## Contents
+{: .no_toc .text-delta }
 
-**Resources Content Index**  
-  
 
-IVI Instrument Driver Fundamentals Course
 
-IVI Getting Started Guides
+1. TOC
+{:toc}
 
-IVI Getting Started Guides Training Videos
-
-White Papers
-
-Autotestcon 2012 Presentations
-
-Upgrading to Windows 7 - How it Impacts your IVI and VISA Installations
-
-IVI Driver Assistance from Member Companies
 
 ## IVI Instrument Driver Fundamentals Course
 
@@ -175,8 +166,7 @@ Autotestcon-2016](http://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autot
 here](http://www.ivifoundation.org/resources/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
 VISA Installations.pdf"
-
-##  
+ 
 
 ## IVI Driver Assistance from Member Companies
 
@@ -242,7 +232,7 @@ oscilloscopes and other compliant instruments and software.
 [Teradyne](http://www.teradyne.com/militaryaerospace/)  
 An industry leader in VXI instrumentation and system integration,
 Teradyne is committed to the support of open standards such as IVI,
-VXIPlug\&Play, and XML. Click here for more information.
+VXI*Plug&Play*, and XML. Click here for more information.
 
 <span class="style2">[VTI
 Instruments](http://www.vtiinstruments.com/)</span>  

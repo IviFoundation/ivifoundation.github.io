@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 2
-title: privacy policy
+nav_order:  10
+title: Privacy policy
 ---
 # Privacy Policy
 
