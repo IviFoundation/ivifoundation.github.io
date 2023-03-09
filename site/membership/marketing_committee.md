@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Marketing Committee
 
 The marketing committee is a committee of members that reports to the

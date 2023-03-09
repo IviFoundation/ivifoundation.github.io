@@ -4,6 +4,7 @@ parent: About
 title: IPR Policy
 nav_order: 8
 ---
+
 # IPR Policy
 
 The IVI Foundation has adopted intellectual property rights policies and

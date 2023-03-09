@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Committees
 
 Virtually all work within the IVI foundation is done in Committees that

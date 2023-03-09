@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Technical Committee
 
 The IVI Technical Committee is perhaps the most important group of all

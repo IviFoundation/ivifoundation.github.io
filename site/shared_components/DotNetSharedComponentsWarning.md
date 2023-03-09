@@ -4,6 +4,7 @@ parent: Shared Components
 title: .NET Shared Components Warning
 nav_order: 1
 ---
+
 # .NET Shared Components Warning
 
 A warning is generated when building a .NET project

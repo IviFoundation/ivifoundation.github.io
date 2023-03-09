@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # How To Join
 
 If you or your company would like to be part of this exciting

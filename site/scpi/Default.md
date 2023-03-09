@@ -3,6 +3,7 @@ layout: default
 title: IVI SCPI Standard
 nav_order:  8
 ---
+
 # SCPI Consortium
 
 The Standard Commands for Programmable Instrumentation (SCPI) Consortium

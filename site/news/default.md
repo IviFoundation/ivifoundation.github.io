@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # News
 
 **Recent IVI News:**

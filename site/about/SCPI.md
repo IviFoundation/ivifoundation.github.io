@@ -4,6 +4,7 @@ parent: About
 title: SCPI
 nav_order: 7
 ---
+
 # SCPI Consortium
 
 The Standard Commands for Programmable Instrumentation (SCPI) Consortium

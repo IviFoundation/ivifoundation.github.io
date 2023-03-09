@@ -4,6 +4,7 @@ parent: About
 title: Instrument Classes
 nav_order:  4
 ---
+
 # Instrument Classes
 
 To enable interchangeability, the foundation creates IVI class
