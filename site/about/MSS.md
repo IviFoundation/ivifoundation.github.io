@@ -39,9 +39,8 @@ In addition to these common components, IVI-MSS solutions include two
 solution specific components called Measurement or Stimulus Servers and
 Role Control Modules.
 
-**Additional Information:**
+## Additional Information:
 
 MSS overview presentation: [IVI-MSS Overview](../assets/docs/MSS-Overview.pdf)
 Download the full IVI-MSS specification at:
 [Specifications](../specifications/default.html)
-

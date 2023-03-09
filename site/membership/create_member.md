@@ -6,19 +6,19 @@ layout: default
 
 Sign Up for Your New Account
 
-**First Name:**
+## First Name:
 
-**Last Name:**
+## Last Name:
 
-**Company Name:**
+## Company Name:
 
 Position Title:
 
-**Street Address 1:**
+## Street Address 1:
 
 Street Address 2:
 
-**City:**
+## City:
 
 \*
 
@@ -33,9 +33,9 @@ Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South
 Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia
 Wisconsin Wyoming Not Applicable
 
-**Zip/Postal Code:**
+## Zip/Postal Code:
 
-**Country:**
+## Country:
 
 Select Country
 
@@ -62,4 +62,3 @@ Security Answer:
 \*
 
 User Name:
-

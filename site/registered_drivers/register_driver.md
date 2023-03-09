@@ -36,45 +36,45 @@ description of the various fields.
 Note on updating an entry: You can update an entry simply by filling out
 this form again.
 
-**Instrument Class**
+## Instrument Class
 
 \* Instrument class is required.
 
-**Instrument Manufacturer:**
+## Instrument Manufacturer:
 
 \* Instrument manufacturer is required.
 \* Other instrument manufacturer is required.
 
-**Supported Models:**
+## Supported Models:
 
 \* Supported Models is required.
 
-**Driver Vendor:**
+## Driver Vendor:
 
 \* Driver vendor is required.
 \* Other driver vendor is required.
 
-**Driver Type:**
+## Driver Type:
 
 \* Driver type is required.
 
-**Driver Generation:**
+## Driver Generation:
 
 \* Driver generation is required.
 
-**Compliance File:**
+## Compliance File:
 
 \* Compliance file is required.
 
-**Download Link:**
+## Download Link:
 
 \* Download Link is required.
 
-**Driver Owner:**
+## Driver Owner:
 
 \* Driver owner is required.
 
-**Driver Contact Information**
+## Driver Contact Information
 Driver Contact Information is treated as confidential, in accordance
 with the IVI Privacy Policy. The contact person will be the official
 contact for any communication from the IVI Foundation regarding this
@@ -89,4 +89,3 @@ SelectCommand="SELECT \* FROM \[DriverGeneration\] ORDER BY
 \[DriverGeneration\]"\> SelectCommand="SELECT \* FROM \[DriverVendor\]
 ORDER BY \[Vendor\]"\> SelectCommand="SELECT \[UserId\], \[UserName\]
 FROM \[vw\_aspnet\_Users\] ORDER BY \[UserName\]"\>
-
