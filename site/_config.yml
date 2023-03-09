@@ -13,6 +13,7 @@ exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
    - .jekyll-cache/
+   - .jekyll-metadata
    - gemfiles/
    - Gemfile
    - Gemfile.lock
@@ -38,7 +39,7 @@ exclude:
 logo: "/assets/images/square-logo.png"
 
 
-# Put in  a favicon 
+# Put in a favicon
 favicon_ico: "/assets/images/favicon.ico"
 
 
@@ -167,6 +168,7 @@ kramdown:
     block:
       line_numbers: false
 
+# Compression docs: http://jch.penibelst.de/
 compress_html:
   clippings: all
   comments: all
@@ -174,5 +176,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-  # ignore:
-  #   envs: all
+
+  # Compressing the site makes HTML generation go from 30 seconds to 3 minutes. Let's only do that in production.
+  ignore:
+    envs:
+      - development
