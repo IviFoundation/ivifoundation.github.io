@@ -32,3 +32,4 @@ functionality.
 
 Instrument class specifications are available on the
 [Specifications](../specifications/default.html) page.
+

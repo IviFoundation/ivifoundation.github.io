@@ -29,14 +29,11 @@ The IVI Shared Components are required for use or development of
 IVI-COM, IVI-C, or IVI.NET drivers. The IVI Shared Components require
 .NET Framework version 2.0 or greater.
 
-
 |-- | --------- |
 | [IviSharedComponents\_300.exe](../downloads/Shared%20Components/IviSharedComponents_300.exe)  | This file is an executable installer that installs the IVI Shared Components on either a 32-bit or 64-bit system.This executable installer installs the same components as the MSI package. |
 | [Cleanup Utility](../downloads/Shared%20Components/x86/CleanupUtility.exe)  | Utility used to uninstall the IVI Shared Components version 2.2.1 or greater.                                                                                                               |
 | [IVI Shared Components Release Notes](../downloads/Shared%20Components/IVI%20Shared%20Components%20Release%20Notes%203.0.docx) | This document provides information on the current and previous versions of the IVI Shared Components, including known issues.    |
 | [Older IVI Shared Components Versions](OlderIviSharedComponents.html) | Download older versions of the IVI Shared Components.                                                                                                                                       |
-
-
 
 **IVI.NET Shared Components**
 
@@ -48,13 +45,10 @@ Components**.
 The IVI.NET Shared Components require .NET Framework version 2.0 or
 greater.
 
-
 | ------------ | --------------- |
 | [IviNetSharedComponents\_200.exe](../downloads/Shared%20Components/IviNetSharedComponents_200.exe)                               | This file is an executable installer that installs the IVI.NET Shared Components on either a 32-bit or 64-bit system. The IVI Shared Components 2.0.0 or greater (links above) **must be installed before installing the IVI.NET Shared Components**. |
 | [IVI.NET Shared Components Release Notes](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues.                                                                                                                     |
 | [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.html)                                                     | Download older versions of the IVI.NET Shared Components.                                                                                                                                                                                             |
-
-
 
 **VISA and VISA.NET Shared Components**
 
@@ -70,8 +64,6 @@ these installers separately.
 | [VISA.NET Shared Components Release Notes](../downloads/Shared%20Components/VISA.NET%20Shared%20Components%20Release%20Notes_.txt) | This document provides information on the current and previous versions of the VISA.NET Shared Components, including known issues. |
 | [VISA Cleanup Utility](../downloads/Shared%20Components/VisaCleanupUtility_7.1.1_.exe)                                             | Utility used to uninstall the VISA Shared Components.                                                                              |
 
-
-
 **VISA Shared Components for Linux**
 
 VISA Shared Components for Linux install common components needed to
@@ -83,8 +75,6 @@ to use these installers separately.
 
 | ------------ | --------------- |
 | [VISA Shared Components for Linux Release Notes](../downloads/Shared%20Components/VISA%20Shared%20Components%20for%20Linux%20Release%20Notes.txt) | This document provides information on the current and previous versions of the VISA Shared Components for Linux, including known issues. |
-
-
 
 **USBTMC Kernel Driver Packages for Linux**
 
@@ -108,9 +98,9 @@ The latest versions of the Shared Components do not officially support
 Windows XP or Windows Vista. The table below lists the last version of
 each of the Shared Components that support Windows XP and Windows Vista.
 
-
 | -------------------------- | ----- |
 | IVI Shared Components      | 2.3.0 |
 | IVI.NET Shared Components  | 1.1.2 |
 | VISA Shared Components     | 5.6.0 |
 | VISA.NET Shared Components | 5.6.0 |
+

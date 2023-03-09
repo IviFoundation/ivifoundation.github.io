@@ -31,3 +31,4 @@ possible to users. This feedback is the main task of the [Users Committee](user_
 
 Finally the [Operating Procedures Committee](operating_procedures_committee.html) is working to formalize
 and streamline IVI's internal operating procedures and policies.
+

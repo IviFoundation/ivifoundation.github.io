@@ -28,3 +28,4 @@ an invoice. Your membership will start when check is received.
 [IVI Membership By-laws](../about/bylaws.html)
 
 [IVI Membership Application](../downloads/Operating-Legal/IVI%20Membership%20Application%202016OCT20.docx)
+

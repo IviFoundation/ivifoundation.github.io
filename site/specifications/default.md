@@ -10,10 +10,6 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 # Specifications
 {: .no_toc .text-delta }
 
-
-
-
-
 1. TOC
 {:toc}
 
@@ -119,5 +115,5 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-9: Instrument Vendor Abbreviations|[Word](../docs/vpp9_4.32_2022-03-02.docx)|[PDF](../docs/vpp9_4.32_2022-03-02.pdf)|
 |VPP-A: Operating Procedures (obsolete - Feb. 2008)| na | na |
 
-
 **Note:**  More information can be found on the VXI specification at:<http://vxibus.org/specifications.html>
+

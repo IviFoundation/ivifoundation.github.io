@@ -31,9 +31,6 @@ Business/Technical Contact: [ Dr. Christian Hoelzl](mailto:%20christian.hoelzl@r
 Phone: +49 89 4129 11555
 Fax: +49 89 4129 61555
 
-
-
-
 <span id="general"></span>**General Members**
 
 **Astronics Test Systems**
@@ -57,7 +54,6 @@ Technical Contact: Torsten Rissel
 Phone: +353 61 707 102
 Fax: +353 61 707 106
 
-
 **MathWorks
 **3 Apple Hill Drive
 Natick, MA 01760
@@ -65,7 +61,6 @@ Web Page: [www.mathworks.com](http://www.mathworks.com)
 Business/Technical Contact: Sean Sullivan
 Phone: 508-647-7959
 Fax: 508-647-7001
-
 
 **Pacific MindWorks, Inc.
 **16870 West Bernardo Drive Suite 380
@@ -91,14 +86,6 @@ Web Page: [www.teradyne.com](http://www.teradyne.com)
 Business/Technical Contact: Teresa Lopes
 Phone: 978-370-1377
 Fax: 978-370-1100
-
-
-
-
-
-
-
-
 
 <span id="associate"></span>**Associate Members**
 
@@ -149,7 +136,6 @@ Technical Contact: Makoto Kondo
 Phone: 81 45-593-7502
 Fax: 81 45-593-0207
 
-
 **<span style="height: 98px">**NF Corporation**
 </span>**6-3-20 Tsunashima Higashi Kohoku-ku
 Yokohama 223-8508
@@ -188,7 +174,6 @@ Technical Contact: Oliver Rovini
 Phone: +49 4102 6956 0
 Fax: +49 4102 6956 66</span>
 
-
 **Technical Software Engineering Plazotta GmbH**
 Hopfenstr. 30, 85283 Wolnzach
 Germany
@@ -196,3 +181,4 @@ Web Page: [http://www.tsep.com](http://www.tsep.com/)
 Technical Contact:
 David Courtney
 Phone: +49 8442 96240 55
+

@@ -19,8 +19,6 @@ hardware-independent. SCPI strings can be sent over any instrument
 interface. It works equally well over GPIB, RS-232, VXIbus or LAN
 networks.
 
-
-
 # Integration into the IVI Foundation
 
 The SCPI Consortium voted to become part of the IVI Foundation in late
@@ -32,3 +30,4 @@ IVI Foundation.
 To view/download SCPI, go to the
 [Specifications](../specifications/default.html)
 page.
+

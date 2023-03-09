@@ -16,3 +16,4 @@ regularly reviews progress. Once a Working Group has approved a
 specification, they submit it to the Technical Committee Chairperson,
 who is responsible to publish the draft specification and conduct a
 formal VOTE involving all voting members of IVI.
+

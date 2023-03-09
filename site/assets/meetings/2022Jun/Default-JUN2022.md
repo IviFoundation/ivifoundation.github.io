@@ -35,8 +35,6 @@ layout: default
 > >
 > > >
 
-
-
 > >
 
 ####
@@ -45,6 +43,5 @@ layout: default
 
 ####
 
-
-
 </div>
+

@@ -16,7 +16,6 @@ to help you:
   - Find IVI technical information and code samples
   - Learn more about exciting IVI applications
 
-
 [Keysight Technologies](http://www.keysight.com/)
 Keysight Technologies provides IVI-COM drivers for its instruments as
 well as software for instrument control. Click to download Agilent
@@ -63,7 +62,6 @@ An industry leader in VXI instrumentation and system integration,
 Teradyne is committed to the support of open standards such as IVI,
 VXIPlug\&Play, and XML. Click here for more information.
 
-
 Notes:
 
 1.  Product and company names listed are trademarks or trade names of
@@ -73,3 +71,4 @@ Notes:
 3.  Technical information presented has not been verified.
 4.  References to commercial products should not be interpreted as an
     official IVI Foundation endorsement
+

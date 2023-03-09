@@ -14,3 +14,4 @@ communities. The marketing committee maintains the IVI Foundation Web
 site, generates collateral to promote IVI, and holds press events at
 International industry exhibits and conferences such as APEX,
 Autotestcon, and Productronica.
+

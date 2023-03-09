@@ -12,3 +12,4 @@ responsible for working with the IVI Foundation attorneys and advising
 the Board of Directors on amending the IVI Foundation by-laws, creating
 intellectual property policies, and generating various legal documents,
 such as IP license agreements and software click license agreements.
+

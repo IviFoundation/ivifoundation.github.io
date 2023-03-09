@@ -6,7 +6,6 @@ title: Privacy policy
 
 # Privacy Policy
 
-
 **IVI Foundation Online Privacy Statement**
 
 Your privacy is important to IVI Foundation. Our goal is to provide you
@@ -101,7 +100,6 @@ and we encourage parents and guardians to take an active role in their
 children's online activities and interests. IVI Foundation does not
 intentionally collect information from children under the age of 13, and
 IVI Foundation does not target its web site to children.
-
 
 **TYPES OF INFORMATION WE COLLECT**
 
@@ -265,3 +263,4 @@ announcements.
 
 Questions about this Privacy Statement can be directed to
 <info@ivifoundation.org>.
+

@@ -9,11 +9,8 @@ IVI standards.
 ## Contents
 {: .no_toc .text-delta }
 
-
-
 1. TOC
 {:toc}
-
 
 ## IVI Instrument Driver Fundamentals Course
 
@@ -86,8 +83,6 @@ the following:
 [Using IVI with Visual Basic 6.0](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20VBasic6.pdf)
 [Using IVI with Keysight VEE Pro](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20Keysight%20VEE%20Pro.pdf)
 
-
-
 > ### IVI Getting Started Guide Videos
 >
 > [IVI Getting Started Guide Video for Visual > C++](http://www.youtube.com/watch?v=8OOpk6adHqk)
@@ -106,8 +101,6 @@ the following:
 [Understanding the Benefits of IVI](../assets/docs/Understanding%20the%20Benefits%20of%20IVI.pdf)
 by Kirk G. Fertitta, Pacific Mindworks
 
-
-
 ## Autotestcon 2012 Presentations
 
 [Delivering Interchangeability and More](../downloads/Autotestcon%202012%20Presentations/Delivering%20Interchangeability%20and%20More.pptx)
@@ -122,14 +115,11 @@ Solution from 2004 to 2012](../downloads/Autotestcon%202012%20Presentations/Rayt
 
 [IVI Autotestcon-2016](http://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autotestcon-2016.pdf)
 
-
-
 ## Upgrading to Windows 7 - How it Impacts your IVI and VISA Installations.pdf
 
 [Click here](http://www.ivifoundation.org/resources/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
 VISA Installations.pdf"
-
 
 ## IVI Driver Assistance from Member Companies
 
@@ -214,3 +204,4 @@ Notes:
 3.  Technical information presented has not been verified.
 4.  References to commercial products should not be interpreted as an
     official IVI Foundation endorsement
+

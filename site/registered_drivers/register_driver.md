@@ -74,11 +74,6 @@ this form again.
 
 \* Driver owner is required.
 
-
-
-
-
-
 **Driver Contact Information**
 Driver Contact Information is treated as confidential, in accordance
 with the IVI Privacy Policy. The contact person will be the official
@@ -94,3 +89,4 @@ SelectCommand="SELECT \* FROM \[DriverGeneration\] ORDER BY
 \[DriverGeneration\]"\> SelectCommand="SELECT \* FROM \[DriverVendor\]
 ORDER BY \[Vendor\]"\> SelectCommand="SELECT \[UserId\], \[UserName\]
 FROM \[vw\_aspnet\_Users\] ORDER BY \[UserName\]"\>
+

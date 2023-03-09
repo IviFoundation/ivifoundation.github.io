@@ -27,3 +27,4 @@ technology.
   - Finally the [Resources](resources.html) page provides links to other
     web pages where you can to download  drivers, get
     application information and review IVI-related software products.
+
