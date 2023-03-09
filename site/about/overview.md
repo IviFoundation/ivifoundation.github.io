@@ -46,5 +46,4 @@ specifications.
 
 **More Information**
 
-For a printable overview of IVI, view/download the [IVI TriFold Brochure
-2013](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).
+For a printable overview of IVI, view/download the [IVI TriFold Brochure 2013](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).

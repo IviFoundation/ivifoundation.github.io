@@ -41,5 +41,4 @@ the bylaws, the IVI Foundation uses Robert�s Rules of order (newly
 revised).
 
 For more information on IVI operating procedures, see the Operating
-Procedure Committee page: [Membership \> Committees \> Operating
-Procedures](../membership/operating_procedures_committee.html)
+Procedure Committee page: [Membership \> Committees \> Operating Procedures](../membership/operating_procedures_committee.html)

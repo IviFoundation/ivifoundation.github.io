@@ -3,7 +3,7 @@ layout: default
 ---
 # News Archive
 
-  
+
 
 **IVI Foundation Completes Instrument Driver Specifications**
 
@@ -17,13 +17,9 @@ test systems when instruments become obsolete, or maximizing the use of
 existing resources by deploying a single test software system on to test
 systems built with different instrument hardware.
 
-  - [News release announcing completion of IVI
-    specifications](Oct2002NewsRelease.html)
+  - [News release announcing completion of IVI specifications](Oct2002NewsRelease.html)
   - Presentation at press conference at AUTOTESTCON
-  - Other supporting press materials  
-      - [Member
-        contacts](../docs/press_releases/oct_2002/CurrentIVIMembersList.pdf)
-      - [Summary of specifications and working
-        groups](../docs/press_releases/oct_2002/IVIMemberEndorsement.pdf)
-      - [What members are saying about
-        IVI](../docs/press_releases/oct_2002/IVISpecificationSummary.pdf)
+  - Other supporting press materials
+      - [Member contacts](../docs/press_releases/oct_2002/CurrentIVIMembersList.pdf)
+      - [Summary of specifications and working groups](../docs/press_releases/oct_2002/IVIMemberEndorsement.pdf)
+      - [What members are saying about IVI](../docs/press_releases/oct_2002/IVISpecificationSummary.pdf)

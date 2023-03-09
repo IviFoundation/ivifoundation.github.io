@@ -3,12 +3,11 @@ layout: default
 ---
 # News Archive
 
-  
+
 
 **IVI Foundation Completes Instrument Driver Specifications**
 
-[Download PDF version of news
-release](../docs/press_releases/oct_2002/IVIOct2002Release.pdf)
+[Download PDF version of news release](../docs/press_releases/oct_2002/IVIOct2002Release.pdf)
 
 **IVI Foundation Completes Instrument Driver Specifications**
 
