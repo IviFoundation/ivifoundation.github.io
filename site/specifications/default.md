@@ -4,7 +4,7 @@ title: Specifications
 nav_order:  3
 ---
 
-This page has links to all of the current IVI specifications, including 
+This page has links to all of the current IVI specifications, including
 specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
 # Specifications

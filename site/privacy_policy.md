@@ -5,7 +5,7 @@ title: Privacy policy
 ---
 # Privacy Policy
 
-  
+
 **IVI Foundation Online Privacy Statement**
 
 Your privacy is important to IVI Foundation. Our goal is to provide you
@@ -71,7 +71,7 @@ materials hosted at this site, and materials that you view as a result
 of following the links that exist at this site. The rules are different
 for each type of material, as follows:
 
-  - **Information Hosted at Linked Sites**  
+  - **Information Hosted at Linked Sites**
     We do not have the right to grant you permission of any kind with
     respect to materials found at linked sites. You should assume that
     all materials found at such sites are protected from unauthorized
@@ -81,7 +81,7 @@ for each type of material, as follows:
     have to make any use of materials found at linked sites, other than
     viewing the material through your web browser, will be only as
     provided at the linked site.
-  - **Information Hosted at Our Web Site**  
+  - **Information Hosted at Our Web Site**
     This web site and all materials owned by, or licensed to IVI
     Foundation also are protected from unauthorized copying and
     dissemination by U.S. copyright law, trademark law, international
@@ -101,9 +101,9 @@ children's online activities and interests. IVI Foundation does not
 intentionally collect information from children under the age of 13, and
 IVI Foundation does not target its web site to children.
 
-  
-**TYPES OF INFORMATION WE COLLECT**  
-  
+
+**TYPES OF INFORMATION WE COLLECT**
+
 **Non-Personal Information**
 
 Non-personal information is data about usage and service operation that
@@ -225,8 +225,8 @@ for such information.
 
 **If you do not want your personal information collected and used by IVI
 Foundation, please do not visit IVI Foundation's web site or apply for
-membership.**  
-  
+membership.**
+
 **Access to and Accuracy of Member Information**
 
 IVI Foundation is committed to keeping the personal information of our

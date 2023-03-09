@@ -30,7 +30,7 @@ still in provisional status.  This means that
     assembly.
   - If it is determined, based on the work of an IVI
     Foundation member or other input, that changes to the assembly are
-    needed, these changes may be breaking changes. 
+    needed, these changes may be breaking changes.
     Drivers (or other software)
     that reference provisional assemblies
     ***SHOULD NOT*** be released,

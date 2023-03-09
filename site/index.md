@@ -42,7 +42,7 @@ The VXI*plug&play* Systems Alliance was an organization whose members
 shared a common commitment to end-user success with open, multivendor
 VXI systems. For more information, [click here](VXIPlug_Play/Default.html).
 
- 
+
 
 
 ### SCPI
@@ -54,7 +54,7 @@ more information, [click here](scpi/Default.html).
 
 
 
- 
+
 
 ### IVI Overcomes Industry Challenges
 
@@ -81,7 +81,7 @@ system suppliers, and system integrators.
 
 ### Next IVI Meeting
 
- 
+
 
 [**February 6-9, 2023 Virtual Meeting**](assets/meetings/2023Feb/Default-FEB2023.html)
 

@@ -27,26 +27,26 @@ layout: default
 > > > > will be added to the list of attendees and send you up-to-date
 > > > > meeting information.
 > > >
-> > > > >  
-
-####  
-
->  
->
-> > ###  
-> >
-> > >
-
- 
-
-> >  
-
-####  
+> > > > >
 
 ####
 
-####  
+>
+>
+> > ###
+> >
+> > >
 
- 
+
+
+> >
+
+####
+
+####
+
+####
+
+
 
 </div>

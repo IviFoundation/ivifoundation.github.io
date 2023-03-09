@@ -3,6 +3,6 @@ layout: default
 ---
 <div>
 
-RSS  
+RSS
 
 </div>

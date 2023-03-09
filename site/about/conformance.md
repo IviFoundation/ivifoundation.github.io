@@ -16,7 +16,7 @@ when you complete the registration process.
 ![IVI Conformant Logo](../assets/images/IVI_Conformant_Logo.jpg)
 IVI Conformant Logo
 
- 
+
 
 
 

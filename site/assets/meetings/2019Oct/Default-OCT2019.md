@@ -40,7 +40,7 @@ layout: default
 > > > > > ### **Hotel Reservations:**
 > > > > >
 > > > > > > > **Group Name:** Bode Enterprises (Will be changed to IVI
-> > > > > > > Foundation/LXI Consortium) 
+> > > > > > > Foundation/LXI Consortium)
 > > > > > > > **Last Day to Book:** Sept. 22, 2019
 > > > > > > > **Hotel & Room Block Rate:** DoubleTree Suites, Nashville
 > > > > > > > Airport for $159 USD per night.
@@ -60,7 +60,7 @@ layout: default
 > > > > > > > your reservation cut-off date.   All reservations
 > > > > > > > requested after the **cut-off date (Sept. 22)** will be
 > > > > > > > made on a space available basis and will be sold at our
-> > > > > > > best available rate. 
+> > > > > > > best available rate.
 > > > > > >
 > > > > > > ### **IVI/LXI Contact at Hotel:**
 > > > > > >
@@ -71,7 +71,7 @@ layout: default
 > > > > > > > **F & B Sales Manager
 > > > > > > >
 > > > > > > > \+1 615 324 3408  D
-> > > > > > > \+1 615 772 4732  M 
+> > > > > > > \+1 615 772 4732  M
 > > > > > >
 > > > > > > ### **Hotel**
 > > > > > >
@@ -82,7 +82,7 @@ layout: default
 > > > > > > > Atrium Way
 > > > > > > > Nashville, TN 37214-5103
 > > > > > > >
-> > > > > > > USATEL: +1-615-889-8889 
+> > > > > > > USATEL: +1-615-889-8889
 > > > > > > > FAX: +1-615-883-7779
 > > > > >
 > > > > > ### **Registration for meeting:**
@@ -135,26 +135,26 @@ layout: default
 > > > > > transportation to and from Nashville International
 > > > > > Airport.*******</span>
 > > > >
-> > > > > >  
-
-####  
-
->  
->
-> > ###  
-> >
-> > >
-
- 
-
-> >  
-
-####  
+> > > > > >
 
 ####
 
-####  
+>
+>
+> > ###
+> >
+> > >
 
- 
+
+
+> >
+
+####
+
+####
+
+####
+
+
 
 </div>
