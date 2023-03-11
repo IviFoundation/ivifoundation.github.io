@@ -13,9 +13,9 @@ solutions. IVI-MSS shows how IVI drivers, IVI shared components and
 other software elements can be combined together to build integrated
 solutions. Such solutions can provide:
 
-1.  The integration of multiple items of test equipment under a single
+1. The integration of multiple items of test equipment under a single
     interface.
-2.  A higher degree of test instrument interchangeability, including in
+1. A higher degree of test instrument interchangeability, including in
     some cases semantic interchangeability.
 
 These two benefits come at the expense of additional cost and complexity
@@ -38,8 +38,8 @@ In addition to these common components, IVI-MSS solutions include two
 solution specific components called Measurement or Stimulus Servers and
 Role Control Modules.
 
-**Additional Information:**
+## Additional Information
 
-MSS overview presentation: [IVI-MSS Overview](../assets/docs/MSS-Overview.pdf)
+MSS overview presentation: [IVI-MSS Overview (pdf)](../assets/docs/MSS-Overview.pdf)
 Download the full IVI-MSS specification at:
 [Specifications](../specifications/default.html)
