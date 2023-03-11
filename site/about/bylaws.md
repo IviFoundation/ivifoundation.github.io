@@ -37,7 +37,7 @@ anything appearing in the Operating Procedures, the bylaws take
 precedence.
 
 Where procedures are not defined by the Operating Procedures document or
-the bylaws, the IVI Foundation uses Robert�s Rules of order (newly
+the bylaws, the IVI Foundation uses Robert's Rules of order (newly
 revised).
 
 For more information on IVI operating procedures, see the Operating
