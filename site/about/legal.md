@@ -15,9 +15,9 @@ program development and maintenance.
 
 IVI's formal legal documents are:
 
-  - [Certificate of Incorporation](../downloads/Operating-Legal/IVI%20-%20Certificate%20of%20Incorporation.pdf)
-  - [Consent of Incorporator](../downloads/Operating-Legal/IVI%20-%20Consent%20of%20Incorporator.pdf)
-  - [First Board Consent](../downloads/Operating-Legal/IVI%20-%20First%20Board%20Consent.pdf)
+- [Certificate of Incorporation (pdf)](../downloads/Operating-Legal/IVI%20-%20Certificate%20of%20Incorporation.pdf)
+- [Consent of Incorporator (pdf)](../downloads/Operating-Legal/IVI%20-%20Consent%20of%20Incorporator.pdf)
+- [First Board Consent (pdf)](../downloads/Operating-Legal/IVI%20-%20First%20Board%20Consent.pdf)
 
 See the [IP Policy](ip_policy.html) page to download IVI's intellectual
 property policy.
