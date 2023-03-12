@@ -44,7 +44,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |IVI-3.3: Standard Cross-Class Capabilities|[Word](../../../downloads/Architecture%20Specifications/IVI-3.3_CrossClassCapabilities_2016-02-23.doc)|[PDF](../../../downloads/Architecture%20Specifications/IVI-3.3_CrossClassCapabilities_2016-02-23.pdf)|
 |IVI-3.4: API Style Guide|[Word](../downloads/Architecture%20Specifications/IVI-3.4_APIStyleGuide_2020-03-24.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-3.4_APIStyleGuide_2020-03-24.pdf)|
 |IVI-3.5: Configuration Server Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.5_ConfigurationServer_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-3.5_ConfigurationServer_2022-12-19.pdf)|
-|IVI-3.6: COM Session Factory Specification|[Word](../downloads/Architecture%20Specifications/IVI-3%206_COMFactory_v1%200\(May08\).doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3%206_COMFactory_v1%200_May08_.pdf)|
+|IVI-3.6: COM Session Factory Specification|[Word](../downloads/Architecture%20Specifications/IVI-3%206_COMFactory_v1%200(May08).doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3%206_COMFactory_v1%200_May08_.pdf)|
 |IVI-3.9: C Shared Components Specification|[Word](../downloads/Architecture%20Specifications/IVICSdCp_2013-03-06.docx)|[PDF](../downloads/Architecture%20Specifications/IVICSdCp_2013-03-06.pdf)|
 |IVI-3.10: Measurement and Stimulus Subsystems (IVI-MSS) Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.10_MSSSpec_v1.0.1_2008-03.doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3.10_MSSSpec_v1.0.1_2008-03.pdf)|
 |IVI-3.12: Floating Point Services Specification|[Word](../downloads/Architecture%20Specifications/Ivi312.doc)|[PDF](../downloads/Architecture%20Specifications/Ivi312.pdf)|
@@ -64,7 +64,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |IVI-4.4: IviDCPwr Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.4_DCPwr_2015-09-24.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.4_DCPwr_2015-09-24.pdf)|
 |IVI-4.5: IviACPwr Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.5_ACPwr_2011-03-11.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.5_ACPwr_2011-03-11.pdf)|
 |IVI-4.6: IviSwtch Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.6_Swtch_2017-03-03.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.6_Swtch_2017-03-03.pdf)|
-|IVI-4.7: IviPwrMeter Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.7_PwrMeter_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.7_PwrMeter_2016-10-14%20\(2\).pdf)|
+|IVI-4.7: IviPwrMeter Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.7_PwrMeter_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.7_PwrMeter_2016-10-14%20(2).pdf)|
 |IVI-4.8: IviSpecAn Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.8_IviSpecAn_2017-03-03.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.8_IviSpecAn_2017-03-03.pdf)|
 |IVI-4.10: IviRFSigGen Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.10_RfSigGen_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.10_RfSigGen_2016-10-14.pdf)|
 |IVI-4.12: IviCounter Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.12_Counter_2017-09-06.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.12_Counter_2017-09-06.pdf)|
