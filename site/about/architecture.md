@@ -38,7 +38,7 @@ To achieve interchangeability, users program to an IVI class interface
 available through an IVI class-compliant specific driver or a separate
 IVI class driver.
 
-![IVI Architecture](../assets/images/IVI_Architecture.jpg)  
+![IVI Architecture](../assets/images/IVI_Architecture.jpg)
 **IVI System Architecture**
 
 **Driver API**
@@ -66,3 +66,4 @@ configuration.
 To learn more about IVI driver architecture, see the IVI architecture
 specifications, available on the
 [Specifications](../specifications/default.html) page.
+

@@ -3,13 +3,10 @@ layout: default
 nav_order:  5
 title: "IVI Meetings"
 ---
+
 # Meetings
 
- 
-
 **Upcoming Meetings and Events**
-
-
 
 **Past Meetings**
 
@@ -36,3 +33,4 @@ title: "IVI Meetings"
   - **[June 6 - 7, 2016 Hosted by Rohde & Schwarz (Munich, Germany)](http://ivifoundation.org/meetings/2016Jun/default.html)**
   - **[Feb. 24 - 26, 2016 Hosted by the Pacific Mindworks (San Diego, CA)](http://ivifoundation.org/meetings/2016Feb/default.html)**
   - **[October 19 - 20, 2015 Hosted by the IVI Foundation (Chicago, IL)](http://ivifoundation.org/meetings/2015Oct/default.html)**
+

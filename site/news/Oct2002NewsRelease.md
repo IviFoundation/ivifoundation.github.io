@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
+
 # News Archive
-
-
 
 **IVI Foundation Completes Instrument Driver Specifications**
 
@@ -90,3 +89,4 @@ board of directors is comprised of representatives from the following 10
 companies: Agilent Technologies, Keithley Instruments, National
 Instruments, Pacific MindWorks, Racal Instruments, Rohde & Schwarz,
 Tektronix, Teradyne, TYX Corp., and Vektrex Electronic Systems.
+

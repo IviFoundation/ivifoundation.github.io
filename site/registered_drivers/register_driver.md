@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
+
 #
 
 The IVI Foundation requires that all IVI drivers be registered with the
 foundation before the IVI Conformant logo can be attached to the driver.
 To learn how IVI uses this information, see the IVI [Privacy Policy](../privacy_policy.html).
 
-> **IVI New Driver Registration Policy: 
+> **IVI New Driver Registration Policy:
 > **
 > ***Note:*** Only IVI Foundation members can post drivers
-> free-of-charge.  
+> free-of-charge.
 >
 >   - Non-members can update existing drivers from June 14, 2016
 >     free-of-charge.
@@ -42,7 +43,7 @@ this form again.
 **Instrument Manufacturer:**
 
 \* Instrument manufacturer is required.
-\* Other instrument manufacturer is required. 
+\* Other instrument manufacturer is required.
 
 **Supported Models:**
 
@@ -51,7 +52,7 @@ this form again.
 **Driver Vendor:**
 
 \* Driver vendor is required.
-\* Other driver vendor is required.   
+\* Other driver vendor is required.
 
 **Driver Type:**
 
@@ -73,11 +74,6 @@ this form again.
 
 \* Driver owner is required.
 
-
-
-
- 
-
 **Driver Contact Information**
 Driver Contact Information is treated as confidential, in accordance
 with the IVI Privacy Policy. The contact person will be the official
@@ -93,3 +89,4 @@ SelectCommand="SELECT \* FROM \[DriverGeneration\] ORDER BY
 \[DriverGeneration\]"\> SelectCommand="SELECT \* FROM \[DriverVendor\]
 ORDER BY \[Vendor\]"\> SelectCommand="SELECT \[UserId\], \[UserName\]
 FROM \[vw\_aspnet\_Users\] ORDER BY \[UserName\]"\>
+

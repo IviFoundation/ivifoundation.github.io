@@ -4,13 +4,14 @@ nav_order:  1
 title: About
 has_children: true
 ---
+
 # About IVI
 
 These pages will help you learn more about the IVI Foundation and IVI
 technology.
 
   - To understand why IVI was formed, see the [Charter](charter.html)
-    page. 
+    page.
   - See [Overview](overview.html) to get an overview of IVI technology
     and benefits.
   - The [Architecture](architecture.html) page describes the overall IVI
@@ -24,5 +25,6 @@ technology.
   - [Conformance](conformance.html) explains IVI's process for assuring
     that commercial drivers are conformant to the IVI specifications.
   - Finally the [Resources](resources.html) page provides links to other
-    web pages where you can to download  drivers, get  
+    web pages where you can to download  drivers, get
     application information and review IVI-related software products.
+

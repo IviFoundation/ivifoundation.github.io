@@ -4,6 +4,7 @@ parent: About
 title: SCPI
 nav_order: 7
 ---
+
 # SCPI Consortium
 
 The Standard Commands for Programmable Instrumentation (SCPI) Consortium
@@ -22,6 +23,7 @@ VXIbus or LAN networks.
 
 The SCPI Consortium voted to become part of the IVI Foundation in late
 2002 and the IVI Foundation Board of Directors voted to accept the
-merger in the spring of 2003. IVI has assumed control of the SCPI 
+merger in the spring of 2003. IVI has assumed control of the SCPI
 specifications and all ongoing
 work will be accomplished as part of the IVI Foundation.
+

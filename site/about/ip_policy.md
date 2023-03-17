@@ -4,6 +4,7 @@ parent: About
 title: IPR Policy
 nav_order: 8
 ---
+
 # IPR Policy
 
 The IVI Foundation has adopted intellectual property rights policies and
@@ -13,3 +14,4 @@ infringement of the patent and other intellectual property rights
 any Consortium specifications or software products.
 
 [Intellectual Property Policy](../downloads/Operating-Legal/Revised%20IPR%20Policy%202005-05-02.doc)
+

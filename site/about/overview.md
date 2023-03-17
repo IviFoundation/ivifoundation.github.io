@@ -4,6 +4,7 @@ parent: About
 title: Overview
 nav_order:  2
 ---
+
 # Overview
 
 The IVI standards define an open driver architecture, a set of
@@ -47,3 +48,4 @@ specifications.
 **More Information**
 
 For a printable overview of IVI, view/download the [IVI TriFold Brochure 2013](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).
+
