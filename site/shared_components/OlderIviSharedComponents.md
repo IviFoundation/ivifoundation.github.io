@@ -4,15 +4,13 @@ parent: Shared Components
 title: Older IVI Shard Components
 nav_order: 2
 ---
+
 # Older IVI Shared Components
 
 This page provides access to older versions of the IVI Shared
-Components. To access the latest release, please see the main [Shared
-Components](Default.html) page.
+Components. To access the latest release, please see the main [Shared Components](Default.html) page.
 
 ## IVI Shared Components (32-bit) -- Older Versions
-
-  
 
   - [IviSharedComponents\_261.exe](../downloads/Shared%20Components/x86/IviSharedComponents_261.exe)
   - [IviSharedComponents\_242.msi](../downloads/Shared%20Components/IviSharedComponents_242.msi)
@@ -39,8 +37,6 @@ Components](Default.html) page.
 
 ## IVI Shared Components (64-bit) -- Older Versions
 
-  
-
   - [IviSharedComponents64\_261.exe](../downloads/Shared%20Components/IviSharedComponents64_261.exe)
   - [IviSharedComponents64\_242.exe](../downloads/Shared%20Components/IviSharedComponents64_242.exe)
   - [IviSharedComponents64\_242.msi](../downloads/Shared%20Components/IviSharedComponents64_242.msi)
@@ -63,8 +59,6 @@ Components](Default.html) page.
 
 ## IVI Shared Components Cleanup Utility -- Older Versions
 
-  
-
   - [IviCleanupUtility\_2.4.2](../downloads/Shared%20Components/IviCleanupUtility_2.4.2.exe)
   - [IviCleanupUtility\_2.4.0](../downloads/Shared%20Components/IviCleanupUtility_2.4.0.exe)
   - [IviCleanupUtility\_2.2.1](../downloads/Shared%20Components/IviCleanupUtility_2.2.1.exe)
@@ -72,3 +66,4 @@ Components](Default.html) page.
   - [IviCleanupUtility\_2.0.0](../downloads/shared%20components/IviCleanupUtility_2.0.0.exe)
   - [IviCleanupUtility\_1.2.1](../downloads/shared%20components/IviCleanupUtility_1.2.1.exe)
   - [IviCleanupUtility\_1.2.0](../downloads/shared%20components/IviCleanupUtility_1.2.0.exe)
+

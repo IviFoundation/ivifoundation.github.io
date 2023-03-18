@@ -5,19 +5,16 @@ layout: default
 
 <div id="loginArea">
 
-<span>Login</span>  
+<span>Login</span>
 
 <div style="font-size:8px;">
 
- 
-
 </div>
 
-  Email:  
-\* Password:  
-\*  
-[Create an account](membership/create_member.html)   [Forgot
-Password](membership/recoverpassword.html)
+  Email:
+\* Password:
+\*
+[Create an account](membership/create_member.html)   [Forgot Password](membership/recoverpassword.html)
 
 </div>
 
@@ -26,3 +23,4 @@ Password](membership/recoverpassword.html)
 </div>
 
 </div>
+

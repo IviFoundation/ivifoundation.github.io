@@ -2,6 +2,7 @@
 layout: default
 nav_order:  7
 ---
+
 # Bylaws
 
 The IVI Foundation has adopted formal Bylaws to govern its activities.
@@ -41,5 +42,5 @@ the bylaws, the IVI Foundation uses Robert�s Rules of order (newly
 revised).
 
 For more information on IVI operating procedures, see the Operating
-Procedure Committee page: [Membership \> Committees \> Operating
-Procedures](../membership/operating_procedures_committee.html)
+Procedure Committee page: [Membership \> Committees \> Operating Procedures](../membership/operating_procedures_committee.html)
+

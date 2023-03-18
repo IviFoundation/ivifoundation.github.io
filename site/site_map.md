@@ -5,7 +5,6 @@ layout: default
 
 # IVI Site Map
 
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -14,3 +13,4 @@ layout: default
 - TOC
 {:toc}
 </details>
+
