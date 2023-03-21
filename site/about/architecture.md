@@ -39,7 +39,11 @@ available through an IVI class-compliant specific driver or a separate
 IVI class driver.
 
 ![IVI Architecture](../assets/images/IVI_Architecture.jpg)
-## IVI System Architecture
+
+# IVI System Architecture
+
+The overall IVI driver architecture includes the driver APIs, Instrument I/O and
+the IVI Driver Shared Components.
 
 ## Driver API
 
