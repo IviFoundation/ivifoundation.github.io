@@ -82,14 +82,14 @@ the following:
 
 ### IVI Getting Started Guide Videos
 
-- [IVI Getting Started Guide Video for Visual > C++](http://www.youtube.com/watch?v=8OOpk6adHqk)
+- [IVI Getting Started Guide Video for Visual > C++](https://www.youtube.com/watch?v=8OOpk6adHqk)
 - [IVI Getting Started Guide Video for Visual C\# and Visual Basic.NET,using IVI-COM > ](
-           http://www.youtube.com/watch?v=zK2sliD5h1s&context=C32e602dADOEgsToPDskL1rdK1U1mgqxRsL0bTOaXq)
+           https://www.youtube.com/watch?v=zK2sliD5h1s&context=C32e602dADOEgsToPDskL1rdK1U1mgqxRsL0bTOaXq)
 - [IVI Getting Started Guide Video for Visual C\# and Visual Basic.NET, using > IVI.NET](https://youtu.be/E-QjdXq7J6Q)
-- [IVI Getting Started Guide Video for > LabVIEW](http://www.youtube.com/user/IVIFoundation#p/u/1/jYw_JoBJLNM)
-- [IVI Getting Started Guide Video for > LabWindows/CVI](http://www.youtube.com/user/IVIFoundation#p/u/2/4eOJ1A-hvxY)
-- [IVI Getting Started Guide Video for > MATLAB](http://www.youtube.com/user/IVIFoundation#p/u/3/N-xbW1r79b4)
-- [IVI Getting Started Guide Video for Keysight > VEE](http://www.youtube.com/user/IVIFoundation#p/u/0/F7n0RIGXwGM)
+- [IVI Getting Started Guide Video for > LabVIEW](https://www.youtube.com/user/IVIFoundation#p/u/1/jYw_JoBJLNM)
+- [IVI Getting Started Guide Video for > LabWindows/CVI](https://www.youtube.com/user/IVIFoundation#p/u/2/4eOJ1A-hvxY)
+- [IVI Getting Started Guide Video for > MATLAB](https://www.youtube.com/user/IVIFoundation#p/u/3/N-xbW1r79b4)
+- [IVI Getting Started Guide Video for Keysight > VEE](https://www.youtube.com/user/IVIFoundation#p/u/0/F7n0RIGXwGM)
 
 
 ## White Papers
@@ -114,7 +114,7 @@ by Kirk G. Fertitta, Pacific Mindworks
 
 ## Autotestcon 2016 IVI Presentation
 
-[IVI Autotestcon-2016](http://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autotestcon-2016.pdf)
+[IVI Autotestcon-2016](https://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autotestcon-2016.pdf)
 
 ## Upgrading to Windows 7 - How it Impacts your IVI and VISA Installations.pdf
 
@@ -137,57 +137,57 @@ to help you:
 
 </div>
 
-[Keysight Technologies](http://www.keysight.com/) (formerly Agilent
+[Keysight Technologies](https://www.keysight.com/) (formerly Agilent
 Technologies Electronic Measurement
-Group)[](http://www.keysight.com/main/home.jspx?cc=US&lc=eng)
+Group)[](https://www.keysight.com/main/home.jspx?cc=US&lc=eng)
 Keysight Technologies provides IVI-COM drivers for its instruments as
 well as software for instrument control. Click to download Keysight
 IVI-COM drivers, get application information and review software
 products.
 
-<span class="style1" style="COLOR: black;"> [Astronics Test Systems](http://www.astronicstestsystems.com/support/downloads)</span>
+<span class="style1" style="COLOR: black;"> [Astronics Test Systems](https://www.astronicstestsystems.com/support/downloads)</span>
 Astronics Test Systems provides standard-compliant software solutions
 for testing critical hardware systems. Our software products and
 services support the integration of IVI technology. Contact our
 technical sales department to discuss how our Systems and Products can
 satisfy your IVI requirements.
 
-[Keithley Instruments](http://www.keithley.com/)
+[Keithley Instruments](https://www.keithley.com/)
 Keithley provides IVI drivers for many of the world-class instruments
 that meet the production test, process monitoring, product development,
 and research needs of electronics manufacturers.
 
-[National Instruments](http://www.ni.com/ivi/)
+[National Instruments](https://www.ni.com/ivi/)
 A founding member, National Instruments provides IVI-C class and
 specific drivers and instrument control software. Click for IVI
 information, application notes, and free driver downloads.
 
-[Pacific MindWorks](http://www.pacificmindworks.com/)
+[Pacific MindWorks](https://www.pacificmindworks.com/)
 Pacific MindWorks is the industry leader in IVI driver tools, training,
 and development services. Read more about why the industrys biggest
 names turn to us.
 
-[Rohde & Schwarz](http://www.rohde-schwarz.com/drivers/overview.html)
+[Rohde & Schwarz](https://www.rohde-schwarz.com/drivers/overview.html)
 Rohde & Schwarz provides IVI-COM drivers and additional tools for
 instrument control. Click to get IVI information, application notes, and
 free IVI-COM driver downloads.
 
-[MathWorks](http://www.mathworks.com/products/instrument/)
+[MathWorks](https://www.mathworks.com/products/instrument/)
 The MathWorks, developers of MATLAB and Simulink, provides interactive
 tools for consistent instrument communication and control independent of
 hardware manufacture or driver.
 
-[Tektronix](http://www.tek.com/oscilloscopes)
+[Tektronix](https://www.tek.com/oscilloscopes)
 Tektronix, a world leader in test, measurement and monitoring, provides
 IVI-COM drivers to enable efficient communication between open Windows
 oscilloscopes and other compliant instruments and software.
 
-[Teradyne](http://www.teradyne.com/militaryaerospace/)
+[Teradyne](https://www.teradyne.com/militaryaerospace/)
 An industry leader in VXI instrumentation and system integration,
 Teradyne is committed to the support of open standards such as IVI,
 VXI*Plug&Play*, and XML. Click here for more information.
 
-<span class="style2">[VTI Instruments](http://www.vtiinstruments.com/)</span>
+<span class="style2">[VTI Instruments](https://www.vtiinstruments.com/)</span>
 VTI Instruments provides driver support for all your functional test and
 data acquisition needs. Leveraging the performance and modularity of VXI
 has never been easier.
