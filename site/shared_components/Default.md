@@ -6,6 +6,13 @@ has_children: true
 ---
 
 # Shared Components
+{: .no_toc }
+
+## Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 To improve users' experience when they combine drivers and other
 software from various vendors, it is important to have some key software
@@ -64,7 +71,7 @@ these installers separately.
 | [VISA.NET Shared Components Release Notes (txt)](../downloads/Shared%20Components/VISA.NET%20Shared%20Components%20Release%20Notes_.txt) | This document provides information on the current and previous versions of the VISA.NET Shared Components, including known issues. |
 | [VISA Cleanup Utility (exe)](../downloads/Shared%20Components/VisaCleanupUtility_7.1.1_.exe)                                             | Utility used to uninstall the VISA Shared Components.                                                                              |
 
-## VISA Shared Components for Linux
+### VISA Shared Components for Linux
 
 VISA Shared Components for Linux install common components needed to
 provided consistency across Linux VISA implementations from multiple
@@ -92,7 +99,7 @@ vendor directly if you wish to use these installers separately.
 Review the Linux kernel change list for the changes included in version
 4.20 of the Linux kernel.  
 
-## Windows XP and Windows Vista Support
+# Windows XP and Windows Vista Support
 
 The latest versions of the Shared Components do not officially support
 Windows XP or Windows Vista. The table below lists the last version of
