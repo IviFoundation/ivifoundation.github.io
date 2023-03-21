@@ -17,4 +17,3 @@ Santa Rosa, CA 95402
 **IVI Members**
 
 To contact individual IVI Member companies, see: [Membership \> Current Members](membership/current_members.html)
-

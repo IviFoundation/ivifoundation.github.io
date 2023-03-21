@@ -4,11 +4,11 @@ layout: default
 
 # News Archive
 
-**IVI Foundation Completes Instrument Driver Specifications**
+## IVI Foundation Completes Instrument Driver Specifications
 
 [Download PDF version of news release](../docs/press_releases/oct_2002/IVIOct2002Release.pdf)
 
-**IVI Foundation Completes Instrument Driver Specifications**
+## IVI Foundation Completes Instrument Driver Specifications
 
 **Foundation Demonstrates Benefits of New Specifications at
 AUTOTESTCON**
@@ -76,7 +76,7 @@ interchangeability. After today's press conference in Huntsville, Ala.,
 the IVI Foundation plans to present the new specifications at
 Electronica in Munich, Germany, in November of 2002.
 
-**About the IVI Foundation**
+## About the IVI Foundation
 
 The IVI Foundation was formed in 1998 and officially incorporated in
 2001. With the IVI Foundation standard instrument driver specifications,
@@ -89,4 +89,3 @@ board of directors is comprised of representatives from the following 10
 companies: Agilent Technologies, Keithley Instruments, National
 Instruments, Pacific MindWorks, Racal Instruments, Rohde & Schwarz,
 Tektronix, Teradyne, TYX Corp., and Vektrex Electronic Systems.
-

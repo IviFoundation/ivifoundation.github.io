@@ -23,7 +23,7 @@ charged nominal meeting fees to cover the cost of meeting space,
 continental breakfast and lunch Other general communications are
 conducted via email
 
-**Operating Procedures**
+## Operating Procedures
 
 IVI's day-to-day activities are governed by IVI specification 1.2,
 Operating Procedures, available on the
@@ -43,4 +43,3 @@ revised).
 
 For more information on IVI operating procedures, see the Operating
 Procedure Committee page: [Membership \> Committees \> Operating Procedures](../membership/operating_procedures_committee.html)
-

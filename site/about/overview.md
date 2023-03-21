@@ -11,7 +11,7 @@ The IVI standards define an open driver architecture, a set of
 instrument classes, and shared software components. Together these
 provide critical elements needed for instrument interchangeability.
 
-**Benefits**
+## Benefits
 
 IVI offers several benefits to measurement system designers:
 
@@ -30,7 +30,7 @@ IVI offers several benefits to measurement system designers:
     reduces the time and effort needed to integrate measurement devices
     into new or existing systems
 
-**Interchangeability**
+## Interchangeability
 
 Systems designed with IVI drivers enjoy the benefits of standardized
 code that can be interchanged into other systems. This code also
@@ -45,7 +45,6 @@ specifications.
 
 ![](../assets/images/Interchangeability.jpg)
 
-**More Information**
+## More Information
 
 For a printable overview of IVI, view/download the [IVI TriFold Brochure 2013](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).
-

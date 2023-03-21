@@ -6,9 +6,9 @@ title: "IVI Meetings"
 
 # Meetings
 
-**Upcoming Meetings and Events**
+## Upcoming Meetings and Events
 
-**Past Meetings**
+## Past Meetings
 
   - [**Feb 6-9, 2023 Virtual Meeting**](http://www.ivifoundation.org/meetings/2022Oct/Default-FEB2023.html)
   - [**Oct 17-20, 2022 Virtual Meeting**](http://www.ivifoundation.org/meetings/2022Oct/Default-OCT2022.html)
@@ -33,4 +33,3 @@ title: "IVI Meetings"
   - **[June 6 - 7, 2016 Hosted by Rohde & Schwarz (Munich, Germany)](http://ivifoundation.org/meetings/2016Jun/default.html)**
   - **[Feb. 24 - 26, 2016 Hosted by the Pacific Mindworks (San Diego, CA)](http://ivifoundation.org/meetings/2016Feb/default.html)**
   - **[October 19 - 20, 2015 Hosted by the IVI Foundation (Chicago, IL)](http://ivifoundation.org/meetings/2015Oct/default.html)**
-
