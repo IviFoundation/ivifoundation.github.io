@@ -3,6 +3,7 @@ layout: default
 title: VXI<em>plug&play</em>
 nav_order:  9
 ---
+
 # VXI*plug&play*
 
 The VXI*plug&play* Systems Alliance was an organization whose members

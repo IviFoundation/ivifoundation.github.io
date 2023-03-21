@@ -4,6 +4,7 @@ parent: About
 title: Conformance
 nav_order:  6
 ---
+
 # Conformance
 
 IVI drivers that conform to and are documented according to the IVI
@@ -13,10 +14,11 @@ used. See the [Driver Registration \> Registration](../registered_drivers/regist
 register your driver. You will receive an email containing the Logo file
 when you complete the registration process.
 
-## IVI Conformant Logo
+**IVI Conformant Logo**
 
 ![IVI Conformant Logo](../assets/images/IVI_Conformant_Logo.jpg)
 
 IVI members may also display the standard IVI logo in association with
 Instruments or software applications that are IVI-related or
 IVI-enabled.
+

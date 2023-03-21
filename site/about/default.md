@@ -4,6 +4,7 @@ nav_order:  1
 title: About
 has_children: true
 ---
+
 # About IVI
 
 These pages will help you learn more about the IVI Foundation and IVI
@@ -26,3 +27,4 @@ technology.
 - Finally the [Resources](resources.html) page provides links to other
   web pages where you can to download  drivers, get  
   application information and review IVI-related software products.
+

@@ -17,11 +17,13 @@ The IVI Foundation has been collaborating with the LXI Consortium to
 update the IVI standards for secure instrument network communication.
 For details on these updates:
 
+
 [Press Release (PDF)](https://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release.pdf)
 
 - IVI and LXI Leading the T&M Industry in Security Standardization
 
 [Article (PDF)](https://lxistandard.org/Documents/Articles/IviSecurityFeatures.pdf)
+
 
 - IVI Standard Updates for Secure Network Connections
 
@@ -68,3 +70,4 @@ system suppliers, and system integrators.
 For general information on getting started using IVI drivers, see the
 [IVI Getting Started Guide (PDF)](downloads/IVI-GSG-CurrentVersion.pdf).  For more
 information on the IVI standards, see [More Information](resources/Default.html).
+

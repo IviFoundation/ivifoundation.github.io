@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Users Committee
 
 The Users Committee reports directly to the Board of Directors. Its
@@ -15,3 +16,4 @@ standards and their implementation. In particular, if they see something
 that is not working well, or a Instrument class that they feel is
 important to be added, we depend on their feedback to bring it to the
 group's attention.
+

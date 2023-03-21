@@ -9,11 +9,8 @@ IVI standards.
 ## Contents
 {: .no_toc .text-delta }
 
-
-
 1. TOC
 {:toc}
-
 
 ## IVI Instrument Driver Fundamentals Course
 
@@ -79,14 +76,12 @@ the following:
 [Using IVI with Visual C++](../downloads/IVI%20short%20guides%202015/Using_IVI_with_Visual_C.pdf)
 [Using IVI-COM with Visual C\# and Visual Basic .NET](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20C%20and%20VB.pdf)
 [Using IVI.NET with Visual C\# and Visual Basic .NET](../downloads/IVI%20short%20guides%202015/IVIshort_guides_2016/Using%20IVI.Net%20Drivers%20CS%20and%20VB%20Aug_8_2016.pdf)
-[Using IVI with LabVIEW](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20LabVIEW.pdf)  
+[Using IVI with LabVIEW](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20LabVIEW.pdf)
 [Using IVI with LabWindows/CVI](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20LabWindows%20CVI.pdf)
-[Using IVI with MATLAB](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20MATLAB.pdf) 
-                       
-[Using IVI with Visual Basic 6.0](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20VBasic6.pdf)                            
-[Using IVI with Keysight VEE Pro](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20Keysight%20VEE%20Pro.pdf)
+[Using IVI with MATLAB](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20MATLAB.pdf)
 
- 
+[Using IVI with Visual Basic 6.0](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20VBasic6.pdf)
+[Using IVI with Keysight VEE Pro](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20Keysight%20VEE%20Pro.pdf)
 
 > ### IVI Getting Started Guide Videos
 >
@@ -99,14 +94,12 @@ the following:
 > [IVI Getting Started Guide Video for > MATLAB](http://www.youtube.com/user/IVIFoundation#p/u/3/N-xbW1r79b4)
 > [IVI Getting Started Guide Video for Keysight > VEE](http://www.youtube.com/user/IVIFoundation#p/u/0/F7n0RIGXwGM)
 >
->  
+>
 
 ## White Papers
 
 [Understanding the Benefits of IVI](../assets/docs/Understanding%20the%20Benefits%20of%20IVI.pdf)
 by Kirk G. Fertitta, Pacific Mindworks
-
- 
 
 ## Autotestcon 2012 Presentations
 
@@ -122,14 +115,11 @@ Solution from 2004 to 2012](../downloads/Autotestcon%202012%20Presentations/Rayt
 
 [IVI Autotestcon-2016](http://ivifoundation.org/downloads/Autotestcon2016/IVI%20Autotestcon-2016.pdf)
 
- 
-
 ## Upgrading to Windows 7 - How it Impacts your IVI and VISA Installations.pdf
 
 [Click here](http://www.ivifoundation.org/resources/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
 VISA Installations.pdf"
- 
 
 ## IVI Driver Assistance from Member Companies
 
@@ -159,7 +149,7 @@ Astronics Test Systems provides standard-compliant software solutions
 for testing critical hardware systems. Our software products and
 services support the integration of IVI technology. Contact our
 technical sales department to discuss how our Systems and Products can
-satisfy your IVI requirements.  
+satisfy your IVI requirements.
 
 [Keithley Instruments](http://www.keithley.com/)
 Keithley provides IVI drivers for many of the world-class instruments
@@ -174,7 +164,7 @@ information, application notes, and free driver downloads.
 [Pacific MindWorks](http://www.pacificmindworks.com/)
 Pacific MindWorks is the industry leader in IVI driver tools, training,
 and development services. Read more about why the industrys biggest
-names turn to us.  
+names turn to us.
 
 [Rohde & Schwarz](http://www.rohde-schwarz.com/drivers/overview.html)
 Rohde & Schwarz provides IVI-COM drivers and additional tools for
@@ -214,3 +204,4 @@ Notes:
 3.  Technical information presented has not been verified.
 4.  References to commercial products should not be interpreted as an
     official IVI Foundation endorsement
+

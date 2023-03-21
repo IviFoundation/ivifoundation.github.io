@@ -3,6 +3,7 @@ layout: default
 nav_order:  10
 title: Privacy policy
 ---
+
 # Privacy Policy
 
 ## IVI Foundation Online Privacy Statement
@@ -81,7 +82,9 @@ for each type of material, as follows:
     have to make any use of materials found at linked sites, other than
     viewing the material through your web browser, will be only as
     provided at the linked site.
+
 - **Information Hosted at Our Web Site**  
+
     This web site and all materials owned by, or licensed to IVI
     Foundation also are protected from unauthorized copying and
     dissemination by U.S. copyright law, trademark law, international

@@ -4,6 +4,7 @@ parent: About
 title: Legal
 nav_order: 9
 ---
+
 # Legal
 
 The IVI foundation was incorporated as a not-for-profit corporation in
@@ -26,3 +27,4 @@ See the [Bylaws](bylaws.html) page for IVI's governing bylaws.
 
 See the [Specifications](../specifications/default.html) page for IVI's
 day-to-day operating procedures.
+

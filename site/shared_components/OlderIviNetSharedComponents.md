@@ -4,6 +4,7 @@ parent: Shared Components
 title: Older .NET Shared Components
 nav_order: 3
 ---
+
 # Older IVI.NET Shared Components
 
 This page provides access to older versions of the IVI.NET Shared
@@ -38,3 +39,4 @@ Components. To access the latest release, please see the main [Shared Components
 - [IviNetSharedComponents64\_Fx20\_1.0.2.msi](../downloads/shared%20components/IviNetSharedComponents64_Fx20_1.0.2.msi)
 - [IviNetSharedComponents64\_Fx20\_1.0.1.msi](../downloads/shared%20components/IviNetSharedComponents64_Fx20_1.0.1.msi)
 - [IviNetSharedComponents64\_Fx20\_1.0.0.msi](../downloads/shared%20components/IviNetSharedComponents64_Fx20_1.0.0.msi)
+

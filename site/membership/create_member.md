@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Create User
 
 Sign Up for Your New Account
@@ -11,7 +12,7 @@ Sign Up for Your New Account
 
 **Company Name:**
 
-Position Title:
+**Position Title:**
 
 **Street Address 1:**
 
@@ -36,11 +37,11 @@ Wisconsin Wyoming Not Applicable
 
 **Country:**
 
-Select Country
+**Select Country**
 
-Phone:
+**Phone:**
 
-E-mail:
+**E-mail:**
 
 \*
 

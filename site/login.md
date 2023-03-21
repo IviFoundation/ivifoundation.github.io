@@ -9,8 +9,6 @@ layout: default
 
 <div style="font-size:8px;">
 
- 
-
 </div>
 
   Email:
@@ -25,3 +23,4 @@ layout: default
 </div>
 
 </div>
+

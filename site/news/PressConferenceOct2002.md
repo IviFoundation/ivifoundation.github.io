@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
+
 # News Archive
 
-
-
-**IVI Foundation Completes Instrument Driver Specifications**
+## IVI Foundation Completes Instrument Driver Specifications
 
 HUNTSVILLE, Ala. - Oct. 15, 2002 -The Interchangeable Virtual
 Instrumentation (IVI) Foundation, an open consortium of companies that

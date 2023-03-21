@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Operating Procedures Committee
 
 The Operating Procedures Committee is responsible for IVI specification
@@ -20,3 +21,4 @@ To download the latest version of the operating procedures see:
 [Specifications](../specifications/default.html)
 
 To download the bylaws see: [About \> Bylaws](../about/bylaws.html)
+

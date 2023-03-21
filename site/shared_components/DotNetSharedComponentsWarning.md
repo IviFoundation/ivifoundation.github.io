@@ -4,6 +4,7 @@ parent: Shared Components
 title: .NET Shared Components Warning
 nav_order: 1
 ---
+
 # .NET Shared Components Warning
 
 A warning is generated when building a .NET project
@@ -40,3 +41,4 @@ still in provisional status.  This means that
   IVI.NET working group to work through the process of removing the
   assembly from provisional status.  Non-members should refer to the
   [Shared Components](Default.html) page for the IVI.NET Shared Components status.
+  

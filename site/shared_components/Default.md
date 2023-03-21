@@ -4,6 +4,7 @@ nav_order:  2
 title: Shared Components
 has_children: true
 ---
+
 # Shared Components
 
 To improve users' experience when they combine drivers and other
@@ -90,7 +91,7 @@ vendor directly if you wish to use these installers separately.
 
 Review the Linux kernel change list for the changes included in version
 4.20 of the Linux kernel.  
-  
+
 ## Windows XP and Windows Vista Support
 
 The latest versions of the Shared Components do not officially support
