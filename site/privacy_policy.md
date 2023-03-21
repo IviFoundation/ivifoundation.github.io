@@ -71,7 +71,8 @@ materials hosted at this site, and materials that you view as a result
 of following the links that exist at this site. The rules are different
 for each type of material, as follows:
 
-  - **Information Hosted at Linked Sites**
+- **Information Hosted at Linked Sites**
+
     We do not have the right to grant you permission of any kind with
     respect to materials found at linked sites. You should assume that
     all materials found at such sites are protected from unauthorized
@@ -81,7 +82,9 @@ for each type of material, as follows:
     have to make any use of materials found at linked sites, other than
     viewing the material through your web browser, will be only as
     provided at the linked site.
-  - **Information Hosted at Our Web Site**
+
+- **Information Hosted at Our Web Site**  
+
     This web site and all materials owned by, or licensed to IVI
     Foundation also are protected from unauthorized copying and
     dissemination by U.S. copyright law, trademark law, international
@@ -100,10 +103,10 @@ and we encourage parents and guardians to take an active role in their
 children's online activities and interests. IVI Foundation does not
 intentionally collect information from children under the age of 13, and
 IVI Foundation does not target its web site to children.
-
+  
 ## TYPES OF INFORMATION WE COLLECT
-
-## Non-Personal Information
+  
+### Non-Personal Information
 
 Non-personal information is data about usage and service operation that
 is not directly associated with a specific personal identity. IVI
@@ -121,7 +124,7 @@ the site before and may contain certain information about your prior
 visits. No cookie used by the web site collects or distributes personal
 information to third parties for marketing purposes.
 
-## Company Information
+### Company Information
 
 Company information is information that is associated with the name and
 address of member organizations and may include data about usage and
@@ -134,7 +137,7 @@ information regarding their participation (e.g., IVI Foundation
 Technical Committees or Working Groups they join) is available to their
 Primary Representative and IVI Foundation staff.
 
-## Personal Information
+### Personal Information
 
 Personal information is information that is associated with your name or
 personal identity. IVI Foundation uses personal information to better
@@ -150,14 +153,14 @@ information you provide to us on these pages may include name, address,
 phone number, e-mail address, user IDs, passwords, billing information,
 or credit card information.
 
-## Members-Only Web Site Information Gathering
+### Members-Only Web Site Information Gathering
 
 Access to various sections of the IVI Foundation web site may be
 restricted to members of the consortium. Access to these resources may
 be controlled by a user name and password; a password prompt is your
 indication that a members-only resource is being accessed.
 
-## How We Use Your Information
+### How We Use Your Information
 
 IVI Foundation may use non-personal data that is aggregated for
 reporting about IVI Foundation web site usability, performance, and
@@ -179,7 +182,7 @@ processing services may be provided by a third-party payment service and
 a management company external to IVI Foundation may provide support for
 the financial activities of the consortium.
 
-## Information Sharing
+### Information Sharing
 
 IVI Foundation will not give away, share, sell, rent, or lease any
 individual's personal information or lists of email addresses to anyone
@@ -224,14 +227,15 @@ for such information.
 
 **If you do not want your personal information collected and used by IVI
 Foundation, please do not visit IVI Foundation's web site or apply for
-membership.**
-
-## Access to and Accuracy of Member Information
+membership.**  
+  
+### Access to and Accuracy of Member Information
 
 IVI Foundation is committed to keeping the personal information of our
 members accurate. All the information you have submitted to us can be
 verified and changed. In order to do this, please email us a request at
-<IVIinfo@ivifoundation.org>. We may provide members with online access
+<IVIinfo@ivifoundation.org>.
+We may provide members with online access
 to their own personal profiles, enabling them to update or delete
 information at any time. To protect our members' privacy and security,
 we also may take reasonable steps to verify identity, such as a user ID
@@ -239,7 +243,7 @@ and password, before granting access to modify personal profile data.
 Certain areas of IVI Foundation's web sites may limit access to specific
 individuals through the use of passwords or other personal identifiers.
 
-## Keeping Your Information Secure
+### Keeping Your Information Secure
 
 IVI Foundation makes every effort to protect personal information by
 users of the web site, including using firewalls and other security
@@ -251,7 +255,7 @@ such as collaboration and discussion, so some types of personal
 information such as your name, company affiliation, and email address
 will be visible to other IVI Foundation members and to the public.
 
-## Opting Out
+### Opting Out
 
 From time to time IVI Foundation may email you electronic newsletters,
 announcements, surveys or other information. If you prefer not to
@@ -259,7 +263,7 @@ receive any or all of these communications, you may opt out by following
 the directions provided within the electronic newsletters and
 announcements.
 
-## Contacting Us
+### Contacting Us
 
 Questions about this Privacy Statement can be directed to
 <info@ivifoundation.org>.
