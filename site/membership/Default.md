@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/Default.aspx/
 ---
 
 # Members Documents Have Moved to SharePoint

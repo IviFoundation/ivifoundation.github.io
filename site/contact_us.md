@@ -2,6 +2,7 @@
 layout: default
 nav_order:  7
 title: Contact Us
+redirect_from: /contact_us.aspx/
 ---
 
 ## IVI Foundation Corporate Office

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/operating_procedures_committee.aspx/
 ---
 
 # Operating Procedures Committee

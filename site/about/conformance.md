@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: Conformance
 nav_order:  6
+redirect_from: /about/conformance.aspx/
 ---
 
 # Conformance

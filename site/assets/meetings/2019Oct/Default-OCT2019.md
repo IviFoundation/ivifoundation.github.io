@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /assets/meetings/2019Oct/Default-OCT2019.aspx/
 ---
 <div id="rightCol0">
 

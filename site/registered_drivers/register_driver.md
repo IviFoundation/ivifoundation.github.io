@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /registered_drivers/register_driver.aspx/
 ---
 
 #

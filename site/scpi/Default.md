@@ -2,6 +2,7 @@
 layout: default
 title: IVI SCPI Standard
 nav_order:  8
+redirect_from: /scpi/Default.aspx/
 ---
 
 # SCPI Consortium

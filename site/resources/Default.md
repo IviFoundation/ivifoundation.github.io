@@ -2,6 +2,7 @@
 layout: default
 nav_order:  4
 title: More Information
+redirect_from: /resources/Default.aspx/
 ---
 This page cohtains various resources for learning more about IVI and the
 IVI standards.

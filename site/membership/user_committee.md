@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/user_committee.aspx/
 ---
 
 # Users Committee

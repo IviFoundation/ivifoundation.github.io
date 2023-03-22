@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: Driver Architecture
 nav_order:  3
+redirect_from: /about/architecture.aspx/
 ---
 
 # Driver Architecture

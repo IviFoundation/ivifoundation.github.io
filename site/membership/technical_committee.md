@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/technical_committee.aspx/
 ---
 
 # Technical Committee

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /news/default.aspx/
 ---
 
 # News

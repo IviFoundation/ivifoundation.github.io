@@ -3,6 +3,7 @@ layout: default
 parent: Shared Components
 title: .NET Shared Components Warning
 nav_order: 1
+redirect_from: /shared_components/DotNetSharedComponentsWarning.aspx/
 ---
 
 # .NET Shared Components Warning

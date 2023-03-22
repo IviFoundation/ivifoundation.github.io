@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /assets/meetings/2023Feb/Default-FEB2023.aspx/
 ---
 
 ## IVI Meeting Virtual Meeting

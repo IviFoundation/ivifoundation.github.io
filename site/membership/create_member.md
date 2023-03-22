@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/create_member.aspx/
 ---
 
 # Create User

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/how_to_join.aspx/
 ---
 
 # How To Join

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /registered_drivers/driver_registry_thank_you.aspx/
 ---
 
 # Successful driver registration\!

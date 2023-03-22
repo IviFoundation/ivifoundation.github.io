@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: Legal
 nav_order: 9
+redirect_from: /about/legal.aspx/
 ---
 
 # Legal

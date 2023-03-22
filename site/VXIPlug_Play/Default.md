@@ -2,6 +2,7 @@
 layout: default
 title: VXI<em>plug&play</em>
 nav_order:  9
+redirect_from: /VXIPlug_Play/Default.aspx/
 ---
 
 # VXI*plug&play*

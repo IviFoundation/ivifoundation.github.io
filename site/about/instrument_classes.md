@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: Instrument Classes
 nav_order:  4
+redirect_from: /about/instrument_classes.aspx/
 ---
 
 # Instrument Classes

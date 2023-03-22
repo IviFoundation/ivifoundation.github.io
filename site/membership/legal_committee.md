@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/legal_committee.aspx/
 ---
 
 # Legal Committee

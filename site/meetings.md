@@ -2,6 +2,7 @@
 layout: default
 nav_order:  5
 title: "IVI Meetings"
+redirect_from: /meetings.aspx/
 ---
 
 # Meetings

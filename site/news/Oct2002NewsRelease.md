@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /news/Oct2002NewsRelease.aspx/
 ---
 
 # News Archive

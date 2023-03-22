@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: IPR Policy
 nav_order: 8
+redirect_from: /about/ip_policy.aspx/
 ---
 
 # IPR Policy

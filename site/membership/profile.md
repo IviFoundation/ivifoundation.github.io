@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/profile.aspx/
 ---
 
 # My Profile

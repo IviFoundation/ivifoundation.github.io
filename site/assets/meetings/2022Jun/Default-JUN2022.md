@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /assets/meetings/2022Jun/Default-JUN2022.aspx/
 ---
 <div id="rightCol0">
 

@@ -2,6 +2,7 @@
 layout: default
 title: Specifications
 nav_order:  3
+redirect_from: /specifications/default.aspx/
 ---
 
 This page has links to all of the current IVI specifications, including
@@ -18,13 +19,13 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 ## Operating & Legal
 
 | Specification  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |IVI-1.2: Operating Procedures|[Word](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.docx)|[PDF](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.pdf)|
 
 ## IVI Specification Generations
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |What are IVI Generations?|[Word](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.docx)|[PDF](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.pdf)|
 |IVI Generations Baseline Summary and Compliance Equivalence Tables|[Word](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.docx)|[PDF](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.pdf)|
 |IVI Specification Revisions History Summary|Word|PDF|
@@ -34,7 +35,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 ## Architecture
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |IVI-3.1: Driver Architecture Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.1_Architecture_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-3.1_Architecture_2022-12-19.pdf)|
 |IVI-3.2: Inherent Capabilities Specification|[Word](../../../downloads/Architecture%20Specifications/IVI-3.2_Inherent_Capabilities_2017-02-07.doc)|[PDF](../../../downloads/Architecture%20Specifications/IVI-3.2_Inherent_Capabilities_2017-02-07.pdf)|
 |IVI-3.3: Standard Cross-Class Capabilities|[Word](../../../downloads/Architecture%20Specifications/IVI-3.3_CrossClassCapabilities_2016-02-23.doc)|[PDF](../../../downloads/Architecture%20Specifications/IVI-3.3_CrossClassCapabilities_2016-02-23.pdf)|
@@ -53,7 +54,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 ## Instrument Classes
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |IVI-4.1: IviScope Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.1_Scope_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.1_Scope_2016-10-14.pdf)|
 |IVI-4.2: IviDmm Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.2_DMM_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.2_DMM_2016-10-14.pdf)|
 |IVI-4.3: IviFgen Class Specification|[Word](../downloads/Class%20Specifications/IVI-4.3_Fgen_2016-10-14.doc)|[PDF](../downloads/Class%20Specifications/IVI-4.3_Fgen_2016-10-14.pdf)|
@@ -71,7 +72,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 # IVI Protocol Specifications
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |IVI-6.1: High-Speed LAN Instrument Protocol (HiSLIP) v2.0 April 23, 2020|[Word](../downloads/Protocol%20Specifications/IVI-6.1_HiSLIP-2.0-2020-04-23.docx)|[PDF](../downloads/Protocol%20Specifications/IVI-6.1_HiSLIP-2.0-2020-04-23.pdf)|
 |IVI-6.2: IVI Interoperability Requirements for USBTMC Specification|[Word](../downloads/Architecture%20Specifications/Ivi-6%202_USBTMC_2018-11-01.docx)|[PDF](../downloads/Architecture%20Specifications/Ivi-6%202_USBTMC_2018-11-01.pdf)|
 |IVI-6.3: IVI VISA PXI Plug-in|[Word](../downloads/Architecture%20Specifications/IVI-6.3_VisaPxiPlugIn_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-6.3_VisaPxiPlugIn_2022-12-19.pdf)|
@@ -82,7 +83,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 The SCPI specifications, formerly maintained by the SCPI Consortium are now maintained by the IVI Foundation.
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |SCPI-99||[PDF](../downloads/SCPI/scpi-99.pdf)|
 
 # VXI*plug&play* Specifications
@@ -91,7 +92,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 # VISA Specifications
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |VPP-4.3: The VISA Library|[Word](../downloads/Architecture%20Specifications/vpp43_2022-05-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp43_2022-05-19.pdf)|
 |VPP-4.3.2: VISA Implementation Specification For Textual Languages|[Word](../downloads/Architecture%20Specifications/vpp432_2022-05-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp432_2022-05-19.pdf)|
 |VPP-4.3.3: VISA Implementation Specification For The G Language|[Word](../docs/vpp433_2016-02-26.doc)|[PDF](../docs/vpp433_2016-02-26.pdf)|
@@ -102,7 +103,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 # Other VXI*plug&play* Speciications:
 
 | Document  | Word | PDF |
-|:---------------|:-----|:----|
+---
 |VPP-1: Charter Document|[Word](../docs/vpp1_2022-12-19.docx)|[PDF](../docs/vpp1_2022-12-19.pdf)|
 |VPP-2: System Frameworks Specification|[Word](../docs/vpp2_2022-12-19.docx)|[PDF](../docs/vpp2_2022-12-19.pdf)|
 |VPP-3.1: Instrument Drivers Architecture and Design Specification|[Word](../docs/vpp31.doc)|[PDF](../docs/vpp31.pdf)|

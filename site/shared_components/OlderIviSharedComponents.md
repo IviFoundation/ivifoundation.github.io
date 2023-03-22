@@ -3,6 +3,7 @@ layout: default
 parent: Shared Components
 title: Older IVI Shard Components
 nav_order: 2
+redirect_from: /shared_components/OlderIviSharedComponents.aspx/
 ---
 
 # Older IVI Shared Components

@@ -3,6 +3,7 @@ layout: default
 nav_order:  1
 title: About
 has_children: true
+redirect_from: /about/default.aspx/
 ---
 
 # About IVI

@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /membership/current_members.aspx/
 ---
 
 # Current Members

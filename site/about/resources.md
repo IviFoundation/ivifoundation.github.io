@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: Corporate Contacts
 nav_order: 10
+redirect_from: /about/resources.aspx/
 ---
 
 # Resources

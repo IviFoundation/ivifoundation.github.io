@@ -2,6 +2,7 @@
 layout: default
 nav_order: 0
 Title: "IVI Website"
+redirect_from: /index.aspx/
 ---
 
 # Welcome to the Interchangeable Virtual Instruments Foundation

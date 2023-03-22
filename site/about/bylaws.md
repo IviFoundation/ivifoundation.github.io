@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order:  7
+redirect_from: /about/bylaws.aspx/
 ---
 
 # Bylaws

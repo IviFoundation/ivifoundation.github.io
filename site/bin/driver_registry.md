@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /bin/driver_registry.aspx/
 ---
 
 # Driver Registry

@@ -1,0 +1,14 @@
+# Do not need to retain this, but if the addforward needs to be done differently, this could be a helpful starting point
+# so checking it in   -- Joe
+
+# add a redirect line to every file that just satisfies the trailing .aspx reference
+for file in `find . -name \*.md -print`
+do
+echo $file
+
+nawk '/---/ { count++; if (count==2) print("redirect_from: xxxjemxxx"); print("---"); next;}  {print $0}' $file > $$
+redir=${file%.*}.aspx/
+redir2=${redir:1}
+sed 's|xxxjemxxx|'$redir2'|' $$ > $file
+
+done

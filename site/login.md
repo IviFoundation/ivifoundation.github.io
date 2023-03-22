@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect_from: /login.aspx/
 ---
 <div id="homeRightCol">
 

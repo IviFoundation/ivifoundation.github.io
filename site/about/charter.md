@@ -4,6 +4,7 @@ parent: About
 title: Charter
 nav_order:  1
 
+redirect_from: /about/charter.aspx/
 ---
 
 # Charter

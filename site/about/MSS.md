@@ -4,6 +4,7 @@ parent: About
 title: Measurement & Stimulus for Interchangeability
 nav_order:  5
 
+redirect_from: /about/MSS.aspx/
 ---
 
 # Measurement & Stimulus Subsystems (IVI-MSS)

@@ -3,6 +3,7 @@ layout: default
 parent: About
 title: SCPI
 nav_order: 7
+redirect_from: /about/SCPI.aspx/
 ---
 
 # SCPI Consortium
