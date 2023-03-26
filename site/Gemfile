@@ -8,3 +8,5 @@ gem "jekyll-github-metadata"
 
 #gem "just-the-docs", "0.4.0" # pinned to the current release
 gem "just-the-docs"
+
+gem 'jekyll-sitemap'
