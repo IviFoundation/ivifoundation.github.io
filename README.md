@@ -35,3 +35,4 @@ When you see that, the server is running. You can now open <http://localhost:400
 The site will automatically rebuild when you make changes to the source files. However, because the site is so big (something we should optimize), it may take a minute or two for the changes to show up, or even for output to appear in the console saying that there was a change. Also, due to [incremental builds](https://jekyllrb.com/docs/configuration/incremental-regeneration/), some changes require the server to be restarted so it can rebuild the entire site.
 
 You can stop the server by pressing `Ctrl+C`.
+

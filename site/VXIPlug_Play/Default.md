@@ -3,6 +3,7 @@ layout: default
 title: VXI<em>plug&play</em>
 nav_order:  9
 ---
+
 # VXI*plug&play*
 
 The VXI*plug&play* Systems Alliance was an organization whose members
@@ -14,7 +15,7 @@ The alliance used both formal and de facto standards to define complete
 system frameworks. These standard frameworks gave end-users "plug &
 play" interoperability at both the hardware and system software level.
 
-**Integration into the IVI Foundation**
+## Integration into the IVI Foundation
 
 The VXI*plug&play* Systems Alliance voted to become part of the IVI
 Foundation in late 2002 and the IVI Foundation Board of Directors voted

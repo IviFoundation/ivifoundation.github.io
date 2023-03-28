@@ -2,10 +2,11 @@
 layout: default
 nav_order:  7
 ---
+
 # Bylaws
 
 The IVI Foundation has adopted formal Bylaws to govern its activities.
-You download the document in
+You can download the document in
 [PDF](../downloads/Operating-Legal/ByLaws%202007-10-19.pdf) format.
 
 Below is a short synopsis of the IVI Foundation operating rules and
@@ -22,7 +23,7 @@ charged nominal meeting fees to cover the cost of meeting space,
 continental breakfast and lunch Other general communications are
 conducted via email
 
-**Operating Procedures**
+## Operating Procedures
 
 IVI's day-to-day activities are governed by IVI specification 1.2,
 Operating Procedures, available on the
@@ -37,9 +38,8 @@ anything appearing in the Operating Procedures, the bylaws take
 precedence.
 
 Where procedures are not defined by the Operating Procedures document or
-the bylaws, the IVI Foundation uses Robert�s Rules of order (newly
+the bylaws, the IVI Foundation uses Robert's Rules of order (newly
 revised).
 
 For more information on IVI operating procedures, see the Operating
-Procedure Committee page: [Membership \> Committees \> Operating
-Procedures](../membership/operating_procedures_committee.html)
+Procedure Committee page: [Membership \> Committees \> Operating Procedures](../membership/operating_procedures_committee.html)

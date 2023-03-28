@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # How To Join
 
 If you or your company would like to be part of this exciting
@@ -8,8 +9,8 @@ development, please download the IVI Foundation by-laws and membership
 application (below). After reading through the by-laws, fill out the
 member application and fax or mail with your check to:
 
-[Aaron Hall](mailto:execdir@ivifoundation.org)  
-Director of Services, IVI Foundation  
+[Aaron Hall](mailto:execdir@ivifoundation.org)
+Director of Services, IVI Foundation
 
 There are three levels of membership:
 
@@ -26,5 +27,5 @@ an invoice. Your membership will start when check is received.
 
 [IVI Membership By-laws](../about/bylaws.html)
 
-[IVI Membership
-Application](../downloads/Operating-Legal/IVI%20Membership%20Application%202016OCT20.docx)
+[IVI Membership Application](../downloads/Operating-Legal/IVI%20Membership%20Application%202016OCT20.docx)
+

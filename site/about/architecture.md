@@ -14,7 +14,7 @@ usability, and completeness. The specifications define advanced features
 such as instrument simulation, state caching, automatic range checking,
 and multithread safety.
 
-**Driver Types**
+## Driver Types
 
 IVI custom specific drivers support only inherent capabilities and
 instrument specific capabilities that are not standardized by the
@@ -38,23 +38,27 @@ To achieve interchangeability, users program to an IVI class interface
 available through an IVI class-compliant specific driver or a separate
 IVI class driver.
 
-![IVI Architecture](../assets/images/IVI_Architecture.jpg)  
-**IVI System Architecture**
+![IVI Architecture](../assets/images/IVI_Architecture.jpg)
 
-**Driver API**
+# IVI System Architecture
+
+The overall IVI driver architecture includes the driver APIs, Instrument I/O and
+the IVI Driver Shared Components.
+
+## Driver API
 
 To support all popular programming languages and development
 environments, IVI drivers provide either a IVI-C or an IVI-COM API.
 Driver developers may provide both interfaces, as well as wrapper
 interfaces optimized for specific development environments.
 
-**Instrument I/O**
+## Instrument I/O
 
 All IVI drivers communicate to the instrumentation hardware through an
 I/O Library. The VISA library is used for the GPIB and VXI buses, while
 other buses can either utilize VISA or another library.
 
-**Shared Components**
+## Shared Components
 
 IVI Foundation members have cooperated to provide common software
 components, called IVI shared components, that ensure multi-vendor
