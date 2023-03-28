@@ -162,6 +162,28 @@ callouts:
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
+  - jekyll-sitemap
+
+# jekyll-sitemap: the base hostname & protocol for the site
+url: "http://localhost:4000/"
+
+# jekyll-sitemap: list of folders, which shall not be part of sitemap.xml
+defaults:
+  -
+    scope:
+      path: "assets/images/**"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "assets/meetings/**"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "downloads/**"
+    values:
+      sitemap: false
 
 kramdown:
   syntax_highlighter_opts:
