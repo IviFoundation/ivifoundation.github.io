@@ -2,6 +2,11 @@
 layout: default
 title: Specifications
 nav_order:  3
+redirect_from: 
+    - specifications/default.aspx/
+    - specifications/Default.aspx/ 
+    - Specifications/default.aspx/ 
+    - Specifications/Default.aspx/ 
 ---
 
 This page has links to all of the current IVI specifications, including
