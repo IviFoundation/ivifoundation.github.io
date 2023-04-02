@@ -7,6 +7,7 @@ about/default.md
 shared_components/Default.md 
 specifications/default.md 
 resources/Default.md 
+aboutIVIFoundation/default.md
 meetings.md
 news/default.md
 contact_us.md
@@ -25,11 +26,18 @@ about/conformance.md
 about/bylaws.md
 '
 
+aboutIVIFoundationPages='
+aboutIVIFoundation/charter.md
+aboutIVIFoundation/contact_us.md
+aboutIVIFoundation/ip_policy.md
+aboutIVIFoundation/legal.md
+aboutIVIFoundation/bylaws.md
+'
 
 # Could increase robustness of search, but "nav_order doesn't show up in our files"
 awkscript='
 // {  
-    if ($0 ~ /nav_order/)
+    if ($0 ~ /nav_order:/)
      { print( "nav_order: ", page);}
 
     else                
@@ -49,6 +57,15 @@ done
 
 i=1
 for page in $aboutpages
+do 
+cp $page $$
+nawk -v page=$i "$awkscript" $$ > $page
+((i=i+1))
+done
+
+
+i=1
+for page in $aboutIVIFoundationPages
 do 
 cp $page $$
 nawk -v page=$i "$awkscript" $$ > $page
