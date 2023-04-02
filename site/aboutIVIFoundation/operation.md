@@ -5,7 +5,7 @@ title: Operation
 nav_order:  2
 ---
 
-# The Operation of the IVI Foundation
+# How the IVI Foundation Operates
 
 The IVI foundation was incorporated as a not-for-profit corporation in
 the State of Delaware in March 2001. IVI is an open consortium of users,
