@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: About the IVI Foundation
 title: Charter
 nav_order:  1
 

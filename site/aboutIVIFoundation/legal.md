@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: About
+parent: About the IVI Foundation
 title: Legal
-nav_order: 9
+nav_order:  4
 ---
 
 # Legal

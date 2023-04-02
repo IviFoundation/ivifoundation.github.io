@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: About
+parent: About the IVI Foundation
 title: IPR Policy
-nav_order: 8
+nav_order:  3
 ---
 
 # IPR Policy

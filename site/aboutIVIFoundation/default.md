@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order:  1
-title: About
+nav_order:  5
+title: About the IVI Foundation
 has_children: true
 ---
 

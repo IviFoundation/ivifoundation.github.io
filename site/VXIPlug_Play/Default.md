@@ -1,7 +1,8 @@
 ---
 layout: default
 title: VXI<em>plug&play</em>
-nav_order:  9
+parent: About
+nav_order:  7
 ---
 
 # VXI*plug&play*
