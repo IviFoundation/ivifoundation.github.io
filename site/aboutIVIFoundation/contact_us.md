@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: About the IVI Foundation
-nav_order:  2
+nav_order:  4
 title: Contact Us
 ---
 
