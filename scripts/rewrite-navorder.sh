@@ -10,8 +10,6 @@ resources/Default.md
 aboutIVIFoundation/default.md
 meetings.md
 news/default.md
-scpi/Default.md
-VXIPlug_Play/Default.md
 privacy_policy.md
 '
 
@@ -21,6 +19,8 @@ about/architecture.md
 about/instrument_classes.md
 about/MSS.md
 about/conformance.md
+scpi/Default.md
+VXIPlug_Play/Default.md
 '
 
 aboutIVIFoundationPages='
