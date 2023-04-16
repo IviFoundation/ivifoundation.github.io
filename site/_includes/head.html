@@ -19,10 +19,12 @@
   {% endif %}
 
   {% if site.search_enabled != false %}
-    <script src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+  <!-- Temporary hack, remove the relative_url filter from line below -->
+    <script src="{{ '/assets/js/vendor/lunr.min.js'  }}"></script>
   {% endif %}
 
-  <script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
+  <!-- Temporary hack, remove the relative_url filter from line below -->
+  <script src="{{ '/assets/js/just-the-docs.js' }}"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -32,7 +34,8 @@
     {% endif %}
   {% endfor %}
   {% if favicon %}
-    <link rel="icon" href="{{ site.favicon_ico | default: '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <!-- Temporary hack, remove the relative_url filter from line below -->
+    <link rel="icon" href="{{ site.favicon_ico | default: '/favicon.ico' }}" type="image/x-icon">
   {% endif %}
 
   {% seo %}
