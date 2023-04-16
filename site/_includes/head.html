@@ -1,8 +1,8 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
-  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+  <!-- Temporary hack, remove the relative_url filter from line below -->
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css'  }}">
 
   {% if site.ga_tracking != nil %}
     {% assign ga_tracking_ids = site.ga_tracking | split: "," %}
