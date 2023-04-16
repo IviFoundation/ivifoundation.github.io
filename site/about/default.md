@@ -28,3 +28,11 @@ technology.
   web pages where you can to download  drivers, get  
   application information and review IVI-related software products.
 
+# Diagnostics for URL Management Problem with GitHub
+
+The following is Diagnostic data:
+
+- Diagnostic: the baseurl is "{{ site.baseurl }}"
+- Diagnostic: the url is "{{ site.url }}"
+- Diagnostic: the title is "{{ site.title }}"
+- Diagnostic: creating a relative url from /foo/ gives "{{ '/foo/' | relative_url }}"
