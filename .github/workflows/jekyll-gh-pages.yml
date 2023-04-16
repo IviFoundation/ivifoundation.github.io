@@ -51,8 +51,7 @@ jobs:
       #   working-directory: ./site
       - name: Build with Jekyll
         # Defaults output to '/_site'
-        # JEM - trying alternate serve loc   run: bundle exec jekyll build --baseurl / --profile --trace
-        run: bundle exec jekyll build --baseurl /pages/IviFoundation --profile --trace
+        run: bundle exec jekyll build --baseurl / --profile --trace
         #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
         working-directory: ./site
         env:
