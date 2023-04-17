@@ -2,8 +2,8 @@ title: IVI Foundation
 description: Incorporating Jekyll just-the-docs them into md derived from old site
 theme: just-the-docs
 
-# per docusaurus/config.js
-baseurl: "/"
+# baseurl should not be set (since IVI doesn't use a sub) per https://ben.balter.com/jekyll-style-guide/config/#baseurl
+# baseurl: ""
 # jekyll-sitemap: the base hostname & protocol for the site
 url: "https://dev.ivifoundation.org"
 
