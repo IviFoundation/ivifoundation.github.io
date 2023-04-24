@@ -42,40 +42,11 @@ jobs:
           bundle --version
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
-      - name: Install the Gems
-        run: |
-          cd ./site
-          bundle install
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./site
           destination: ./_site
-        #with:
-          # Optional static site generator to attempt to configure: "nuxt", "next", "gatsby", or "sveltekit"
-          #static_site_generator: # optional
-          # Optional file path to static site generator configuration file
-          ##generator_config_file: # optional
-          # GitHub token
-          #token: # default is ${{ github.token }}
-          # Try to enable Pages for the repository if it is not already enabled. This option requires a token other than `GITHUB_TOKEN` to be provided. In the context of a Personal Access Token, the `repo` scope or Pages write permission is required. In the context of a GitHub App, the `administration:write` and `pages:write` permissions are required.
-          #enablement: # optional, default is false
-     # - name: Setup Pages
-     #   id: pages
-     #   uses: actions/configure-pages@v3
-     #   with:
-     #     working-directory: ./site
-      # ACB: Revisit this. Currently giving errors like: https://github.com/IviFoundation/ivifoundation.github.io/actions/runs/4251400207/jobs/7393701919
-      # - name: Checking Jekyll configuration
-      #   run: bundle exec jekyll doctor
-      #   working-directory: ./site
-   #   - name: Build with Jekyll
-   #     # Defaults output to '/_site'
-   #     run: bundle exec jekyll build --baseurl / --profile --trace
-   #     #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
-   #     working-directory: ./site
-   #     env:
-   #       JEKYLL_ENV: production
       - name: Upload artifact
         # This will automatically upload an artifact from the '/_site' directory
         uses: actions/upload-pages-artifact@v1
