@@ -81,10 +81,10 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         if: ${{ success() && github.ref == 'refs/heads/main' }}
         with:
-          path: ./site/_site/
-      - name: Cleaning up
-        run: bundle exec jekyll clean
-        working-directory: ./site
+          path: ./_site/
+   #   - name: Cleaning up
+   #     run: bundle exec jekyll clean
+   #     working-directory: ./site
 
   # Deployment job
   deploy:
