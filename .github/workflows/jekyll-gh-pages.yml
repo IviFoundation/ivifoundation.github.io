@@ -43,7 +43,9 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
       - name: Install the Gems
-        run: bundle install
+        run: 
+          cd ./site
+          bundle install
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
