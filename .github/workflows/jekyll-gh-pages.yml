@@ -43,17 +43,22 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-        with:
-          working-directory: ./site
+     #   with:
+        
+      # JM: Log says this working-directory is not expecte-- empties entire with block
+      #    working-directory: ./site
       # ACB: Revisit this. Currently giving errors like: https://github.com/IviFoundation/ivifoundation.github.io/actions/runs/4251400207/jobs/7393701919
       # - name: Checking Jekyll configuration
       #   run: bundle exec jekyll doctor
       #   working-directory: ./site
       - name: Build with Jekyll
         # Defaults output to '/_site'
-        run: bundle exec jekyll build --baseurl / --profile --trace
+        run: 
+          bundle exec jekyll build --baseurl / --profile --trace
+          cat _site/index.html
         #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
         working-directory: ./site
+       
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
