@@ -10,3 +10,5 @@ gem "jekyll-github-metadata"
 gem "just-the-docs"
 
 gem 'jekyll-sitemap'
+
+gem 'jekyll-redirect-from'
