@@ -3,6 +3,12 @@ layout: default
 nav_order:  2
 title: Shared Components
 has_children: true
+redirect_from: 
+    - shared_components/default.aspx/
+    - Shared_components/default.aspx/
+    - shared_components/Default.aspx/
+    - Shared_Components/Default.aspx/
+    - Shared_components/Default.aspx/
 ---
 
 # Shared Components
