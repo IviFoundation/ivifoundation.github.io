@@ -25,10 +25,9 @@ VXIPlug_Play/Default.md
 
 aboutIVIFoundationPages='
 aboutIVIFoundation/charter.md
-aboutIVIFoundation/contact_us.md
+aboutIVIFoundation/operation.md
 aboutIVIFoundation/ip_policy.md
-aboutIVIFoundation/legal.md
-aboutIVIFoundation/bylaws.md
+aboutIVIFoundation/contact_us.md
 '
 
 # Could increase robustness of search, but "nav_order doesn't show up in our files"
