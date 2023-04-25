@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: About
-title: Corporate Contacts
+title: Member Company Resources
 nav_order: 10
 ---
 
-# Resources
+# Member Company Resources
 
 The following IVI Foundation member companies have provided these links
 to help you:
@@ -77,7 +77,7 @@ Notes:
     their respective companies.
 1. Views expressed in these pages are not necessarily those of the IVI
     Foundation.
-1. Technical information presented has not been verified.
+1. Technical information presented has not been verified by the IVI Foundation.
 1. References to commercial products should not be interpreted as an
     official IVI Foundation endorsement
 

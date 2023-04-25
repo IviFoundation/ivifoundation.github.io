@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About the IVI Foundation
+title: Current Members
+nav_order:  99
 ---
 
 # Current Members

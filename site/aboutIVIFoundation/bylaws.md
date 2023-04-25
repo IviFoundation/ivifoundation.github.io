@@ -1,6 +1,8 @@
 ---
 layout: default
-nav_order:  7
+parent: About the IVI Foundation
+title: By Laws
+nav_order:  5
 ---
 
 # Bylaws
