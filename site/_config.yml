@@ -1,6 +1,11 @@
 title: IVI Foundation
 description: Incorporating Jekyll just-the-docs them into md derived from old site
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+# baseurl should not be set (since IVI doesn't use a sub) per https://ben.balter.com/jekyll-style-guide/config/#baseurl
+
+# jekyll-sitemap: the base hostname & protocol for the site
+url: "https://dev.ivifoundation.org"
 
 
 # This causes some sort of problem with the md->html generation (?) commenting out for now (JEM 2023-02-19)
@@ -164,9 +169,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-redirect-from
-
-# jekyll-sitemap: the base hostname & protocol for the site
-url: "http://localhost:4000/"
 
 # jekyll-sitemap: list of folders, which shall not be part of sitemap.xml
 defaults:

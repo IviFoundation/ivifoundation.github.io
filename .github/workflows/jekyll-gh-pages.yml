@@ -40,31 +40,22 @@ jobs:
           ruby --version
           gem --version
           bundle --version
-      - name: Setup Pages
-        id: pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
-        with:
-          working-directory: ./site
-      # ACB: Revisit this. Currently giving errors like: https://github.com/IviFoundation/ivifoundation.github.io/actions/runs/4251400207/jobs/7393701919
-      # - name: Checking Jekyll configuration
-      #   run: bundle exec jekyll doctor
-      #   working-directory: ./site
       - name: Build with Jekyll
-        # Defaults output to '/_site'
-        run: bundle exec jekyll build --baseurl / --profile --trace
-        #run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} --profile --trace
-        working-directory: ./site
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./site
+          destination: ./_site
       - name: Upload artifact
         # This will automatically upload an artifact from the '/_site' directory
         uses: actions/upload-pages-artifact@v1
         if: ${{ success() && github.ref == 'refs/heads/main' }}
         with:
-          path: ./site/_site/
-      - name: Cleaning up
-        run: bundle exec jekyll clean
-        working-directory: ./site
+          path: ./_site/
+   #   - name: Cleaning up
+   #     run: bundle exec jekyll clean
+   #     working-directory: ./site
 
   # Deployment job
   deploy:
