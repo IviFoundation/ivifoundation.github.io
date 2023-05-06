@@ -17,8 +17,8 @@ technology.
 - The [Architecture](architecture.html) page describes the overall IVI
   software architecture, explaining the major software components and
   standard instrument classes.
-- [Instrument Classes](instrument_classes.html) describes IVI's
-  instrument classes in more detail.
+- [Instrument Classes](instrument_classes.html)  specify common API's 
+  for common types of instruments to facilitat interchanging instruments.
 - The [MSS](MSS.html) page describes IVI's Measurement and Stimulus
   Subsystem specification, which supports integrated solutions of IVI
   drivers, IVI shared components and other software elements.
