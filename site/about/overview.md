@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Overview
 nav_order:  1
 ---

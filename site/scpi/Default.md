@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The SCPI Standard
-parent: About
+parent: Standards
 nav_order:  6
 ---
 

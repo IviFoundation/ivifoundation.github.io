@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Member Company Resources
 nav_order: 10
 ---

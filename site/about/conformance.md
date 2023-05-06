@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Compliance
 nav_order:  5
 ---

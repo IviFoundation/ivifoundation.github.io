@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Driver Architecture
 nav_order:  2
 ---

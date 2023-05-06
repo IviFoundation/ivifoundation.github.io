@@ -6,7 +6,7 @@ redirect_from:
     - index.aspx/
 ---
 
-# Welcome to the Interchangeable Virtual Instruments Foundation
+# Home
 
 The IVI Foundation is an open consortium founded to promote
 specifications for programming test instruments that simplify

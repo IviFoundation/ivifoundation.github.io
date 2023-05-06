@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Measurement & Stimulus for Interchangeability
 nav_order:  4
 

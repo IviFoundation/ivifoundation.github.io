@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About
+parent: Standards
 title: Instrument Classes
 nav_order:  3
 ---

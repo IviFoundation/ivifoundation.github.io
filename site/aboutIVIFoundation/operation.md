@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: About the IVI Foundation
+parent: About
 title: Operation
 nav_order:  2
 ---
