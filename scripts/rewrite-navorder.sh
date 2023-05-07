@@ -29,6 +29,7 @@ aboutIVIFoundation/charter.md
 aboutIVIFoundation/operation.md
 aboutIVIFoundation/ip_policy.md
 aboutIVIFoundation/contact_us.md
+aboutIVIFoundation/how_to_join.md
 '
 
 # Could increase robustness of search, but "nav_order doesn't show up in our files"
