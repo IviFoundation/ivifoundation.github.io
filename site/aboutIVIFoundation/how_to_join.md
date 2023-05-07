@@ -1,5 +1,8 @@
 ---
 layout: default
+parent: About
+title: How to join
+nav_order:  5
 ---
 
 # How To Join

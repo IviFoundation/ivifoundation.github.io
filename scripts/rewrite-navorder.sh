@@ -7,6 +7,7 @@ about/default.md
 shared_components/Default.md 
 specifications/default.md 
 resources/Default.md 
+DriverRegistry/default.md
 announcements.html
 aboutIVIFoundation/default.md
 meetings.md
@@ -29,6 +30,7 @@ aboutIVIFoundation/charter.md
 aboutIVIFoundation/operation.md
 aboutIVIFoundation/ip_policy.md
 aboutIVIFoundation/contact_us.md
+aboutIVIFoundation/how_to_join.md
 '
 
 # Could increase robustness of search, but "nav_order doesn't show up in our files"
