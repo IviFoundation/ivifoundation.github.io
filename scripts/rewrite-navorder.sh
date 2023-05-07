@@ -7,6 +7,7 @@ about/default.md
 shared_components/Default.md 
 specifications/default.md 
 resources/Default.md 
+DriverRegistry/default.md
 announcements.html
 aboutIVIFoundation/default.md
 meetings.md
