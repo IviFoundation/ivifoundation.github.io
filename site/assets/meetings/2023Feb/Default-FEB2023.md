@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_exclude: true
 ---
 
 ## IVI Meeting Virtual Meeting
