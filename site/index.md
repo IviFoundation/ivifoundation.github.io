@@ -31,45 +31,39 @@ For details on these updates:
 
 [LXI Consortium Security Updates](https://lxistandard.org/)
 
-## VXI*plug&play*<span class="style1"> </span>
+<div class="ivi-callout-box">
 
-The VXI*plug&play* Systems Alliance was an organization whose members
-shared a common commitment to end-user success with open, multivendor
-VXI systems. For more information, [click here](VXIPlug_Play/Default.html).
+<h2 id="getting-started" style="margin-top: 0;">Getting Started</h2>
 
-## SCPI
+<p>For information on the IVI standards, see [More Information](resources/Default.html).</p>
 
-The Standard Commands for Programmable Instrumentation (SCPI) Consortium
-was an organization whose members shared a common commitment to develop
-a common interface language between computers and test instruments. For
-more information, [click here](scpi/Default.html).
+<p>
+For information to get started using IVI drivers, see the
+[IVI Getting Started Guide (PDF)](downloads/IVI-GSG-CurrentVersion.pdf).  
+</p>
 
-## IVI Overcomes Industry Challenges
+</div>
 
-In today's world two factors hinder efficient test system setup and
-support:
+## What is IVI?
 
-1\) the high cost of developing and maintaining test system software
-and, 2) rapidly evolving technology. The IVI Foundation addresses these
-needs through new driver technology:
+The IVI Foundation develops and maintains diverse standards that
+simplify test system development and maintenance when using software
+and hardware components from multiple vendors.  These standards includes:
 
-IVI drivers define a new level of quality, completeness, usability, and
-functionality that reduces the cost of test system development and
-ownership.
+* General purpose standards regarding instrument drivers for use in various 
+  development environments. That establish a high standard for the quality and
+  completeness of those drivers.  Including an industry-wide registration 
+  mechanism for all conformant instrument drivers.
 
-IVI drivers simplify upgrading or replacing components in complex test
-systems intended to be used over a long period of time. The IVI
-Foundation was formed in 1998 and officially incorporated in 2001. Its
-membership includes end-users, instrument vendors, software vendors,
-system suppliers, and system integrators.
+* Standards that specify APIs of specific classes of instruments that 
+  facilitate interchanging instruments.
 
-## Next IVI Meeting
+* The SCPI standard which specifies the strings that can be sent 
+  to instruments to control them.
 
-[**February 6-9, 2023 Virtual Meeting**](assets/meetings/2023Feb/Default-FEB2023.html)
-
-## Getting Started
-
-For general information on getting started using IVI drivers, see the
-[IVI Getting Started Guide (PDF)](downloads/IVI-GSG-CurrentVersion.pdf).  For more
-information on the IVI standards, see [More Information](resources/Default.html).
+* Standards regarding APIs used in programs that control instruments
+  to send and receive the strings specified by SCPI.
+  
+* Standards related to how messages are transferred between instruments
+  and computers.
 
