@@ -13,35 +13,18 @@ specifications for programming test instruments that simplify
 interchangeability, provide better performance, and reduce the cost of
 program development and maintenance.
 
-## Security<span class="style1"> </span>
-
-The IVI Foundation has been collaborating with the LXI Consortium to
-update the IVI standards for secure instrument network communication.
-For details on these updates:
-
-
-[Press Release (PDF)](https://lxistandard.org/Documents/News/2022-08_IVI_and_LXI_Press_Release.pdf)
-
-- IVI and LXI Leading the T&M Industry in Security Standardization
-
-[Article (PDF)](https://lxistandard.org/Documents/Articles/IviSecurityFeatures.pdf)
-
-
-- IVI Standard Updates for Secure Network Connections
-
-[LXI Consortium Security Updates](https://lxistandard.org/)
-
 <div class="ivi-callout-box">
+    <h2 id="getting-started" style="margin-top: 0;">
+        Getting Started
+    </h2>
 
-<h2 id="getting-started" style="margin-top: 0;">Getting Started</h2>
-
-<p>For information on the IVI standards, see [More Information](resources/Default.html).</p>
-
-<p>
-For information to get started using IVI drivers, see the
-[IVI Getting Started Guide (PDF)](downloads/IVI-GSG-CurrentVersion.pdf).  
-</p>
-
+    <p>
+        For information on the IVI standards, see <a href="resources/Default.html">More Information</a>.
+    </p>
+    <p>
+        For information to get started using IVI drivers, see the
+        <a href="downloads/IVI-GSG-CurrentVersion.pdf">IVI Getting Started Guide (PDF)</a>.  
+    </p>
 </div>
 
 ## What is IVI?
