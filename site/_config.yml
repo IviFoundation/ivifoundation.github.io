@@ -122,7 +122,6 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2001-2023 IVI Foundation <a href=\"/privacy_policy.html\">privacy policy</a>"
 
 
 # Footer last edited timestamp
