@@ -2,7 +2,7 @@
 layout: default
 parent: Standards
 title: Member Company Resources
-nav_order: 10
+nav_order:  8
 ---
 
 # Member Company Resources

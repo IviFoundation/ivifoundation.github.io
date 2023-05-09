@@ -6,9 +6,9 @@ nav_order:  4
 
 ---
 
-# Measurement & Stimulus Subsystems (IVI-MSS)
+# Measurement & Stimulus Subsystems
 
-The *Measurement and Stimulus Subsystem (IVI-MSS)* specification
+The *Measurement and Stimulus Subsystem* specification
 provides additional architectural help in building test and measurement
 solutions. IVI-MSS shows how IVI drivers, IVI shared components and
 other software elements can be combined together to build integrated
