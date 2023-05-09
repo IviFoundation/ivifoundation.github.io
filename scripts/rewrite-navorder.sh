@@ -10,9 +10,6 @@ resources/Default.md
 DriverRegistry/default.md
 announcements.html
 aboutIVIFoundation/default.md
-meetings.md
-news/default.md
-privacy_policy.md
 '
 
 aboutpages='
@@ -23,6 +20,7 @@ about/MSS.md
 about/conformance.md
 scpi/Default.md
 VXIPlug_Play/Default.md
+about/resources.md
 '
 
 aboutIVIFoundationPages='
@@ -31,6 +29,7 @@ aboutIVIFoundation/operation.md
 aboutIVIFoundation/ip_policy.md
 aboutIVIFoundation/contact_us.md
 aboutIVIFoundation/how_to_join.md
+membership/current_members.md
 '
 
 # Could increase robustness of search, but "nav_order doesn't show up in our files"

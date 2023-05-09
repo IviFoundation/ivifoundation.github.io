@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order:  4.6
+nav_order:  5
 title: Driver Registry
 has_children: true
 ---
