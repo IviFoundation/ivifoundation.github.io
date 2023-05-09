@@ -19,7 +19,7 @@ The VXI*plug&play* Systems Alliance voted to become part of the IVI
 Foundation in late 2002 and the IVI Foundation Board of Directors voted
 to accept the merger in the spring of 2003. IVI has working groups
 that continue to maintain and enhance several of the VXI*plug&play* standards
-including the VISA standard for IO, that has been extended including:
+including the VISA standard for IO.  Recent work has incluced:
 
 - Linux support
 - Extensions for secure communication with instruments
