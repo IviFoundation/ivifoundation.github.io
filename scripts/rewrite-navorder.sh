@@ -18,8 +18,8 @@ about/architecture.md
 about/instrument_classes.md
 about/MSS.md
 about/conformance.md
-scpi/Default.md
-VXIPlug_Play/Default.md
+about/scpi.md
+about/vxi_plugandplay.md
 about/resources.md
 '
 
