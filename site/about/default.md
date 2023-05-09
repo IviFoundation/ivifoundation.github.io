@@ -3,6 +3,7 @@ layout: default
 nav_order:  1
 title: Standards
 has_children: true
+has_toc: false
 ---
 
 # About IVI
@@ -11,7 +12,7 @@ These pages will help you learn more about the IVI Foundation and IVI
 technology.
 
 
-- See [Overview](overview.html) to get an overview of IVI Driver technology
+- See [Driver Overview](overview.html) to get an overview of IVI Driver technology
   and benefits.
 - The [Architecture](architecture.html) page describes the overall IVI
   Driver software architecture, explaining the major software components and

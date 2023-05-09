@@ -1,19 +1,19 @@
 ---
 layout: default
 parent: Standards
-title: Overview
+title: Driver Overview
 nav_order:  1
 ---
 
-# Overview
+# Driver Standards Overview
 
-The IVI standards define an open driver architecture, a set of
+The IVI Driver standards define an open driver architecture, a set of
 instrument classes, and shared software components. Together these
 provide critical elements needed for instrument interchangeability.
 
 ## Benefits
 
-IVI offers several benefits to measurement system designers:
+IVI drivers offer several benefits to measurement system designers:
 
 - IVI's defined Application Programming Interfaces (APIs) standardize
   common measurement functions reducing the time needed to learn a new
@@ -47,4 +47,5 @@ specifications.
 
 ## More Information
 
-For a printable overview of IVI, view/download the [IVI TriFold Brochure 2013 (pdf)](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).
+For a printable overview of IVI drivers, view/download the 
+[IVI TriFold Brochure 2013 (pdf)](../assets/docs/IVI%20TriFold%20Brochure%202013.pdf).
