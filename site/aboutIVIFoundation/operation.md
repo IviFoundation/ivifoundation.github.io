@@ -21,6 +21,9 @@ attend only the portions of the meeting that interest them. Attendees are
 charged nominal meeting fees to cover the cost of meeting space,
 continental breakfast and lunch.
 
+The IVI Foundation operates in accordance with its
+[bylaws](../assets/docs/bylaws-2007-10-19.pdf).
+
 ##  Technical Meetings
 
 The IVI Foundation Technical Committee is responsible for the technical 
