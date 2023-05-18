@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Specifications
+title: Specification Downloads
 nav_order:  3
 redirect_from: 
     - specifications/default.aspx/
@@ -12,7 +12,7 @@ redirect_from:
 This page has links to all of the current IVI specifications, including
 specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
-# Specifications
+# Specification Downloads
 {: .no_toc .text-delta }
 
 1. TOC
