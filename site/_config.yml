@@ -1,9 +1,7 @@
 title: IVI Foundation
 description: Incorporating Jekyll just-the-docs them into md derived from old site
 
-#use the remote_theme line for GitHub pages and the naked theme line for local dev
-remote_theme: just-the-docs/just-the-docs
-#theme : just-the-docs
+theme: just-the-docs
 
 # baseurl should not be set (since IVI doesn't use a sub) per https://ben.balter.com/jekyll-style-guide/config/#baseurl
 
