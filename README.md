@@ -36,5 +36,6 @@ The site will automatically rebuild when you make changes to the source files. H
 
 You can stop the server by pressing `Ctrl+C`.
 
+## Troubleshooting
 
-##
+See: <https://github.com/IviFoundation/ivifoundation.github.io/wiki/Troubleshooting-build-issues>
