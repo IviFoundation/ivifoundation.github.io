@@ -2,6 +2,7 @@
 layout: posts
 title: IVI Updates for Secure Network Connections
 author: Joe Mueller
+excerpt_separator: "<!--excerpt-->"
 ---
 
 The IVI Foundation is responsible for numerous standards that facilitate creating multi-vendor test
@@ -16,6 +17,8 @@ communication
 
 * IVI-6.5: SASL Mechanism Specification (New) was created to enhance interoperability between
 instruments and VISA libraries
+
+<!--excerpt-->
 
 # IVI-6.1: High-Speed LAN Instrument Protocol (HiSLIP)
 
