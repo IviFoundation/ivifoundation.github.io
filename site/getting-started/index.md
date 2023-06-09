@@ -1,12 +1,14 @@
 ---
 layout: default
-nav_order:  4
-title: More Information
+nav_order: 4
+title: Getting Started
 ---
-This page cohtains various resources for learning more about IVI and the
+
+This page contains various resources for learning more about IVI and the
 IVI standards.
 
 ## Contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -20,7 +22,7 @@ how to use them, and how to select between them.
 Taking this class will help you get started creating test programs to
 control instruments and give you a better understanding of how to use
 the IVI features. The classes are open to the public free of charge at
-our IVI Foundation meetings in the US, Europe and China. 
+our IVI Foundation meetings in the US, Europe and China.
 Contact [Aaron Hall](mailto:execdir@ivifoundation.org), Director of Services, IVI
 Foundation, to get the date and location of the next course.
 
@@ -121,88 +123,3 @@ by Kirk G. Fertitta, Pacific Mindworks
 [Click here](../assets/docs/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
 VISA Installations.pdf"
-
-## IVI Driver Assistance from Member Companies
-
-The following IVI Foundation member companies have provided these links
-to help you:
-
-  - Locate and obtain IVI drivers
-  - Locate commercial software tools that simplify IVI driver creation
-    and use
-  - Find IVI technical information and code samples
-  - Learn more about exciting IVI applications
-
-<div class="basicLine">
-
-</div>
-
-[Keysight Technologies](https://www.keysight.com/) (formerly Agilent
-Technologies Electronic Measurement
-Group)[](https://www.keysight.com/main/home.jspx?cc=US&lc=eng)
-Keysight Technologies provides IVI-COM drivers for its instruments as
-well as software for instrument control. Click to download Keysight
-IVI-COM drivers, get application information and review software
-products.
-
-<span class="style1" style="COLOR: black;"> [Astronics Test Systems](https://www.astronicstestsystems.com/support/downloads)</span>
-Astronics Test Systems provides standard-compliant software solutions
-for testing critical hardware systems. Our software products and
-services support the integration of IVI technology. Contact our
-technical sales department to discuss how our Systems and Products can
-satisfy your IVI requirements.
-
-[Keithley Instruments](https://www.keithley.com/)
-Keithley provides IVI drivers for many of the world-class instruments
-that meet the production test, process monitoring, product development,
-and research needs of electronics manufacturers.
-
-[National Instruments](https://www.ni.com/ivi/)
-A founding member, National Instruments provides IVI-C class and
-specific drivers and instrument control software. Click for IVI
-information, application notes, and free driver downloads.
-
-[Pacific MindWorks](https://www.pacificmindworks.com/)
-Pacific MindWorks is the industry leader in IVI driver tools, training,
-and development services. Read more about why the industrys biggest
-names turn to us.
-
-[Rohde & Schwarz](https://www.rohde-schwarz.com/drivers/overview.html)
-Rohde & Schwarz provides IVI-COM drivers and additional tools for
-instrument control. Click to get IVI information, application notes, and
-free IVI-COM driver downloads.
-
-[MathWorks](https://www.mathworks.com/products/instrument/)
-The MathWorks, developers of MATLAB and Simulink, provides interactive
-tools for consistent instrument communication and control independent of
-hardware manufacture or driver.
-
-[Tektronix](https://www.tek.com/oscilloscopes)
-Tektronix, a world leader in test, measurement and monitoring, provides
-IVI-COM drivers to enable efficient communication between open Windows
-oscilloscopes and other compliant instruments and software.
-
-[Teradyne](https://www.teradyne.com/militaryaerospace/)
-An industry leader in VXI instrumentation and system integration,
-Teradyne is committed to the support of open standards such as IVI,
-VXI*Plug&Play*, and XML. Click here for more information.
-
-<span class="style2">[VTI Instruments](https://www.vtiinstruments.com/)</span>
-VTI Instruments provides driver support for all your functional test and
-data acquisition needs. Leveraging the performance and modularity of VXI
-has never been easier.
-
-<div class="basicLine">
-
-</div>
-
-Notes:
-
-1.  Product and company names listed are trademarks or trade names of
-    their respective companies.
-2.  Views expressed in these pages are not necessarily those of the IVI
-    Foundation.
-3.  Technical information presented has not been verified.
-4.  References to commercial products should not be interpreted as an
-    official IVI Foundation endorsement
-
