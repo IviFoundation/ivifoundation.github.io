@@ -1,3 +1,6 @@
+---
+---
+
 div.ivi-callout-box {
     background: #ddf;
     padding: 10px 30px;
@@ -7,4 +10,12 @@ div.ivi-callout-box {
 div.ivi-small-box {
     background: rgb(235, 235, 235);
     font-size:small;
+}
+
+div.wip-banner {
+    background: #fcc;
+    border: 1px solid #faa;
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    margin: 0.5em 1em;
 }
