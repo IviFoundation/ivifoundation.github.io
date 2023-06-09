@@ -31,7 +31,7 @@ program development and maintenance.
 
 The IVI Foundation develops and maintains diverse standards that
 simplify test system development and maintenance when using software
-and hardware components from multiple vendors.  These standards includes:
+and hardware components from multiple vendors.  These standards include:
 
 * General purpose standards regarding instrument drivers for use in various 
   development environments. That establish a high standard for the quality and
