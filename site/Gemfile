@@ -4,13 +4,12 @@ gem "jekyll", "~> 4.3"
 
 gem "webrick"
 
-gem "jekyll-github-metadata"
-
-#gem "jekyll-remote-theme"
-
-#gem "just-the-docs", "0.4.0" # pinned to the current release
-gem "just-the-docs"
-
-gem 'jekyll-sitemap'
-
-gem 'jekyll-redirect-from'
+# If you have any plugins, put them here! Or you may have weird errors:
+#   https://github.com/jekyll/jekyll/issues/6358#issuecomment-339859914
+group :jekyll_plugins do
+    gem "just-the-docs"
+    gem "jekyll-github-metadata"
+    gem 'jekyll-sitemap'
+    gem 'jekyll-redirect-from'
+    #gem "jekyll-feed", "~> 0.6"
+end
