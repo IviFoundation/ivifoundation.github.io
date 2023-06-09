@@ -43,19 +43,16 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./site
-          destination: ./_site
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        working-directory: ./site
+        env:
+          JEKYLL_ENV: production
       - name: Upload artifact
-        # This will automatically upload an artifact from the '/_site' directory
         uses: actions/upload-pages-artifact@v1
         if: ${{ success() && github.ref == 'refs/heads/main' }}
         with:
-          path: ./_site/
-   #   - name: Cleaning up
-   #     run: bundle exec jekyll clean
-   #     working-directory: ./site
+          path: ./site/_site/
 
   # Deployment job
   deploy:
