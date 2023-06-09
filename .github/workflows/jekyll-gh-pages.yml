@@ -27,10 +27,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Save time to current_time
+        id: time
+        run: echo "::set-output name=current_time::$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
       - name: Create generation metadata
         run: |
           echo '{
-            "time": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "time": "${{ steps.time.outputs.current_time }}",
             "githubAction": {
               "name": "${{ github.workflow }}",
               "runId": ${{ github.run_id }},
