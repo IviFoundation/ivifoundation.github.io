@@ -27,6 +27,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Save time to current_time
+        id: time
+        run: echo "::set-output name=current_time::$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+      - name: Create generation metadata
+        run: |
+          echo '{
+            "time": "${{ steps.time.outputs.current_time }}",
+            "githubAction": {
+              "name": "${{ github.workflow }}",
+              "runId": ${{ github.run_id }},
+              "runNumber": ${{ github.run_number }},
+              "actor": "${{ github.actor }}",
+              "repository": "${{ github.repository }}",
+              "sha": "${{ github.sha }}",
+              "ref": "${{ github.ref }}",
+              "event": "${{ github.event_name }}"
+            }
+          }' > site/metadata.json
+          echo 'JSON metadata file created successfully!'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -43,19 +62,16 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./site
-          destination: ./_site
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        working-directory: ./site
+        env:
+          JEKYLL_ENV: production
       - name: Upload artifact
-        # This will automatically upload an artifact from the '/_site' directory
         uses: actions/upload-pages-artifact@v1
         if: ${{ success() && github.ref == 'refs/heads/main' }}
         with:
-          path: ./_site/
-   #   - name: Cleaning up
-   #     run: bundle exec jekyll clean
-   #     working-directory: ./site
+          path: ./site/_site/
 
   # Deployment job
   deploy:
