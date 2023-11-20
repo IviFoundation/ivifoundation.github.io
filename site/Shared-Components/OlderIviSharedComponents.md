@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Shared Components
-title: Older IVI Shard Components
+title: Older IVI Shared Components
 nav_order: 2
 ---
 
