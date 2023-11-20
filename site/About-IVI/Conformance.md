@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Standards
-title: Compliance
+title: Conformance
 nav_order:  5
 ---
 
-# Compliance
+# Conformance
 
 IVI drivers that conform to and are documented according to the IVI
 specifications may display the IVI Conformant logo for easy
