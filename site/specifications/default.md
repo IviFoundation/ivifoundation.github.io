@@ -51,7 +51,8 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |IVI-3.12: Floating Point Services Specification|[Word](../downloads/Architecture%20Specifications/Ivi312.doc)|[PDF](../downloads/Architecture%20Specifications/Ivi312.pdf)|
 |IVI-3.14: Primary Interop Assembly Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.14_Primary_Interop_Assembly_2014-11-26.doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3.14_Primary_Interop_Assembly_2014-11-26.pdf)|
 |IVI-3.17: Installation Requirements Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.17_Installation_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-3.17_Installation_2022-12-19.pdf)|
-|IVI-3.18: IVI.NET Utility Classes and Interfaces Specification|[Word](../downloads/Architecture%20Specifications/IVI-3%2018_%20NET_Utility_Classes_and_Interfaces_2016-02-26.doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3%2018_%20NET_Utility_Classes_and_Interfaces_2016-02-26.pdf)|
+|IVI-3.18: IVI.NET Utility Classes and Interfaces Spejoe@NUC-Linux:~$ cd git-uivi
+_2016-02-26.pdf)|
 |IVI-5.0: Glossary|[Word](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.pdf)|
 |IVI-3.7: IVI Event Server|Obsolete|||
 
@@ -97,28 +98,28 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
-|VPP-4.3: The VISA Library|[Word](../downloads/Architecture%20Specifications/vpp43_2022-05-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp43_2022-05-19.pdf)|
-|VPP-4.3.2: VISA Implementation Specification For Textual Languages|[Word](../downloads/Architecture%20Specifications/vpp432_2022-05-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp432_2022-05-19.pdf)|
-|VPP-4.3.3: VISA Implementation Specification For The G Language|[Word](../docs/vpp433_2016-02-26.doc)|[PDF](../docs/vpp433_2016-02-26.pdf)|
-|VPP-4.3.4: VISA Implementation Specification For COM|[Word](../downloads/Architecture%20Specifications/vpp434_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp434_2022-12-19.pdf)|
-|VPP-4.3.5: VISA Shared Components|[Word](../downloads/Architecture%20Specifications/vpp435_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp435_2022-12-19.pdf)|
-|VPP-4.3.6: VISA Implementation Specification for .NET|[Word](../downloads/Architecture%20Specifications/vpp436_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/vpp436_2022-12-19.pdf)|
+|VPP-4.3: The VISA Library|[Word](../downloads/VISA/vpp43_2022-05-19.docx)|[PDF](../downloads/VISA/vpp43_2022-05-19.pdf)|
+|VPP-4.3.2: VISA Implementation Specification For Textual Languages|[Word](../downloads/VISA/vpp432_2022-05-19.docx)|[PDF](../downloads/VISA/vpp432_2022-05-19.pdf)|
+|VPP-4.3.3: VISA Implementation Specification For The G Language|[Word](../downloads/VISA/vpp433_2016-02-26.doc)|[PDF](../downloads/VISA/vpp433_2016-02-26.pdf)|
+|VPP-4.3.4: VISA Implementation Specification For COM|[Word](../downloads/VISA/vpp434_2022-12-19.docx)|[PDF](../downloads/VISA/vpp434_2022-12-19.pdf)|
+|VPP-4.3.5: VISA Shared Components|[Word](../downloads/VISA/vpp435_2022-12-19.docx)|[PDF](../downloads/VISA/vpp435_2022-12-19.pdf)|
+|VPP-4.3.6: VISA Implementation Specification for .NET|[Word](../downloads/VISA/vpp436_2022-05-19.docx)|[PDF](../downloads/VISA/vpp436_2022-12-19.pdf)|
 
 # Other VXI*plug&play* Speciications:
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
-|VPP-1: Charter Document|[Word](../docs/vpp1_2022-12-19.docx)|[PDF](../docs/vpp1_2022-12-19.pdf)|
-|VPP-2: System Frameworks Specification|[Word](../docs/vpp2_2022-12-19.docx)|[PDF](../docs/vpp2_2022-12-19.pdf)|
-|VPP-3.1: Instrument Drivers Architecture and Design Specification|[Word](../docs/vpp31.doc)|[PDF](../docs/vpp31.pdf)|
-|VPP-3.2: Instrument Driver Functional Body Specification|[Word](../docs/vpp32.doc)|[PDF](../docs/vpp32.pdf)|
-|VPP-3.3: Instrument Driver Interactive Developer Interface Specification|[Word](../docs/vpp33.doc)|[PDF](../docs/vpp33.pdf)|
-|VPP-3.4: Instrument Driver Programmatic Developer Interface Specification|[Word](../docs/vpp34.doc)|[PDF](../docs/vpp34.pdf)|
-|VPP-6: Installation and Packaging Specification|[Word](../docs/vpp6_2022-12-19.docx)|[PDF](../docs/vpp6_2022-12-19.pdf)|
-|VPP-7: Soft Front Panel Specification|[Word](../docs/vpp7.doc)|[PDF](../docs/vpp7.pdf)|
-|VPP-8: VXI Module/Mainframe to Receiver Interconnection|[Word](../docs/vpp8_1995-06-02.docx)|[PDF](../docs/vpp8_1995-06-02.pdf)|
-|VPP-9: Instrument Vendor Abbreviations|[Word](../docs/vpp9_4.32_2022-03-02.docx)|[PDF](../docs/vpp9_4.32_2022-03-02.pdf)|
-|VPP-A: Operating Procedures (obsolete - Feb. 2008)| na | na |
+|VPP-1: Charter Document|[Word](../downloads/VPP/vpp1_2022-12-19.docx)|[PDF](../downloads/VPP/vpp1_2022-12-19.pdf)|
+|VPP-2: System Frameworks Specification|[Word](../downloads/VPP/vpp2_2022-12-19.docx)|[PDF](../downloads/VPP/vpp2_2022-12-19.pdf)|
+|VPP-3.1: Instrument Drivers Architecture and Design Specification|[Word](../downloads/VPP/vpp31.doc)|[PDF](../downloads/VPP/vpp31.pdf)|
+|VPP-3.2: Instrument Driver Functional Body Specification|[Word](../downloads/VPP/vpp32.doc)|[PDF](../downloads/VPP/vpp32.pdf)|
+|VPP-3.3: Instrument Driver Interactive Developer Interface Specification|[Word](../downloads/VPP/vpp33.doc)|[PDF](../downloads/VPP/vpp33.pdf)|
+|VPP-3.4: Instrument Driver Programmatic Developer Interface Specification|[Word](../downloads/VPP/vpp34.doc)|[PDF](../downloads/VPP/vpp34.pdf)|
+|VPP-6: Installation and Packaging Specification|[Word](../downloads/VPP/vpp6_2022-12-19.docx)|[PDF](../downloads/VPP/vpp6_2022-12-19.pdf)|
+|VPP-7: Soft Front Panel Specification|[Word](../downloads/VPP/vpp7.doc)|[PDF](../downloads/VPP/vpp7.pdf)|
+|VPP-8: VXI Module/Mainframe to Receiver Interconnection|[Word](../downloads/VPP/vpp8_1995-06-02.docx)|[PDF](../downloads/VPP/vpp8_1995-06-02.pdf)|
+|VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.32_2022-03-02.docx)|[PDF](../downloads/VPP/vpp9_4.32_2022-03-02.pdf)|
+
 
 **Note:**  More information can be found on the VXI specification at:<http://vxibus.org/specifications.html>
 
