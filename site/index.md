@@ -6,8 +6,6 @@ redirect_from:
     - index.aspx/
 ---
 
-# Home
-
 The IVI Foundation is an open consortium founded to promote
 specifications for programming test instruments that simplify
 interchangeability, provide better performance, and reduce the cost of
