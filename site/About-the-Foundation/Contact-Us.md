@@ -7,11 +7,14 @@ title: Contact Us
 
 ## IVI Foundation Corporate Office
 
-[Aaron Hall](mailto:execdir@ivifoundation.org), Director of Services  
 IVI Foundation  
-PO Box 108  
-Santa Rosa, CA 95402  
-(707) 890-6588
+3620 W 10TH ST STE B #212
+GREELEY, CO 80634
+(970) 628-0466
+
+## Support Email
+
+[IVI Foundation Support](mailto:support@ivifoundation.org)
 
 **IVI Members**
 
