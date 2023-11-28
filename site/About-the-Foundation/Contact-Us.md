@@ -6,11 +6,12 @@ title: Contact Us
 ---
 
 ## IVI Foundation Corporate Office
-
-IVI Foundation  
-3620 W 10TH ST STE B #212
-GREELEY, CO 80634
+```
+IVI Foundation
+3620 W 10TH St STE B #212
+Greeley, CO 80634
 (970) 628-0466
+```
 
 ## Support Email
 
