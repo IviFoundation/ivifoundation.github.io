@@ -12,7 +12,14 @@ development, please download the IVI Foundation by-laws and membership
 application (below). After reading through the by-laws, fill out the
 member application and fax or mail with your check to:
 
-[IVI Foundation Support](mailto:support@ivifoundation.org)
+```
+IVI Foundation
+3620 W 10TH St STE B #212
+Greeley, CO 80634
+(970) 628-0466
+```
+
+For any assistance or any questions, please contact [IVI Foundation Support](mailto:support@ivifoundation.org)
 
 There are three levels of membership:
 
