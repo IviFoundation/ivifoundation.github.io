@@ -7,7 +7,7 @@ redirect_from:
     - specifications/Default.aspx/ 
     - Specifications/default.aspx/ 
     - Specifications/Default.aspx/ 
-    - specifications
+    - specifications/
 ---
 
 This page has links to all of the current IVI specifications, including
