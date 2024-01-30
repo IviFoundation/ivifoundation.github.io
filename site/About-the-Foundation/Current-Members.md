@@ -20,16 +20,16 @@ IVI has three classes of membership.  Sponsor, General, and Associate.
     1400 Fountaingrove Pkwy
     Santa Rosa, CA 95403
     Web Page: [www.keysight.com](http://www.keysight.com/)
-    Business Contact: Larry Ostheimer
+    Business Contact: Steve Schink
 
 
-**National Instruments**
+**NI (now part of Emerson)**
 
     11500 N. Mopac Expwy., Building C
     Austin, TX 78759-3504
     Web Page: [www.ni.com](http://www.ni.com)
-    Business/Technical Contact: David Rohacek
-    Phone: 512-683-5540
+    Business Contact: Nitin Thomas
+    Technical Contact: Alejandro Barreto
 
 **Rohde & Schwarz**
 
