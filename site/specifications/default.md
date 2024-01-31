@@ -99,7 +99,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
-|VPP-4.3: The VISA Library|[Word](../downloads/VISA/vpp43_2022-05-19.docx)|[PDF](../downloads/VISA/vpp43_2022-05-19.pdf)|
+|VPP-4.3: The VISA Library|[Word](../downloads/VISA/vpp43_2024-01-04.docx)|[PDF](../downloads/VISA/vpp43_2024-01-04.pdf)|
 |VPP-4.3.2: VISA Implementation Specification For Textual Languages|[Word](../downloads/VISA/vpp432_2022-05-19.docx)|[PDF](../downloads/VISA/vpp432_2022-05-19.pdf)|
 |VPP-4.3.3: VISA Implementation Specification For The G Language|[Word](../downloads/VISA/vpp433_2016-02-26.doc)|[PDF](../downloads/VISA/vpp433_2016-02-26.pdf)|
 |VPP-4.3.4: VISA Implementation Specification For COM|[Word](../downloads/VISA/vpp434_2022-12-19.docx)|[PDF](../downloads/VISA/vpp434_2022-12-19.pdf)|
