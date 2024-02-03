@@ -106,7 +106,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-4.3.5: VISA Shared Components|[Word](../downloads/VISA/vpp435_2022-12-19.docx)|[PDF](../downloads/VISA/vpp435_2022-12-19.pdf)|
 |VPP-4.3.6: VISA Implementation Specification for .NET|[Word](../downloads/VISA/vpp436_2022-05-19.docx)|[PDF](../downloads/VISA/vpp436_2022-12-19.pdf)|
 
-# Other VXI*plug&play* Speciications:
+# Other VXI*plug&play* Specifications:
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
