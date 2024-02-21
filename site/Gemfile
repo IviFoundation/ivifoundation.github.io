@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "3.9.3"
 
 gem "webrick"
+
+gem "kramdown-parser-gfm"
 
 # If you have any plugins, put them here! Or you may have weird errors:
 #   https://github.com/jekyll/jekyll/issues/6358#issuecomment-339859914

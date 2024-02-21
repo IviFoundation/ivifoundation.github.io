@@ -52,8 +52,7 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |IVI-3.12: Floating Point Services Specification|[Word](../downloads/Architecture%20Specifications/Ivi312.doc)|[PDF](../downloads/Architecture%20Specifications/Ivi312.pdf)|
 |IVI-3.14: Primary Interop Assembly Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.14_Primary_Interop_Assembly_2014-11-26.doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3.14_Primary_Interop_Assembly_2014-11-26.pdf)|
 |IVI-3.17: Installation Requirements Specification|[Word](../downloads/Architecture%20Specifications/IVI-3.17_Installation_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-3.17_Installation_2022-12-19.pdf)|
-|IVI-3.18: IVI.NET Utility Classes and Interfaces Spejoe@NUC-Linux:~$ cd git-uivi
-_2016-02-26.pdf)|
+|IVI-3.18: IVI.NET Utility Classes and Interfaces Specification|[Word](../downloads/Architecture%20Specifications/IVI-3%2018_%20NET_Utility_Classes_and_Interfaces_2016-02-26.doc)|[PDF](../downloads/Architecture%20Specifications/IVI-3%2018_%20NET_Utility_Classes_and_Interfaces_2016-02-26.pdf)|
 |IVI-5.0: Glossary|[Word](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.pdf)|
 |IVI-3.7: IVI Event Server|Obsolete|||
 
