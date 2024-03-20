@@ -24,4 +24,4 @@ Greeley, CO 80634
 
 **IVI Members**
 
-To contact individual IVI Member companies, see: [Membership \> Current Members](membership/current_members.aspx)
+To contact individual IVI Member companies, see: [Membership \> Current Members](membership/current_members.html)
