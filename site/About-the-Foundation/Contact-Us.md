@@ -2,6 +2,11 @@
 layout: default
 parent: About
 nav_order:  4
+redirect_from:
+    - Contact_Us.aspx/
+    - contact_Us.aspx/
+    - Contact_us.aspx/
+    - contact_us.aspx/
 title: Contact Us
 ---
 
