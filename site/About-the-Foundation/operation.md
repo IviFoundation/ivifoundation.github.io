@@ -22,7 +22,7 @@ charged nominal meeting fees to cover the cost of meeting space,
 continental breakfast and lunch.
 
 The IVI Foundation operates in accordance with its
-[bylaws](../assets/docs/bylaws-2007-10-19.pdf).
+[bylaws](../assets/docs/bylaws-approved-2007-10-19.pdf).
 
 ##  Technical Meetings
 
