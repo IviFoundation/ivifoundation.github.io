@@ -134,10 +134,10 @@ Business Contact: Chris Gibson
 Beitun District 40647, Taichung City Taiwan
 Web Page: <a href="http://www.idrc.com.tw">www.idrc.com.tw</a>
 Business Contact: Lily Chen
-Phone: +886-4-243 76268 \#214
+Phone: +886-4-243 76268 #214
 Fax: +886-4243 76266
 Technical Contact: Simon Liu
-Phone: +886-4-24376268 \#214
+Phone: +886-4-24376268 #214
 Fax: +886-4243 76266
 </code></pre></div></div>
 
@@ -179,7 +179,7 @@ Technical Contact: Kazuyuki Murakami
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>17692 Fitch Irvine
 CA 92614
-Web Page: [pacificpower.com](https://pacificpower.com/)
+Web Page: <a href="https://pacificpower.com/">pacificpower.com</a>
 Business/Technical Contact: Eric Lord
 Phone: 949-251-1800
 </code></pre></div></div>
