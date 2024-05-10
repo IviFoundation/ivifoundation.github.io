@@ -141,11 +141,12 @@ Phone: +886-4-24376268 #214
 Fax: +886-4243 76266
 </code></pre></div></div>
 
-**ELCOM, a.s.Technologicka 374/6**
+**Averna Technologies, Inc.**
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>70800 Ostrava-Pustkovec
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Technologická 374/6
+708 00 Ostrava 8
 Czech Republic
-Web Page: <a href="http://www.elcom.cz">www.elcom.cz</a>
+Web Page: <a href="http://www.averna.com">www.averna.com</a>
 Business/Technical Contact: Jiri Kominek
 Phone: +420558279911
 Fax: +420555301279
