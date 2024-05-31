@@ -27,7 +27,7 @@ technology.
   that commercial drivers are conformant to the IVI specifications.
 - The [SCPI](scpi.html) page introduces the SCPI standard that 
   specifies the command strings sent to instruments to control them.
-- The [VXI_plug&play_](vxi_plugandplay.html) describes the VXI_plug&play_
+- The [VXI _plug&play_](vxi_plugandplay.html) describes the VXI _plug&play_
   standards that broadly apply to the VISA IO library and C-language
   drivers.
 - Finally the [Member Resources](MemberCompanyResources.html) page provides links to other
