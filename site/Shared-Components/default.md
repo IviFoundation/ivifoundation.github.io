@@ -43,7 +43,7 @@ IVI-COM, IVI-C, or IVI.NET drivers. The IVI Shared Components require
 .NET Framework version 2.0 or greater.
 
 |-- | --------- |
-| [IviSharedComponents\_300.exe](../downloads/Shared%20Components/IviSharedComponents_300.exe)  | This file is an executable installer that installs the IVI Shared Components on either a 32-bit or 64-bit system.This executable installer installs the same components as the MSI package. |
+| [IviSharedComponents\_302.exe](../downloads/Shared%20Components/IviSharedComponents_302.exe)  | This file is an executable installer that installs the IVI Shared Components on either a 32-bit or 64-bit system.This executable installer installs the same components as the MSI package. |
 | [Cleanup Utility (exe)](../downloads/Shared%20Components/x86/CleanupUtility.exe)  | Utility used to uninstall the IVI Shared Components version 2.2.1 or greater.                                                                                                               |
 | [IVI Shared Components Release Notes (docx)](../downloads/Shared%20Components/IVI%20Shared%20Components%20Release%20Notes%203.0.docx) | This document provides information on the current and previous versions of the IVI Shared Components, including known issues.    |
 | [Older IVI Shared Components Versions](OlderIviSharedComponents.html) | Download older versions of the IVI Shared Components.                                                                                                                                       |
