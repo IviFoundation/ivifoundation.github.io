@@ -33,7 +33,6 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |:---------------|:-----|:----|
 |What are IVI Generations?|[Word](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.docx)|[PDF](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.pdf)|
 |IVI Generations Baseline Summary and Compliance Equivalence Tables|[Word](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.docx)|[PDF](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.pdf)|
-|IVI Specification Revisions History Summary|Word|PDF|
 |IVI-2014| [Word](../downloads/IVI%20Generations/IVI%202014.docx)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
 |IVI-2003|[Word](../downloads/IVI%20Generations/IVI-2003.docx)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)
 
@@ -118,7 +117,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-6: Installation and Packaging Specification|[Word](../downloads/VPP/vpp6_2022-12-19.docx)|[PDF](../downloads/VPP/vpp6_2022-12-19.pdf)|
 |VPP-7: Soft Front Panel Specification|[Word](../downloads/VPP/vpp7.doc)|[PDF](../downloads/VPP/vpp7.pdf)|
 |VPP-8: VXI Module/Mainframe to Receiver Interconnection|[Word](../downloads/VPP/vpp8_1995-06-02.docx)|[PDF](../downloads/VPP/vpp8_1995-06-02.pdf)|
-|VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.32_2022-03-02.docx)|[PDF](../downloads/VPP/vpp9_4.32_2022-03-02.pdf)|
+|VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.32_2022-08-08.docx)|[PDF](../downloads/VPP/vpp9_4.32_2022-08-08.pdf)|
 
 
 **Note:**  More information can be found on the VXI specification at:<http://vxibus.org/specifications.html>
