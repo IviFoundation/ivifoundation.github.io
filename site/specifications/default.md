@@ -117,7 +117,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-6: Installation and Packaging Specification|[Word](../downloads/VPP/vpp6_2022-12-19.docx)|[PDF](../downloads/VPP/vpp6_2022-12-19.pdf)|
 |VPP-7: Soft Front Panel Specification|[Word](../downloads/VPP/vpp7.doc)|[PDF](../downloads/VPP/vpp7.pdf)|
 |VPP-8: VXI Module/Mainframe to Receiver Interconnection|[Word](../downloads/VPP/vpp8_1995-06-02.docx)|[PDF](../downloads/VPP/vpp8_1995-06-02.pdf)|
-|VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.35_2022-08-08.docx)|[PDF](../downloads/VPP/vpp9_4.35_2022-08-08.pdf)|
+|VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.35_2024-08-08.docx)|[PDF](../downloads/VPP/vpp9_4.35_2024-08-08.pdf)|
 
 
 **Note:**  More information can be found on the VXI specification at:<http://vxibus.org/specifications.html>
