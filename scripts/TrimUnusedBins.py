@@ -82,17 +82,16 @@ def main():
                     links.append((url,tag))
                 
                 # check for html syntax
-                matches = re.findall(HREFLINK_re, line)
-                for match in matches:
-                    url = match
+                match = re.search(r"href=\"([^\"]+)\"", line)
+                if match:
+                    url = match[1]
                     title = "href link in"+filepath
                     links.append((url,title))
     
     # eliminate links that are not in the downloads directory
     links_to_remove = []
     for link in links:
-        if not re.findall(r"/downloads/", link[1]):
-            #print("Removing:("+link[0]+")["+link[1]+"]")
+        if not re.search(r"downloads", link[0]):
             links_to_remove.append(link)
         
     for link in links_to_remove:
@@ -108,10 +107,11 @@ def main():
     
     used_paths = []
     for link in links:
-        trimmed = re.sub(r"^[\./]*downloads/", "", link[1])
-        trimmed = re.sub(r"^https?://ivifoundation.org/downloads/", "", trimmed)  # experimentally, one shows up...
+        trimmed = re.sub(r"^[\./]*downloads/", "", link[0])
+        trimmed = re.sub(r"^https?://ivifoundation.org/downloads/", "", trimmed)  # self referencing back to our own downloads...
         trimmed = re.sub("%20", " ", trimmed)
-        used_paths.append(trimmed)
+        if not trimmed in used_paths:
+            used_paths.append(trimmed)
 
     
 
@@ -121,6 +121,11 @@ def main():
             unused_paths.remove(path)
         if not path in all_paths:
             print("Seem to have found a bad link:",path)
+
+    # for easier inspection and debug:
+    used_paths.sort()
+    unused_paths.sort()
+
 
     for filepath in unused_paths:
         dirname, filename = os.path.split(filepath)
