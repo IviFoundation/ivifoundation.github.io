@@ -75,17 +75,15 @@ def main():
         with open(filepath, 'r') as file:
             for line in file:
                 # check for markdown syntax
-                match = re.search(MDLINK_re, line)
-                if match:
+                for match in re.finditer(MDLINK_re, line):
                     url = match.groupdict()["url"]
                     tag = match.groupdict()["tag"]
                     links.append((url,tag))
                 
                 # check for html syntax
-                match = re.search(r"href=\"([^\"]+)\"", line)
-                if match:
+                for match in re.finditer(r"href=\"([^\"]+)\"", line):
                     url = match[1]
-                    title = "href link in"+filepath
+                    title = "href link in:"+filepath
                     links.append((url,title))
     
     # eliminate links that are not in the downloads directory
@@ -100,7 +98,7 @@ def main():
     # now links has a list of files we need to retain
       
     # make a list of all target files
-    all_paths = glob.glob("**/*.*", root_dir=DOWNLOADS_DIR, recursive=True)
+    all_paths = glob.glob("**/*", root_dir=DOWNLOADS_DIR, recursive=True)
     for path in all_paths:
         if os.path.isdir(DOWNLOADS_DIR+path):
             all_paths.remove(path)
