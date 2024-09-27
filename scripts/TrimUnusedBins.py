@@ -65,9 +65,6 @@ def grep(file_path, pattern):
 
  
 def main():
-    # find all the files referenced in MD links
-    print("Program should be run from root of repo!")
-
     # create a list of all links on IVI site
     links = []
     md_files = glob.glob( SITE_DIR+'**/*.md', recursive=True)
@@ -97,15 +94,11 @@ def main():
     
     # now links has a list of files we need to retain
       
-    # make a list of all target files
+    # make a list of all potential files to remove
     all_paths = glob.glob("**/*", root_dir=DOWNLOADS_DIR, recursive=True)
-    for path in all_paths:
-        if os.path.isdir(DOWNLOADS_DIR+path):
-            all_paths.remove(path)
     
    
-    # trim links to be relative to downloads directory
-    
+    # trim the actually used links to be relative to downloads directory
     used_paths = []
     for link in links:
         trimmed = re.sub(r"^[\./]*downloads/", "", link[0])
@@ -115,8 +108,10 @@ def main():
             used_paths.append(trimmed)
 
     
+    # glob above includes directories...
+    unused_paths = [path for path in all_paths if not os.path.isdir(DOWNLOADS_DIR+path)]
 
-    unused_paths = all_paths.copy()
+    # do the real work -- fix up the list of all files to just have the unused ones.
     for path in used_paths:
         if path in unused_paths:
             unused_paths.remove(path)
@@ -127,13 +122,17 @@ def main():
     used_paths.sort()
     unused_paths.sort()
 
-
+    # move the unused files into special directory
     for filepath in unused_paths:
         dirname, filename = os.path.split(filepath)
         print("mv downloads/"+dirname+"/"+filename)
         # following line does the work, uncomment with caution!!
         #os.makedirs(UNUSED_DIR+dirname, exist_ok=True)
         #os.rename(DOWNLOADS_DIR+filepath, UNUSED_DIR+filepath)
-        
+
+
+if not os.path.isdir("site"):
+    print("Program must be run from root of repo... do not see site directory so quitting...")
+    exit(0)
 
 main()
