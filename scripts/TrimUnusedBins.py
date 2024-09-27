@@ -101,7 +101,10 @@ def main():
       
     # make a list of all target files
     all_paths = glob.glob("**/*.*", root_dir=DOWNLOADS_DIR, recursive=True)
-
+    for path in all_paths:
+        if os.path.isdir(DOWNLOADS_DIR+path):
+            all_paths.remove(path)
+    
    
     # trim links to be relative to downloads directory
     
