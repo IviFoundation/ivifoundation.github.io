@@ -138,6 +138,8 @@ def main():
             print(f"    **** {dirpath} is empty!")
             os.rmdir(dirpath)
 
+
+print("Program requires that MD link syntax is on a single line! Otherwise targets will be moved!!")
 if not os.path.isdir("site"):
     print("Program must be run from root of repo... do not see site directory so quitting...")
     exit(0)
