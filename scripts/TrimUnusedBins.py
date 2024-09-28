@@ -140,6 +140,8 @@ def main():
 
 
 print("Program requires that MD link syntax is on a single line! Otherwise targets will be moved!!")
+print("   this is proper markdown syntax, but github seems to tolerate spanning two lines")
+
 if not os.path.isdir("site"):
     print("Program must be run from root of repo... do not see site directory so quitting...")
     exit(0)
