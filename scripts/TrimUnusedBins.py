@@ -129,7 +129,14 @@ def main():
         # following line does the work, uncomment with caution!!
         #os.makedirs(UNUSED_DIR+dirname, exist_ok=True)
         #os.rename(DOWNLOADS_DIR+filepath, UNUSED_DIR+filepath)
+    
 
+    # now remove unused directories in DOWNLOADS_DIR
+    for dirpath, dirnames, filenames in os.walk(DOWNLOADS_DIR, topdown=False):
+        print(f"Checking:{dirpath}")
+        if not dirnames and not filenames:
+            print(f"    **** {dirpath} is empty!")
+            os.rmdir(dirpath)
 
 if not os.path.isdir("site"):
     print("Program must be run from root of repo... do not see site directory so quitting...")
