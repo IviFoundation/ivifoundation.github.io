@@ -101,18 +101,12 @@ by Kirk G. Fertitta, Pacific Mindworks
 
 ## Autotestcon 2012 Presentations
 
-- [Delivering Interchangeability and More](
-  ../downloads/Autotestcon%202012%20Presentations/Delivering%20Interchangeability%20and%20More.pptx)
-- [Designing Highly Efficient LXI-based Systems](
-  ../downloads/Autotestcon%202012%20Presentations/Designing%20Highly%20Efficient%20LXI-based%20Systems.pptx)
-- [Preparing for an IPv6 World with LXI Instruments](
-  ../downloads/Autotestcon%202012%20Presentations/Preparing%20for%20an%20IPv6%20World%20with%20LXI%20Instruments.pptx)
-- [Raytheon Missile System Interchangeable Virtual Instrumentation Solution from 2004 to 2012](
-    ../downloads/Autotestcon%202012%20Presentations/Raytheon%20Missile%20System%20Interchangeable%20Virtual%20Instrumentation%20Solution%20from%202004%20to%202012.pptx)
-- [Simplifying Test System Development with IVI.NET](
-    ../downloads/Autotestcon%202012%20Presentations/Simplifying%20Test%20System%20Development%20with%20IVI.NET.ppt)
-- [Leveraging IVI for Instrument Wrapper Development](
-    ../downloads/Autotestcon%202012%20Presentations/Leveraging%20IVI%20for%20Instrument%20Wrapper%20Development.pdf)
+- [Delivering Interchangeability and More](../downloads/Autotestcon%202012%20Presentations/Delivering%20Interchangeability%20and%20More.pptx)
+- [Designing Highly Efficient LXI-based Systems](../downloads/Autotestcon%202012%20Presentations/Designing%20Highly%20Efficient%20LXI-based%20Systems.pptx)
+- [Preparing for an IPv6 World with LXI Instruments](../downloads/Autotestcon%202012%20Presentations/Preparing%20for%20an%20IPv6%20World%20with%20LXI%20Instruments.pptx)
+- [Raytheon Missile System Interchangeable Virtual Instrumentation Solution from 2004 to 2012](../downloads/Autotestcon%202012%20Presentations/Raytheon%20Missile%20System%20Interchangeable%20Virtual%20Instrumentation%20Solution%20from%202004%20to%202012.pptx)
+- [Simplifying Test System Development with IVI.NET](../downloads/Autotestcon%202012%20Presentations/Simplifying%20Test%20System%20Development%20with%20IVI.NET.ppt)
+- [Leveraging IVI for Instrument Wrapper Development](../downloads/Autotestcon%202012%20Presentations/Leveraging%20IVI%20for%20Instrument%20Wrapper%20Development.pdf)
 
 ## Autotestcon 2016 IVI Presentation
 
