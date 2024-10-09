@@ -13,8 +13,8 @@ being hosted by TERADYNE in the Boston Area, October 28 -- November 1, 2024. Bel
 transportation information. Be sure to complete the Event Registration Form in this announcement
 and email to: [IVI Administration](mailto:djarrettweeks@vtmgroup.com)
 
-Last day to register and receive the group rate is **October 11**.  
-**Rooms are available on space-available basis, so please act soon.**
+Last day to register and receive the group rate 
+is **October 11**.  **Rooms are available on space-available basis, so please act soon.**
 
 <!--excerpt-->
 
@@ -74,7 +74,7 @@ night.
 Or you can call their reservation center directly at 1-781-932-0999.
 Advise the reservation agent of the Group Name *LXI and IVI Joint Face to Face*. This will ensure that they are booked within the group
 room-block code at the corresponding group rate of \$199.00 USD. All
-reservations requested after the cut-off date of **October 18**, will be
+reservations requested after the cut-off date of **October 11**, will be
 made on a space available basis and will be sold at the best available
 rate.
 
