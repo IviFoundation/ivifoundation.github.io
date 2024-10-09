@@ -35,7 +35,7 @@ Face-to-Face Meetings that are being hosted by **TERADYNE** in the
 Boston Area, October 28 - November 1, 2024. Below is hotel and
 transportation information. Be sure to complete the **Event Registration
 Form** at the bottom of this page. Last day to register and receive the
-group rate is **October 18**.
+group rate is **October 11**.
 
 ## Event and Hotel Registration
 
@@ -64,7 +64,7 @@ arrivals go more smoothly. You may need your ID at Security.
 
 Group Name: LXI Consortium and IVI Foundation
 
-**Last Day to Book: Friday, October 18, 2024**
+**Last Day to Book: Friday, October 11, 2024**
 
 Hotel and Room Block Rate: Hilton Boston/Woburn \$199.00 USD + taxes per
 night.
