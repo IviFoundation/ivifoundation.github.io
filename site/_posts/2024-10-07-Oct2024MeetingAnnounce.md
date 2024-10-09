@@ -13,7 +13,8 @@ being hosted by TERADYNE in the Boston Area, October 28 -- November 1, 2024. Bel
 transportation information. Be sure to complete the Event Registration Form in this announcement
 and email to: [IVI Administration](mailto:djarrettweeks@vtmgroup.com)
 
-Last day to register and receive the group rate is October 18.
+Last day to register and receive the group rate is **October 11**.  
+**Rooms are available on space-available basis, so please act soon.**
 
 <!--excerpt-->
 
@@ -39,8 +40,7 @@ group rate is **October 18**.
 ## Event and Hotel Registration
 
 To register for this event, please fill out the questions below. Make
-your hotel reservation using the [BOOKING LINK TO COME
-SOON] as soon as possible. As always, please stay at the
+your hotel reservation using the [Booking Link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=BOSBWHF&arrivalDate=2024-10-27&departureDate=2024-11-01&groupCode=FFM24&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink) as soon as possible. As always, please stay at the
 Hilton Boston/Woburn hotel instead of somewhere else because we need
 everyone\'s participation to meet the terms of the contract. If we fall
 short of our promised room reservations, LXI and IVI will pay penalties
@@ -69,12 +69,10 @@ Group Name: LXI Consortium and IVI Foundation
 Hotel and Room Block Rate: Hilton Boston/Woburn \$199.00 USD + taxes per
 night.
 
-**Book your group rate for LXI Consortium and IVI Foundation
-Members**
+**Book your group rate for:** *LXI and IVI Joint Face to Face.*
 
 Or you can call their reservation center directly at 1-781-932-0999.
-Advise the reservation agent of the Group Name LXI CONSORTIUM / IVI
-FOUNDATION. This will ensure that they are booked within the group
+Advise the reservation agent of the Group Name *LXI and IVI Joint Face to Face*. This will ensure that they are booked within the group
 room-block code at the corresponding group rate of \$199.00 USD. All
 reservations requested after the cut-off date of **October 18**, will be
 made on a space available basis and will be sold at the best available
