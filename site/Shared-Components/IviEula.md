@@ -7,7 +7,7 @@ nav_order: 4
 
 # The IVI End-User License Agreement
 
-The IVI Foundation makes its software available under a common 
+The IVI Foundation makes its software available under a common
 end-user license agreement.  That agreeement is installed with
 the IVI components, but is also provided here for convenience.
 
