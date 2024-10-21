@@ -4,6 +4,7 @@ nav_order: 4
 title: Getting Started
 redirect_from: 
     - resources/default.aspx/
+    - resources
 ---
 
 This page contains various resources for learning more about IVI and the
