@@ -27,8 +27,7 @@ There are three levels of membership:
     $8,500/year
   - General Members – Voting – Elect Board of Director Members – Dues -
     $1,750/year
-  - Associate Members – Non-voting – Attend meetings, email list – Dues
-    - $750/year
+  - Associate Members – Non-voting – Attend meetings, email list – Dues - $750/year
 
 If you need an invoice to issue the check, fax the applications in and
 indicate to whom the invoice should be mailed or faxed, and we will send
