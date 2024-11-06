@@ -88,8 +88,7 @@ the following:
 ### IVI Getting Started Guide Videos
 
 - [IVI Getting Started Guide Video for Visual > C++](https://www.youtube.com/watch?v=8OOpk6adHqk)
-- [IVI Getting Started Guide Video for Visual C\# and Visual Basic.NET,using IVI-COM > ](
-           https://www.youtube.com/watch?v=zK2sliD5h1s&context=C32e602dADOEgsToPDskL1rdK1U1mgqxRsL0bTOaXq)
+- [IVI Getting Started Guide Video for Visual C\# and Visual Basic.NET,using IVI-COM > ](https://www.youtube.com/watch?v=zK2sliD5h1s&context=C32e602dADOEgsToPDskL1rdK1U1mgqxRsL0bTOaXq)
 - [IVI Getting Started Guide Video for Visual C\# and Visual Basic.NET, using > IVI.NET](https://youtu.be/E-QjdXq7J6Q)
 - [IVI Getting Started Guide Video for > LabVIEW](https://www.youtube.com/user/IVIFoundation#p/u/1/jYw_JoBJLNM)
 - [IVI Getting Started Guide Video for > LabWindows/CVI](https://www.youtube.com/user/IVIFoundation#p/u/2/4eOJ1A-hvxY)
