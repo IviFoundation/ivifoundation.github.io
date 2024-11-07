@@ -75,10 +75,8 @@ the following:
 
 - [Using IVI-Drivers with Python](../downloads/IVI%20GSG%202019/Getting%20Started%20with%20IVI%20and%20Python.pdf)
 - [Using IVI with Visual C++](../downloads/IVI%20short%20guides%202015/Using_IVI_with_Visual_C.pdf)
-- [Using IVI-COM with Visual C\# and Visual Basic .NET](
-    ../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20C%20and%20VB.pdf)
-- [Using IVI.NET with Visual C\# and Visual Basic .NET](
-    ../downloads/IVI%20short%20guides%202015/IVIshort_guides_2016/Using%20IVI.Net%20Drivers%20CS%20and%20VB%20Aug_8_2016.pdf)
+- [Using IVI-COM with Visual C\# and Visual Basic .NET](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20C%20and%20VB.pdf)
+- [Using IVI.NET with Visual C\# and Visual Basic .NET](../downloads/IVI%20short%20guides%202015/IVIshort_guides_2016/Using%20IVI.Net%20Drivers%20CS%20and%20VB%20Aug_8_2016.pdf)
 - [Using IVI with LabVIEW](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20LabVIEW.pdf)
 - [Using IVI with LabWindows/CVI](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20LabWindows%20CVI.pdf)
 - [Using IVI with MATLAB](../downloads/IVI%20short%20guides%202015/Using%20IVI%20with%20MATLAB.pdf)
