@@ -1,0 +1,20 @@
+IVI DRIVER REGISTRATION INFORMATION
+
+
+Instrument Class (either indicate Custom or classes supported): 
+
+Instrument Manufacturer:
+
+Supported Instrument Models:
+
+Driver Vendor:
+
+Driver Type (that is, IVI.NET, IVI-COM, or IVI-C)
+
+Driver Generation (that is, Generation-2014 or Generation-2003):
+
+Driver Download Link:
+
+Driver Owner/Contact email:
+
+Please remember to include your IVI Compliance file with your registration.
