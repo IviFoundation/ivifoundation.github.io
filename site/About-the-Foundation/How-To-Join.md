@@ -14,9 +14,9 @@ member application and fax or mail with your check to:
 
 ```
 IVI Foundation
-3620 W 10TH St STE B #212
-Greeley, CO 80634
-(970) 628-0466
+3855 SW 153rd Drive
+Beaverton, OR 97003
++1 503-619-0505
 ```
 
 For any assistance or any questions, please contact [IVI Foundation Support](mailto:support@ivifoundation.org)
