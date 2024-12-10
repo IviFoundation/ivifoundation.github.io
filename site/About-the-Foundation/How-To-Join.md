@@ -33,4 +33,4 @@ If you need an invoice to issue the check, fax the applications in and
 indicate to whom the invoice should be mailed or faxed, and we will send
 an invoice. Your membership will start when check is received.
 
-[IVI Membership Application](../assets/docs/IVI-Membership-Application-2023-11-28.docx)
+[IVI Membership Application](../assets/docs/IVI-Membership-Application-10182024.docx)
