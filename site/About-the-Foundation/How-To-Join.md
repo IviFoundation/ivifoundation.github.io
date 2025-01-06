@@ -23,14 +23,12 @@ For any assistance or any questions, please contact [IVI Foundation Support](mai
 
 There are three levels of membership:
 
-  - Sponsor Members – Voting – Member of Board of Directors – Dues -
-    $8,500/year
-  - General Members – Voting – Elect Board of Director Members – Dues -
-    $1,750/year
-  - Associate Members – Non-voting – Attend meetings, email list – Dues - $750/year
+- Sponsor Members – Voting – Member of Board of Directors – Dues - $8,500/year
+- General Members – Voting – Elect Board of Director Members – Dues - $1,750/year
+- Associate Members – Non-voting – Attend meetings, email list – Dues - $750/year
 
 If you need an invoice to issue the check, fax the applications in and
 indicate to whom the invoice should be mailed or faxed, and we will send
 an invoice. Your membership will start when check is received.
 
-[IVI Membership Application](../assets/docs/IVI-Membership-Application-10182024.docx)
+[IVI Membership Application](../assets/docs/IVI-Membership-Application-2024-10-18.docx)
