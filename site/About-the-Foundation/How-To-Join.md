@@ -14,23 +14,21 @@ member application and fax or mail with your check to:
 
 ```
 IVI Foundation
-3620 W 10TH St STE B #212
-Greeley, CO 80634
-(970) 628-0466
+3855 SW 153rd Drive
+Beaverton, OR 97003
++1 503-619-0505
 ```
 
 For any assistance or any questions, please contact [IVI Foundation Support](mailto:support@ivifoundation.org)
 
 There are three levels of membership:
 
-  - Sponsor Members – Voting – Member of Board of Directors – Dues -
-    $8,500/year
-  - General Members – Voting – Elect Board of Director Members – Dues -
-    $1,750/year
-  - Associate Members – Non-voting – Attend meetings, email list – Dues - $750/year
+- Sponsor Members – Voting – Member of Board of Directors – Dues - $8,500/year
+- General Members – Voting – Elect Board of Director Members – Dues - $1,750/year
+- Associate Members – Non-voting – Attend meetings, email list – Dues - $750/year
 
 If you need an invoice to issue the check, fax the applications in and
 indicate to whom the invoice should be mailed or faxed, and we will send
 an invoice. Your membership will start when check is received.
 
-[IVI Membership Application](../assets/docs/IVI-Membership-Application-2023-11-28.docx)
+[IVI Membership Application](../assets/docs/IVI-Membership-Application-2024-10-18.docx)
