@@ -16,7 +16,7 @@ has_children: true
         website, please provide the registration information by e-mail.
         Please include the information called out in 
         <em><a href="../assets/docs/driver-registration.txt">this form</a></em>
-        in your email and attached your IVI Driver 
+        in your email, attach your IVI Driver 
         Compliance document and send it to: <a href="mailto:admin@ivifoundation.org">IVI Admin</a>.
     </p>
     <p>
