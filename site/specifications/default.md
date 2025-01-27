@@ -36,6 +36,14 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 |IVI-2014| [Word](../downloads/IVI%20Generations/IVI%202014.docx)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
 |IVI-2003|[Word](../downloads/IVI%20Generations/IVI-2003.docx)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)
 
+## 2025 Driver Specification Updates
+
+| Document  | Markdown | PDF |
+|:---------------|:-----|:----|
+|IVI Driver Core | [Markdown](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
+|IVI Driver .NET | [Markdown](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
+
+
 ## Architecture
 
 | Document  | Word | PDF |
