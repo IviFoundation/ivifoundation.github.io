@@ -38,6 +38,10 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
 ## 2025 Driver Specification Updates
 
+In 2025 the IVI Foundation released new driver specifications that simplify the requirements for driver compliance.  Although these new standards do not invalidate the earlier standards, they provide a streamlined path that aligns with common expectations for general purpose instrument drivers.
+
+In keeping with the IVI policy of dating IVI Generations the year after new specifications are published, these specifications establish IVI Generation 2026.  For additional details, see [IVI Generation 2026](../downloads/IVI%20Generations/IVI%202026.pdf)
+
 | Document  | Markdown | PDF |
 |:---------------|:-----|:----|
 |IVI Driver Core | [Markdown](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
