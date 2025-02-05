@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: October 2024 IVI Face-to-Face Meeting
+title: February 2025 New Shared Components
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
