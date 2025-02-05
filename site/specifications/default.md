@@ -42,10 +42,10 @@ In 2025 the IVI Foundation released new driver specifications that simplify the 
 
 In keeping with the IVI policy of dating IVI Generations the year after new specifications are published, these specifications establish IVI Generation 2026.  For additional details, see [IVI Generation 2026](../downloads/IVI%20Generations/IVI%202026.pdf)
 
-| Document  | Markdown | PDF |
+| Document  | Specification | Printable PDF |
 |:---------------|:-----|:----|
-|IVI Driver Core | [Markdown](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
-|IVI Driver .NET | [Markdown](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
+|IVI Driver Core | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
+|IVI Driver .NET | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
 
 
 ## Architecture
