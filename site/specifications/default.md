@@ -29,12 +29,27 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
 ## IVI Specification Generations
 
-| Document  | Word | PDF |
+The IVI Generation item specifies a set of minimum IVI specification versions with which a specific driver must comply in order to claim compliance with a specific IVI Generation. The following documents describe the IVI Generations and the minimum specification versions required to claim compliance with each.
+
+| Document  | Document | Printable PDF |
 |:---------------|:-----|:----|
-|What are IVI Generations?|[Word](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.docx)|[PDF](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.pdf)|
-|IVI Generations Baseline Summary and Compliance Equivalence Tables|[Word](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.docx)|[PDF](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence%20Tables.pdf)|
-|IVI-2014| [Word](../downloads/IVI%20Generations/IVI%202014.docx)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
-|IVI-2003|[Word](../downloads/IVI%20Generations/IVI-2003.docx)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)
+|What are IVI Generations?|[github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/What%20are%20IVI%20Generations.md)|[PDF](../downloads/IVI%20Generations/What%20are%20IVI%20Generations.pdf)|
+|IVI Generations Baseline Summary and Compliance Equivalence Tables|[github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence.md)|[PDF](../downloads/IVI%20Generations/IVI%20Generations%20Baseline%20Summary%20and%20Compliance%20Equivalence.pdf)|
+|IVI-2026| [github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202026.md)|[PDF](../downloads/IVI%20Generations/IVI%202026.pdf)|
+|IVI-2014| [github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202014.md)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
+|IVI-2003|[github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202003.md)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)|
+
+## Generation 2026 Driver Specification Updates
+
+In 2025 the IVI Foundation released new driver specifications that simplify the requirements for driver compliance.  Although these new standards do not invalidate the earlier standards, they provide a streamlined path that aligns with common expectations for general purpose instrument drivers.
+
+In keeping with the IVI policy of dating IVI Generations the year after new specifications are published, these specifications establish IVI Generation 2026.  For additional details, see [IVI Generation 2026](../downloads/IVI%20Generations/IVI%202026.pdf)
+
+| Document  | Specification | Printable PDF |
+|:---------------|:-----|:----|
+|IVI Driver Core | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
+|IVI Driver .NET | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
+
 
 ## Architecture
 
