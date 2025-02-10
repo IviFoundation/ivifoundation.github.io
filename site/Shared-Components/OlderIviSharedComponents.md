@@ -10,6 +10,9 @@ nav_order: 2
 This page provides access to older versions of the IVI Shared
 Components. To access the latest release, please see the main [Shared Components](Default.html) page.
 
+## IVI Shared Components (32/64-bit) -- Older Versions
+- [IviSharedComponents\_302.exe](../downloads/Shared%20Components/IviSharedComponents_302.exe)
+
 ## IVI Shared Components (32-bit) -- Older Versions
 
 - [IviSharedComponents\_261.exe](../downloads/Shared%20Components/x86/IviSharedComponents_261.exe)
