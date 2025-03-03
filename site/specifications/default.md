@@ -117,7 +117,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-4.3.2: VISA Implementation Specification For Textual Languages|[Word](../downloads/VISA/vpp432_2022-05-19.docx)|[PDF](../downloads/VISA/vpp432_2022-05-19.pdf)|
 |VPP-4.3.3: VISA Implementation Specification For The G Language|[Word](../downloads/VISA/vpp433_2016-02-26.doc)|[PDF](../downloads/VISA/vpp433_2016-02-26.pdf)|
 |VPP-4.3.4: VISA Implementation Specification For COM|[Word](../downloads/VISA/vpp434_2022-12-19.docx)|[PDF](../downloads/VISA/vpp434_2022-12-19.pdf)|
-|VPP-4.3.5: VISA Shared Components|[Word](../downloads/VISA/vpp435_2023-10-11.docx)|[PDF](../downloads/VISA/vpp435_2023-10-11.pdf)|
+|VPP-4.3.5: VISA Shared Components|[Word](../downloads/VISA/vpp435_2025-02-24.docx)|[PDF](../downloads/VISA/vpp435_2025-02-24.pdf)|
 |VPP-4.3.6: VISA Implementation Specification for .NET|[Word](../downloads/VISA/vpp436_2025-01-13.docx)|[PDF](../downloads/VISA/vpp436_2025-01-13.pdf)|
 
 # Other VXI*plug&play* Specifications:
