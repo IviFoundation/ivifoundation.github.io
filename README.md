@@ -1,14 +1,10 @@
 # ivifoundation.github.io
 
-⚒️ *In development.* ⚒️
+This is the IVI Foundation website, built on Jekyll and hosted on GitHub Pages.
 
-## About this site
+The DNS name "www.ivifoundation.org" points to this site.
 
-This is the future IVI Foundation website, built on Jekyll and hosted on GitHub Pages.
-
-One day, it will be hosted at: <https://www.ivifoundation.org/>
-
-## Previewing locally
+## Previewing locally on Windows
 
 The easiest way to preview the site is to serve your local files in a [jekyll/jekyll](https://github.com/envygeeks/jekyll-docker) container.
 
@@ -36,6 +32,6 @@ The site will automatically rebuild when you make changes to the source files. H
 
 You can stop the server by pressing `Ctrl+C`.
 
-## Troubleshooting
+##  Previewing locally on Linux
 
-See: <https://github.com/IviFoundation/ivifoundation.github.io/wiki/Troubleshooting-build-issues>
+You can perform development and updates to the site on Linux.  You can use a docker approach as outlined for Windows, or just install Jekyll and friends and serve it locally.
