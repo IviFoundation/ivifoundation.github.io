@@ -11,6 +11,8 @@ This page provides access to older versions of the IVI.NET Shared
 Components. To access the latest release, please see the main [Shared Components](Default.html) page.
 
 ## IVI.NET Shared Components (32/64-bit) -- Older Versions
+
+- [IviNetSharedComponents\_201.exe](../downloads/Shared%20Components/IviNetSharedComponents_201.exe)
 - [IviNetSharedComponents\_200.exe](../downloads/Shared%20Components/IviNetSharedComponents_200.exe)
 
 ## IVI.NET Shared Components (32-bit) -- Older Versions
