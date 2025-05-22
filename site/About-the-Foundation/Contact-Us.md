@@ -13,9 +13,9 @@ title: Contact Us
 ## IVI Foundation Corporate Office
 ```
 IVI Foundation
-3620 W 10TH St STE B #212
-Greeley, CO 80634
-(970) 628-0466
+3855 SW 153rd Drive
+Beaverton, OR 97003
+(503) 619-0505
 ```
 
 ## Support Email
