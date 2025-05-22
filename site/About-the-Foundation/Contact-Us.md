@@ -15,7 +15,7 @@ title: Contact Us
 IVI Foundation
 3855 SW 153rd Drive
 Beaverton, OR 97003
-(503) 619-0505
+(503) 619-0505 
 ```
 
 ## Support Email
