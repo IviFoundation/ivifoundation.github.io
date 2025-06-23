@@ -39,6 +39,6 @@ still in provisional status.  This means that
 - IVI Foundation members who would like to release
   a driver that references a provisional assembly must contact the
   IVI.NET working group to work through the process of removing the
-  assembly from provisional status.  Non-members should refer to the
-  [Shared Components](Default.html) page for the IVI.NET Shared Components status.
+  assembly from provisional status.  Non-members should refer to 
+  this page for the IVI.NET Shared Components status.
   
