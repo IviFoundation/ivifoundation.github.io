@@ -198,15 +198,13 @@ Phone: +44 1255 687910
 **Semight Instruments Co., Ltd.**
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>
-No. 315 Taishan Road
+<code>No. 315 Taishan Road
 SND, Jiangsu Province, China
 Jiangsu, 215000
 China
 Web Page: <a href="https://en.semight.com">en.semight.com</a>
 Contact: Du Jiawei
-Phone: +86-0512-68784483
-</code>
+Phone: +86-0512-68784483</code>
 </pre></div></div>
 
 **Spectrum Instrumentation GmbH**
