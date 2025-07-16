@@ -39,7 +39,7 @@ The IVI Generation item specifies a set of minimum IVI specification versions wi
 |IVI-2014| [github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202014.md)|[PDF](../downloads/IVI%20Generations/IVI%202014.pdf)|
 |IVI-2003|[github link](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202003.md)|[PDF](../downloads/IVI%20Generations/IVI-2003.pdf)|
 
-## Generation 2026 Driver Specification Updates
+## Generation 2026 Driver Specifications
 
 In 2025 the IVI Foundation released new driver specifications that simplify the requirements for driver compliance.  Although these new standards do not invalidate the earlier standards, they provide a streamlined path that aligns with common expectations for general purpose instrument drivers.
 
@@ -50,8 +50,7 @@ In keeping with the IVI policy of dating IVI Generations the year after new spec
 |IVI Driver Core | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
 |IVI Driver .NET | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
 
-
-## Architecture
+## Generation 2014 Driver Architecture
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -71,7 +70,7 @@ In keeping with the IVI policy of dating IVI Generations the year after new spec
 |IVI-5.0: Glossary|[Word](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.docx)|[PDF](../downloads/Architecture%20Specifications/IVI-5_Glossary_2022-12-19.pdf)|
 |IVI-3.7: IVI Event Server|Obsolete|||
 
-## Instrument Classes
+## Generation 2014 Driver Instrument Classes
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
