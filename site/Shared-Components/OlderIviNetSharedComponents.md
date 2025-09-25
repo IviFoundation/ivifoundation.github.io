@@ -14,6 +14,7 @@ Components. To access the latest release, please see the main [Shared Components
 
 - [IviNetSharedComponents\_201.exe](../downloads/Shared%20Components/IviNetSharedComponents_201.exe)
 - [IviNetSharedComponents\_200.exe](../downloads/Shared%20Components/IviNetSharedComponents_200.exe)
+- [IviNetSharedComponents_300.exe](../downloads/Shared%20Components/IviNetSharedComponents_300.exe)
 
 ## IVI.NET Shared Components (32-bit) -- Older Versions
 
