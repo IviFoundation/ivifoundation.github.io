@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: February 2025 New Shared Components
+title: February 2025 - New Shared Components
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---

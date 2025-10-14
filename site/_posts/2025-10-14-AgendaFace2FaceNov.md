@@ -5,9 +5,11 @@ author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
 
-The IVI Foundation will be conducting a meeting in Munich, Germany hosted by Rohde and Schwarz November 10-12.  This is the agenda for that meeting.
+The IVI Foundation will be conducting a meeting in Munich, Germany hosted by Rohde and Schwarz November 10-12 (click the title of this blog to see the full agenda for the meeting).
 
 *Note: IVI may update the agenda, as needed, until the beginning of the IVI meeting on November 10, 2025.*
+
+<!--excerpt-->
 
 **All times are Central European Time (CET - Munich)**
 
