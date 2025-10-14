@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: IVI Updates for Secure Network Connections
+title: September 2022 - IVI Updates for Secure Network Connections
 author: Joe Mueller
 excerpt_separator: "<!--excerpt-->"
 ---

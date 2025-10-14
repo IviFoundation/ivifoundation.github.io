@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: New .NET Driver Specifications (for .NET 6+)
+title: February 2025 - New .NET Driver Specifications (for .NET 6+)
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---

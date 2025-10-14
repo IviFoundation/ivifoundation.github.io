@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: October 2024 IVI Face-to-Face Meeting
+title: October 2024 - IVI Face-to-Face Meeting
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
