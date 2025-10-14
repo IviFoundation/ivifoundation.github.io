@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Agenda for IVI Face-to-Face November 10-12, 2025
+title: Agenda for IVI Face-to-Face Meeting, November 10-12, 2025
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
