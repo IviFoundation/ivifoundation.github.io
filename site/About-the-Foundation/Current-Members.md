@@ -20,7 +20,7 @@ IVI has three classes of membership.  Sponsor, General, and Associate.
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1400 Fountaingrove Pkwy
 Santa Rosa, CA 95403
 Web Page: <a href="http://www.keysight.com">www.keysight.com</a>
-Business Contact: Steve Schink
+Business/Technical Contact: Steve Schink
 </code></pre></div></div>
 
 **NI (now part of Emerson)**
@@ -28,8 +28,7 @@ Business Contact: Steve Schink
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>11500 N. Mopac Expwy., Building C
 Austin, TX 78759-3504
 Web Page: <a href="http://www.ni.com">www.ni.com</a>
-Business Contact: Nitin Thomas
-Technical Contact: Alejandro Barreto
+Business/Technical Contact: Nitin Thomas
 </code></pre></div></div>
 
 **Rohde & Schwarz**
@@ -44,27 +43,13 @@ Fax: +49 89 4129 61555
 
 ## General Members
 
-**Astronics Test Systems**
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>4 Goodyear St.
-Irvine, CA 92618
-Web Page: <a href="http://www.astronicstestsystems.com">www.astronicstestsystems.com</a>
-Business/Technical Contact: Dan Masters
-Phone: 1-949-460-6760
-</code></pre></div></div>
-
 **Bustec Ltd.**
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Bustec House
 Shannon Business Park
 Shannon, Co. Clare IRELAND
 Web Page: <a href="http://www.bustec.com">www.bustec.com</a>
-Business Contact: Dr. Fred Bloennigen
-Phone: +353 61 707 100
-Fax: +353 61 707 106
-Technical Contact: Torsten Rissel
-Phone: +353 61 707 102
-Fax: +353 61 707 106
+Business/Technical Contact: Bill Ponton
 </code></pre></div></div>
 
 **MathWorks**
@@ -72,7 +57,7 @@ Fax: +353 61 707 106
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>3 Apple Hill Drive
 Natick, MA 01760
 Web Page: <a href="http://www.mathworks.com">www.mathworks.com</a>
-Business/Technical Contact: Sean Sullivan
+Business/Technical Contact: Eric Wetjen
 Phone: 508-647-7959
 Fax: 508-647-7001
 </code></pre></div></div>
@@ -82,7 +67,7 @@ Fax: 508-647-7001
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>16870 West Bernardo Drive Suite 380
 San Diego, CA 92127
 Web Page: <a href="http://www.pacificmindworks.com">www.pacificmindworks.com</a>
-Contact: Kirk Fertitta
+Business/Technical Contact: Kirk Fertitta
 Phone: 858-587-8876 X237
 </code></pre></div></div>
 
@@ -93,8 +78,7 @@ P.O. Box 500
 MS 39-732
 Beaverton, OR 97077
 Web Page: <a href="http://www.tek.com">www.tek.com</a>
-Business Contact: Anshul Arora
-Technical Contact: Santanu Pradhan
+Business/Technical Contact: John Ryland
 Phone: 91-80-3079-2453
 </code></pre></div></div>
 
@@ -128,17 +112,13 @@ Web Page: <a href="http://www.vtiinstruments.com/">www.vtiinstruments.com</a>
 Business Contact: Chris Gibson
 </code></pre></div></div>
 
-**Chyng Hong Electronic Co., Ltd**
+**Astronics Test Systems**
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No.80, Lane 258, Sec. 3, Hansi W. Rd.,
-Beitun District 40647, Taichung City Taiwan
-Web Page: <a href="http://www.idrc.com.tw">www.idrc.com.tw</a>
-Business Contact: Lily Chen
-Phone: +886-4-243 76268 #214
-Fax: +886-4243 76266
-Technical Contact: Simon Liu
-Phone: +886-4-24376268 #214
-Fax: +886-4243 76266
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>4 Goodyear St.
+Irvine, CA 92618
+Web Page: <a href="http://www.astronicstestsystems.com">www.astronicstestsystems.com</a>
+Business/Technical Contact: Dan Masters
+Phone: 1-949-460-6760
 </code></pre></div></div>
 
 **Averna Technologies, Inc.**
@@ -150,6 +130,19 @@ Web Page: <a href="http://www.averna.com">www.averna.com</a>
 Business/Technical Contact: Jiri Kominek
 Phone: +420558279911
 Fax: +420555301279
+</code></pre></div></div>
+
+**Chyng Hong Electronic Co., Ltd**
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No.80, Lane 258, Sec. 3, Hansi W. Rd.,
+Beitun District 40647, Taichung City Taiwan
+Web Page: <a href="http://www.idrc.com.tw">www.idrc.com.tw</a>
+Business Contact: Lily Chen
+Phone: +886-4-243 76268 #214
+Fax: +886-4243 76266
+Technical Contact: Simon Liu
+Phone: +886-4-24376268 #214
+Fax: +886-4243 76266
 </code></pre></div></div>
 
 **Kikusui Electronics, Corp.**
