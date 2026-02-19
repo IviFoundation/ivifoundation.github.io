@@ -49,6 +49,7 @@ In keeping with the IVI policy of dating IVI Generations the year after new spec
 |:---------------|:-----|:----|
 |IVI Driver Core | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
 |IVI Driver .NET | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
+|IVI Driver ANSI-C | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md)|[pdf](../downloads/PostGen2025/IviDriverAnsi-C.pdf)
 
 ## Generation 2014 Driver Architecture
 
