@@ -13,19 +13,22 @@ redirect_from:
 This page has links to all of the current IVI specifications, including
 specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
-# Specification Downloads
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
-# IVI Driver Specifications
+# IVI Operating Procedures
 
-## Operating & Legal
+The IVI Operating Procedures describes IVI Foundation rules and practices for conducting business. All discussions and business conducted in any forum within the foundation follow these procedures.
 
 | Specification  | Document |
 |:---------------|:-----|
 |IVI-1.2: Operating Procedures| [github link](https://github.com/IviFoundation/IviOrganization/blob/main/OperatingProcedures/IVI-1.2_OperatingProcedures_v1.10-2025-06-25.md) |
+
+# IVI Driver Specifications
+
+This section contains specifications related to instrument drivers.
 
 ## IVI Specification Generations
 
@@ -100,16 +103,18 @@ In keeping with the IVI policy of dating IVI Generations the year after new spec
 |IVI-6.5: SASL Mechanism Specification|[Word](../downloads/Protocol%20Specifications/IVI-6.5_SASLMechanismSpecification_2022-05-19.docx)|[PDF](../downloads/Protocol%20Specifications/IVI-6.5_SASLMechanismSpecification_2022-05-19.pdf)|
 
 # Standard Commands for Programmable Instruments (SCPI)
+
 The SCPI specifications, formerly maintained by the SCPI Consortium are now maintained by the IVI Foundation.
 
-| Document  | Word | PDF |
-|:---------------|:-----|:----|
+| Document       |  PDF                       |
+|:---------------|:----                       |
 |SCPI-99||[PDF](../downloads/SCPI/scpi-99.pdf)|
 
 # VXI*plug&play* Specifications
+
 The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Systems Alliance are now maintained by the IVI Foundation.
 
-# VISA Specifications
+## VISA Specifications
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -120,7 +125,7 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-4.3.5: VISA Shared Components|[Word](../downloads/VISA/vpp435_2025-02-24.docx)|[PDF](../downloads/VISA/vpp435_2025-02-24.pdf)|
 |VPP-4.3.6: VISA Implementation Specification for .NET|[Word](../downloads/VISA/vpp436_2025-01-13.docx)|[PDF](../downloads/VISA/vpp436_2025-01-13.pdf)|
 
-# Other VXI*plug&play* Specifications:
+## Other VXI*plug&play* Specifications:
 
 | Document  | Word | PDF |
 |:---------------|:-----|:----|
@@ -134,7 +139,6 @@ The VXI*plug&play* specifications, formerly maintained by the VXIplug&play Syste
 |VPP-7: Soft Front Panel Specification|[Word](../downloads/VPP/vpp7.doc)|[PDF](../downloads/VPP/vpp7.pdf)|
 |VPP-8: VXI Module/Mainframe to Receiver Interconnection|[Word](../downloads/VPP/vpp8_1995-06-02.docx)|[PDF](../downloads/VPP/vpp8_1995-06-02.pdf)|
 |VPP-9: Instrument Vendor Abbreviations|[Word](../downloads/VPP/vpp9_4.35_2024-08-08.docx)|[PDF](../downloads/VPP/vpp9_4.35_2024-08-08.pdf)|
-
 
 **Note:**  More information can be found on the VXI specification at:<http://vxibus.org/specifications.html>
 
