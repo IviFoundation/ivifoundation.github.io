@@ -23,9 +23,9 @@ specifications for drivers, protocols, SCPI, and VXI*plug&play*.
 
 ## Operating & Legal
 
-| Specification  | Word | PDF |
-|:---------------|:-----|:----|
-|IVI-1.2: Operating Procedures|[Word](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.docx)|[PDF](../downloads/Operating-Legal/IVI-1.2_OperatingProcedures_v1.9-2018-10-19.pdf)|
+| Specification  | Document |
+|:---------------|:-----|
+|IVI-1.2: Operating Procedures| [github link](https://github.com/IviFoundation/IviOrganization/blob/main/OperatingProcedures/IVI-1.2_OperatingProcedures_v1.10-2025-06-25.md) |
 
 ## IVI Specification Generations
 
