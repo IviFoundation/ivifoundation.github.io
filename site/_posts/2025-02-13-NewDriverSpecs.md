@@ -11,7 +11,8 @@ In January the IVI Foundation completed work on a new generation of lighter-weig
 - Documentation - to ensure that driver users have access to documentation necessary to successfully use the driver
 - Source code - to enable customers to update and enhance drivers on their own
 
-[Generation 2026](https://www.ivifoundation.org/downloads/IVI%20Generations/IVI 2026.pdf) describes the new IVI Driver Generation.
+[IVI Generation 2026](https://www.ivifoundation.org/specifications/default.html#generation-2026-driver-specifications)
+describes the new IVI Driver Generation.
 
 <!--excerpt-->
 

@@ -44,4 +44,4 @@ For details on the IVI CSSC and how driver developers and users can utilize them
 
 All IVI specifications are also available on the [IVI website](https://www.ivifoundation.org).
 
-Additional information on IVI Driver Generation, see [IVI Generation 2026](https://github.com/IviFoundation/IviDrivers/blob/main/Generations/IVI%202026.md)
+Additional information on IVI Driver Generation, see [IVI Generation 2026](https://www.ivifoundation.org/specifications/default.html#generation-2026-driver-specifications).
