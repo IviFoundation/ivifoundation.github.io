@@ -15,7 +15,7 @@ LXI Consortium, IVI is pleased to announce the completion of the
 
 This new spec becomes part of the [IVI Generation 2026](https://www.ivifoundation.org/specifications/default.html#generation-2026-driver-specifications) set of specifications.
 
-An IVI-Python specification created as part of this same effort in February 2026.
+An IVI-Python specification created as part of this same effort is expected in February 2026.
 
 <!--excerpt-->
 
