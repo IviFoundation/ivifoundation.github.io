@@ -48,11 +48,11 @@ In 2025 the IVI Foundation released new driver specifications that simplify the 
 
 In keeping with the IVI policy of dating IVI Generations the year after new specifications are published, these specifications establish IVI Generation 2026.  For additional details, see [IVI Generation 2026](../downloads/IVI%20Generations/IVI%202026.pdf)
 
-| Document  | Specification | Printable PDF |
+| Document  | Specification | PDF |
 |:---------------|:-----|:----|
-|IVI Driver Core | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](../downloads/PostGen2025/IviDriverCore.pdf)|
-|IVI Driver .NET | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)|[pdf](../downloads/PostGen2025/IviDriverNet.pdf)
-|IVI Driver ANSI-C | [github link](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md)|[pdf](../downloads/PostGen2025/IviDriverAnsi-C.pdf)
+|IVI Driver Core | [github](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverCore/1.0/Spec/IviDriverCore-1.0.pdf) |
+|IVI Driver .NET | [github](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)| [pdf](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverNet/1.0/Spec/IviDriverNet-1.0.pdf) |
+|IVI Driver ANSI-C | [github](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md)| [pdf](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C-1.0.pdf) |
 
 ## Generation 2014 Driver Architecture
 
