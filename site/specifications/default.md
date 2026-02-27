@@ -51,8 +51,9 @@ In keeping with the IVI policy of dating IVI Generations the year after new spec
 | Document  | Specification | PDF |
 |:---------------|:-----|:----|
 |IVI Driver Core | [GitHub](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) | [pdf](https://raw.githubusercontent.com/IviFoundation/IviDrivers/main/IviDriverCore/1.0/Spec/IviDriverCore-1.0.pdf) |
-|IVI Driver .NET | [GitHub](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)| [pdf](https://raw.githubusercontent.com/IviFoundation/IviDrivers/main/IviDriverNet/1.0/Spec/IviDriverNet-1.0.pdf) |
 |IVI Driver ANSI-C | [GitHub](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md)| [pdf](https://raw.githubusercontent.com/IviFoundation/IviDrivers/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C-1.0.pdf) |
+|IVI Driver .NET | [GitHub](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md)| [pdf](https://raw.githubusercontent.com/IviFoundation/IviDrivers/main/IviDriverNet/1.0/Spec/IviDriverNet-1.0.pdf) |
+|IVI Driver Python | [GitHub](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverPython/1.0/Spec/IviDriverPython.md)| [pdf](https://raw.githubusercontent.com/IviFoundation/IviDrivers/main/IviDriverPython/1.0/Spec/IviDriverPython-1.0.pdf) |
 
 ## Generation 2014 Driver Architecture
 

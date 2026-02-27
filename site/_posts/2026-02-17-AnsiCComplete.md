@@ -5,13 +5,13 @@ author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
 
-In June of 2025 the LXI Foundation proposed that the IVI Foundation
-develop a new IVI language-specific specifications for ANSI-C, based on
-the [IVI Driver Core Specification](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md).
-
 After several months of collaboration between the IVI Foundation and the
 LXI Consortium, IVI is pleased to announce the completion of the
 [IVI ANSI-C Specification](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md).
+
+In June of 2025 the LXI Foundation proposed that the IVI Foundation
+develop a new IVI language-specific specifications for ANSI-C, based on
+the [IVI Driver Core Specification](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md).
 
 This new spec becomes part of the [IVI Generation 2026](https://www.ivifoundation.org/specifications/default.html#generation-2026-driver-specifications) set of specifications.
 
