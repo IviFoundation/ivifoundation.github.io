@@ -20,7 +20,7 @@ The new IVI Python spec becomes part of the [IVI Generation 2026](https://www.iv
 <!--excerpt-->
 
 All of the IVI Generation 2026 standards are being developed and managed
-under GitHub. IVI is doing this to makes the standards more accessible
+under GitHub. IVI is doing this to make the standards more accessible
 to driver developers and users that want to propose additions. Driver
 users and developers are encouraged to participate by creating
 discussions in the [IVI Drivers repository](https://github.com/IviFoundation/IviDrivers) on GitHub.
