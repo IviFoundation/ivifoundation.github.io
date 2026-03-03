@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: IVI Completes the IVI ANSI-C Specification
+title: Fenruary 25 - IVI Completes the IVI ANSI-C Specification
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
