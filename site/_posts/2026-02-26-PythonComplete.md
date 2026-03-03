@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: IVI Completes the IVI Python Specification
+title: February 25 - IVI Completes the IVI Python Specification
 author: IVI Admin
 excerpt_separator: "<!--excerpt-->"
 ---
