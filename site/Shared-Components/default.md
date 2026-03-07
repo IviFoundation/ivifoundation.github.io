@@ -48,19 +48,29 @@ IVI-COM, IVI-C, or IVI.NET drivers. The IVI Shared Components require
 | [IVI Shared Components Release Notes (docx)](../downloads/Shared%20Components/IVI%20Shared%20Components%20Release%20Notes%203.0.docx) | This document provides information on the current and previous versions of the IVI Shared Components, including known issues.    |
 | [Older IVI Shared Components Versions](OlderIviSharedComponents.html) | Download older versions of the IVI Shared Components.                                                                                                                                       |
 
-## IVI.NET Shared Components
+## IVI.NET CS (Configurable Settings) Shared Components
 
-The IVI.NET Shared Components are required for use or development of
-IVI.NET drivers. The IVI Shared Components 2.0.0 or greater (links
-above) **must be installed before installing the IVI.NET Shared
-Components**.
+The IVI.NET CS (Configurable Settings) Shared Components are required
+for use or development of Generation 2014 IVI.NET drivers.
+
+IVI Generation 2026 drivers support .NET 6+ and are required to provide
+NuGet packages.  These drivers use the IVI.NET DSC (Driver Shared
+Components) also available as NuGet packages from NuGet.org.
+
+For information on developing and using the IVI.NET CS Shared Components with IVI
+.NET 6+ Drivers, see:
+[IVI.NET Drivers with CS Shared Components](https://github.com/IviFoundation/IviDrivers/blob/main/Documentation/IviDotNetDriversWithCSSharedComponents.md).
+
+The IVI Shared Components 2.0.0 or greater (links above) **must be
+installed before installing the IVI.NET Shared Components**.
 
 The IVI.NET Shared Components require .NET Framework version 2.0 or
 greater.
 
 | ------------ | --------------- |
-| [IviNetSharedComponents_301.exe](../downloads/Shared%20Components/IviNetSharedComponents_301.exe)  | This file is an executable installer that installs the IVI.NET Shared Components on either a 32-bit or 64-bit system. The IVI Shared Components 2.0.0 or greater (links above) **must be installed before installing the IVI.NET Shared Components**. |
-| [IVI.NET Shared Components Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues. |
+| [IviNetSharedComponents_310.exe](../downloads/Shared%20Components/IviNetSharedComponents_310.exe)  | This file is an executable installer that installs the IVI.NET Shared Components on either a 32-bit or 64-bit system. The IVI Shared Components 2.0.0 or greater (links above) **must be installed before installing the IVI.NET Shared Components**. |
+| [IviNetSharedComponents_301.exe](../downloads/Shared%20Components/IviNetSharedComponents_301.exe)  | This is the older version of the IVI CSSC, see the release notes for differences. |
+| [IVI.NET CSSC Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes%203.1.8706.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues. |
 | [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.html) | Download older versions of the IVI.NET Shared Components. |
 
 ## VISA and VISA.NET Shared Components
