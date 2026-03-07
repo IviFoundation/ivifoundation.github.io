@@ -54,8 +54,9 @@ The IVI.NET CS (Configurable Settings) Shared Components are required
 for use or development of Generation 2014 IVI.NET drivers.
 
 IVI Generation 2026 drivers support .NET 6+ and are required to provide
-NuGet packages.  These drivers use the IVI.NET DSC (Driver Shared
-Components) also available as NuGet packages from NuGet.org.
+NuGet packages.  These drivers use either the IVI.NET DSC (Driver Shared
+Components) or the IVI.NET CS Shared Components. The IVI.NET DSC are
+available as NuGet packages from NuGet.org.
 
 For information on developing and using the IVI.NET CS Shared Components with IVI
 .NET 6+ Drivers, see:
