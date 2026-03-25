@@ -10,6 +10,30 @@ NOTES:
   - Markdown Preview Enhanced (Yiyi Wang)
 
 
+Key messages:
+General outline and content?
+-	Need to mention importance of interoperability
+-	What do we think is the primary delivery mechanism for this document.  Probably want to focus on web delivery.  Perhaps work towards web content then something that can be perused in more detail.
+o	Targeting either IVI and/or Keysight website.  At the outset target the IVI website.
+o	Will want to produce a PDF also.
+-	Need illustrations best tool for that is??
+o	Might check with Sarabjeet (Sanjeev will ask)
+-	Perhaps add an FAQ at the back that can contrast with the old approach, also need to talk about heterogeneity
+-	Need concise “elevator” pitch on why this is cool.  Probably the top page on the website that can hit that.  Not too dense. “Punchy lead”
+o	May need to create a parallel one for the old architecture for the IVI website. 
+o	Should include expandability to other languages as a key benefit.
+o	Just simpler
+	Easy to use
+	Light source code – does not require special tools
+•	Easy to extend
+	Easy deployment
+	Target to any language – already have Python, .NET and C
+	
+-	Is there  some way that AI factors into this?  (Python)
+-	Simpler deployment
+
+moving into modern scenarios (for example, bring in new Python support..., closer to AI/ML enabling drivers...
+
 
 
 The Next Generation of IVI Drivers -- IVI Core Drivers
