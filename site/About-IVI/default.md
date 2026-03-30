@@ -6,31 +6,34 @@ has_children: true
 has_toc: false
 ---
 
-# About IVI
+# IVI Standards
 
-These pages will help you learn more about the IVI Foundation and IVI
-technology.
+<br><br>
 
+<div class="svg-container" style="display: block; clear: both;" >
+  <img src="{{ '../assets/images/Ivi-domain.svg' | relative_url }}" alt="My Graphic" style="max-width: 90%; height: auto;">
+</div>
 
-- See [Driver Overview](Driver-Overview.html) to get an overview of IVI Driver technology
-  and benefits.
-- The [Architecture](Driver-Architecture.html) page describes the overall IVI
-  Driver software architecture, explaining the major software components and
-  standard instrument classes.
-- [Instrument Classes](Instrument-Classes.html) specify standard APIs
-  for common kinds of instruments to facilitate instrument interchange.
-- The [Measurement and Stimulus](MeasurementAndStimulusInterchangeability.html) page 
-  describes IVI's Measurement and Stimulus
-  Subsystem specification, which supports interchangeability in addition
-  to that provided by common driver APIs.
-- [Conformance](Conformance.html) explains IVI's process for assuring
-  that commercial drivers are conformant to the IVI specifications.
-- The [SCPI](scpi.html) page introduces the SCPI standard that 
-  specifies the command strings sent to instruments to control them.
-- The [VXI _plug&play_](vxi_plugandplay.html) describes the VXI _plug&play_
-  standards that broadly apply to the VISA IO library and C-language
-  drivers.
-- Finally the [Member Resources](MemberCompanyResources.html) page provides links to other
-  web pages where you can to download  drivers, get  
-  application information and review IVI-related software products.
+<br> 
 
+The IVI Foundation produces standards that relate to instrument connectivity and provide interoperability between different instrument vendors products, and simpler system construction for customers.  The standards primarily fall into 3 categories: standards related to software that runs on controllers, standards related to the communication between the controller and instruments, and the *SCPI* standard that describes the control of the instruments.
+
+The IVI Foundation is primarily made up of instrument manufacturers, however instrument users are always welcome to participate in IVI Foundation meetings and contribute to our standards.
+
+### Controller Software Specifications
+
+Controller software specifications specify software that is delivered to test system developers to control instruments. This includes 3 generations of instrument driver specifications and the VISA IO Library.  The instrument driver specifications are:
+
+**VXI*plug&play*** &mdash; These standards, developed in 19XX provide a basic specification of instrument drivers in several contemporaneos programming environments. They are the basis for some subsequent standards such as the IVI Configurable Settings driver standards.
+
+**IVI Configurable Settings Drivers** &mdash; These standards build on the VXI*plug&play* standards and provide a mechanism designed to provide instrument interchangeability. They also extend the VXI*plug&play* standards for Microsoft .NET Framework and Microsoft COM.
+
+**IVI Core Drivers** &mdash; IVI Core drivers provide XXXXX
+
+### Protocol Specifications
+
+The IVI Foundation also has numerous [protocol standards](http://127.0.0.1:4000/About-IVI/ProtocolStandards.html) related to the communication between the instruments and the test system. These enable instruments from different manufacturers to expose compatible interfaces so that test systems can be created with common software to control instruments from many vendors and using many interfaces.
+
+### The SCPI Standard
+
+Finally, the IVI Foundation provides the **SCPI Standard**. For instruments that are programmed by sending and receiving strings between the controller and the instrument, the **SCPI Standard** establishes that language that is used configure and control the instruments, initiate operations, and return results.
