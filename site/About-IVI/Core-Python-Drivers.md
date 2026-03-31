@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Core Drivers
-title: Python
+title: IVI-Python
 nav_order:  40
 ---
 
-# Core IVI-Python Drivers
+# IVI-Python Drivers
 
 The IVI-Python Standard
 The IVI-Python standard is a new IVI standard.  It brings some standardization and quality requirements to the already existing body of Python drivers available in the industry.

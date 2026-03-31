@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Core Drivers
+parent: none
 title: Core Driver Overview
 nav_order:  10
 ---
@@ -8,7 +8,8 @@ nav_order:  10
 # IVI Core Overview
 
 The Next Generation of IVI Drivers -- IVI Core Drivers
-IVI Foundation has released new IVI-Core driver standards, updating previous driver standards. These standards have several benefits:
+
+The IVI Foundation has released new IVI-Core driver standards, updating previous driver standards. These standards have several benefits:
 
 -	Provide support for Python and .NET 6+ (also known as .NET Core)
 -	Update C support with a new IVI-ANSI-C specification that provides a simpler, generic C DLL that can be used in any environment that can load a DLL.

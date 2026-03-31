@@ -7,7 +7,15 @@ nav_order:  10
 
 # IVI Core Drivers
 
-Starting in IVI Generation 2026, the IVI Foundation determined that the industry
+<br><br>
+
+<div class="svg-container" style="display: block; clear: both;" >
+ <img src="{{ '../assets/images/Ivi-Core-Drivers.svg' | relative_url }}" alt="My Graphic" style="max-width: 90%; height: auto;">
+</div>
+
+<br> 
+
+Starting with IVI Generation 2026, the IVI Foundation determined that the industry
 needed a new generation of driver standards that are dramatically easier to use,
 develop, and extend than existing drivers.
 
@@ -16,17 +24,18 @@ on what is generally expected by users of instrument drivers, without any
 additional burden of a system-level architecture that complicates deployment and
 use of the drivers.
 
-*IVI Core* drivers include key features critical to customers such as:
+In addition, the IVI Foundation wanted to create a simpler family of driver specifications. The specifications need to be of a length and complexity that they are easily approachable by both driver developers and driver users.
 
-- Driver source code that does not require special tools and enables customers to extend the drivers
-- Complete support for the instrument
-- The standard requires that drivers are well tested
+The IVI Foundation approached this creating a IVI Core specification.  This specification has requirements that must be satisfied by *all* IVI Core drivers. It includes requirements that are independent of the driver implementation language, but essential for customers to have a good experience with drivers. *IVI Core* drivers include key features critical to customers such as:
+
+- Driver source code that does not require special tools and enables customers to easily extend the drivers
+- Support for all of the instrument capabilities
+- Quality requirements in the form of minimal testing that must be completed on the driver
 - A driver deployment model that fits with modern software environments and does not require an install
 - A *basic* set of common APIs to manage the driver and underlying instrument
+- Extensibility to non-Windows platforms such as Linux and MacOS
 
-To do this the IVI Foundation created a new *Core* driver standard. It is
-independent of the driver implementation language and establishes a baseline for
-language-specific drivers.  Using this, we have rapidly created extensions for
+Based on this IVI-Core specification, IVI has rapidly created language-specific extensions for
 Python, C, and .NET.
 
 Because of this focus on simple usable drivers, the driver specifications are
@@ -34,27 +43,6 @@ dramatically shorter than earlier IVI specifications.  Making the specifications
 themselves easily accessible to both driver users and implementors.  The IVI
 Core standards, including the architecture and language extensions are all 20
 pages or less.
-
-<!-- 
-
-
--	Need illustrations best tool for that is??
-  o	Might check with Sarabjeet (Sanjeev will ask)
--	Perhaps add an FAQ at the back that can contrast with the old approach, also need to talk about heterogeneity
--	Need concise “elevator” pitch on why this is cool.  Probably the top page on the website that can hit that.  Not too dense. “Punchy lead”
-  o	May need to create a parallel one for the old architecture for the IVI website. 
-  o	Should include expandability to other languages as a key benefit.
-  o	Just simpler
-    - Easy to use
-- Light source code – does not require special tools
-- Easy to extend
-- Easy deployment
-- Target to any language – already have Python, .NET and C
-	
--	Is there  some way that AI factors into this?  (Python)
--	Simpler deployment
-- moving into modern scenarios (for example, bring in new Python support..., closer to AI/ML enabling drivers...
- -->
 
 ## GitHub
 

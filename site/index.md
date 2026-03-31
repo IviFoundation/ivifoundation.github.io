@@ -16,7 +16,7 @@ program development and maintenance.
         Getting Started
     </h2>
     <p>
-        For information on the IVI standards, see <a href="/getting-started/">Getting Started</a>.
+        For information on the IVI standards, see <a href="/About-IVI/default.html">Standards</a>.
     </p>
     <p>
         For information to get started using IVI drivers, see the
@@ -35,14 +35,9 @@ and hardware components from multiple vendors.  These standards include:
   completeness of those drivers.  Including an industry-wide registration
   mechanism for all conformant instrument drivers.
 
-* Standards that specify APIs of specific classes of instruments that
-  facilitate interchanging instruments.
+* Standards on the protocols that are used to communicate between test
+  systems and instruments.
 
 * The SCPI standard which specifies the strings that can be sent
   to instruments to control them.
 
-* Standards regarding APIs used in programs that control instruments
-  to send and receive the strings specified by SCPI.
-
-* Standards related to how messages are transferred between instruments
-  and computers.

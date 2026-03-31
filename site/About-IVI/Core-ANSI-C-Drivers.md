@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Core Drivers
-title: ANSI-C
+title: IVI-ANSI-C
 nav_order:  60
 ---
 
-# Core IVI-ANSI-C Drivers
+# IVI-ANSI-C Drivers
 
 The Core IVI-ANSI-C drivers are simple to us, develop and modify. These drivers align well with common customer expectations around an instrument driver. As an IVI compliant driver, users are assured that they will work well with other drivers on the system and that they comply with the IVI requirements around quality, documentation, and delivery.
 

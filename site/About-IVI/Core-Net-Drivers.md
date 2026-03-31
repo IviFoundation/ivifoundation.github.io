@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Core Drivers
-title: .NET
+title: IVI.NET
 nav_order:  50
 ---
 
-# IVI Core .NET Drivers
+# IVI.NET Drivers
 
 The IVI.NET Standard is a successor to previous IVI.NET standards from the IVI Foundation.  The previous versions of the standard were the subject of the detailed specifications mentioned above.  With IVI Driver Core, vendors and users can use much simpler drivers.  However, these drivers work fine alongside the earlier IVI drivers.
 The new standards have less extensive requirements to facilitate instrument interchangeability.  The new standards retain the features critical for most scenarios.  IVI is continuing to provide Shared Components that driver developers and users can use that want to use the earlier IVI Driver architecture to interchange instruments.
