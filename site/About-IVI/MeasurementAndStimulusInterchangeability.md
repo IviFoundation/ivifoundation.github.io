@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Standards
+parent: CS Drivers
 title: Measurement & Stimulus for Interchangeability
 nav_order:  30
 
@@ -10,7 +10,8 @@ nav_order:  30
 
 The *Measurement and Stimulus Subsystem* specification
 provides additional architectural help in building test and measurement
-solutions. IVI-MSS shows how IVI drivers, IVI shared components and
+solutions that need to interchange instruments. IVI-MSS shows how 
+IVI drivers, IVI shared components and
 other software elements can be combined together to build integrated
 solutions. Such solutions can provide:
 
