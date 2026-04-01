@@ -26,15 +26,15 @@ The IVI Foundation is primarily made up of instrument manufacturers, however ins
 
 Controller software specifications describe software that that runs on test system to control instruments. This includes 3 generations of instrument driver specifications and the VISA IO Library. The instrument driver specifications are:
 
-**VISA IO Library** &mdash; [VISA](http://127.0.0.1:4000/specifications/default.html#visa-specifications) specifies the library that runs on the test system controller to provide low-level IO to the instruments. This includes exchanging string messages with instruments that are controlled with a high-level language like SCPI. VISA also provides APIs for reading and writing registers on register-based instruments like PXI and VXI. Having a standard library simplifies test system software by:
+**VISA IO Library** &mdash; [VISA](/specifications/default.html#visa-specifications) specifies the library that runs on the test system controller to provide low-level IO to the instruments. This includes exchanging string messages with instruments that are controlled with a high-level language like SCPI. VISA also provides APIs for reading and writing registers on register-based instruments like PXI and VXI. Having a standard library simplifies test system software by:
 
 - VISA allows system software (such as applications and instrument drivers) to be independent of the vendor of the IO Hardware and the IO Software.  For instance, a system can use one vendors GPIB hardware along with a different vendors implementation of Secure HiSLIP.
 
 - VISA allows system software to be independent of the physical interface.  That is, VISA provides a single API to control instruments regardless off if they are connected via LAN, USB, PCI, PXI Express, RS-232, GPIB or other interfaces.
 
-**VXI*plug&play* Drivers** &mdash; [VXI*plug&play*](http://127.0.0.1:4000/specifications/default.html#:~:text=PDF-,Other%20VXIplug%26play%20Specifications,-%3A), initially completed in 1994, provides a basic specification of instrument drivers in several contemporaneous programming environments. These standards have been maintained and are the basis for some of the newer IVI C-language driver specifications.
+**VXI*plug&play* Drivers** &mdash; [VXI*plug&play*](/specifications/default.html#:~:text=PDF-,Other%20VXIplug%26play%20Specifications,-%3A), initially completed in 1994, provides a basic specification of instrument drivers in several contemporaneous programming environments. These standards have been maintained and are the basis for some of the newer IVI C-language driver specifications.
 
-**IVI Configurable Settings Drivers** &mdash; [IVI Configurable Settings](http://127.0.0.1:4000/About-IVI/About-CSDrivers.html) drivers build on the VXI*plug&play* specifications. They extended the previous specifications with support for Microsoft .NET and Microsoft COM. IVI CS (Configurable Settings) Drivers provide mechanisms for instrument interchangeability through three features:
+**IVI Configurable Settings Drivers** &mdash; [IVI Configurable Settings](/About-IVI/About-CSDrivers.html) drivers build on the VXI*plug&play* specifications. They extended the previous specifications with support for Microsoft .NET and Microsoft COM. IVI CS (Configurable Settings) Drivers provide mechanisms for instrument interchangeability through three features:
 
 - Instrument class definitions
 - Abstract instantiation
