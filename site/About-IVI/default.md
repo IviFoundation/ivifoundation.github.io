@@ -16,9 +16,9 @@ has_toc: false
 
 <br> 
 
-The IVI Foundation produces instrument connectivity specifications that simplify building systems and provide interoperability between different instrument vendors products. By specifying the software in the controller (like instrument drivers) and the protocols used to control instruments, the IVI specifications ensure that instruments from various vendors work well together.
+The IVI Foundation produces instrument connectivity specifications that simplify building systems and provide interoperability between different instrument vendors products. By specifying the software in the controller (like instrument drivers) and the protocols used to control instruments the IVI specifications ensure that instruments from various vendors work well together.
 
-The specifications primarily fall into 3 categories: specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the control of the instruments.
+The specifications primarily fall into 3 categories: specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the language used to control the instruments.
 
 The IVI Foundation is primarily made up of instrument manufacturers, however instrument users are always welcome to participate in IVI Foundation meetings, contribute to the specifications or join the foundation.
 
