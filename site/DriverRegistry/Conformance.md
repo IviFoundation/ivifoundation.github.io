@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: Standards
+parent: Driver Registry
 title: Driver Conformance
-nav_order:  40
+nav_order:  6
 ---
 
 # Conformance
