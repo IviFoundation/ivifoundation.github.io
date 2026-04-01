@@ -24,14 +24,15 @@ for errors after normal driver calls.  This is very helpful during development, 
 
 **Instrument Reset** &mdash; An API is required to reset the instrument, and any associated driver state variables that need to be instantiated.
 
-**Instrument IO** &mdash; Instrument drivers that are built on top of another documented interface (such as SCPI) are required to provide a basic way for the driver user to send and receive string to the instrument.  This can be a valuable tool if some special instrument function needs to be used in a way that was not anticipated by the driver author. 
+**Instrument IO** &mdash; Instrument drivers that are built on top of another documented interface (such as SCPI) are required to provide a basic way for the driver user to send and receive string to the instrument.  This can be a valuable tool if some special instrument function needs to be used in a way that was not anticipated by the driver author.
 
 With these requirements, any driver that complies with the IVI Driver Core should deliver on basic quality requirements and also provide a consistent basic API for doing basic driver functions.
 The IVI.NET and IVI-Python specifications also include interface definitions for these common functions.  This allows object oriented driver clients to manage the drivers abstractly.
-The IVI Core drivers provide the essential features of drivers, with no more complexity than is necessary.  This results in:
--	Fast and efficient drivers
--	Minimal complexity drivers, which means that customers that want to work with the driver source code can do so.
--	Drivers attuned to the most modern languages, including Python and .NET 6,7,8 and beyond.
--	A new C IVI driver that is based on ANSI-C.  The earlier IVI Drivers were based on the VXIplug&play drivers, which go back to 
 
-Although IVI 2014 guaranteed customers source code, in many cases the Configurable Settings drivers were so complex that the source code was impractical to update without access to the internal tool chains used by the driver developers.
+The IVI Core drivers provide the essential features of drivers, with no more complexity than is necessary.  This results in:
+- Fast and efficient drivers
+- Minimal complexity drivers, which means that customers that want to work with the driver source code can do so.
+- Drivers attuned to the most modern languages, including Python and .NET 6,7,8 and beyond.
+- A new C IVI driver that is based on ANSI-C, for use both in C programming environment and in environments that can call into compiled C libraries, such as Java and C++.
+
+Although IVI 2014 guaranteed customers source code, in many cases the configurable settings drivers were so complex that the source code was impractical to update without access to the internal tool chains used by the driver developers.

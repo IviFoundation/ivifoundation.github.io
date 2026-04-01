@@ -7,13 +7,13 @@ nav_order:  20
 
 # The IVI Driver Core Specification
 
-The IVI Driver Core specification establishes a baseline set of requirements for all IVI Core drivers regardless of the language the driver is targetted at. The following is a very brief summary of the requirements of the specification.
+The IVI Driver Core specification establishes a baseline set of requirements for all IVI Core drivers regardless of the language the driver is targeted at. The following is a very brief summary of the requirements of the specification.
 
 **Full Instrument Capability** &mdash; Drivers that are layered on top of another interface such as SCPI are required to provide the driver user with full access to the instrument capabilities that are relevant for a test system. Capabilities that IVI identifies as not being relevant include functions included for instrument service and diagnostics, instrument display features not used in system applications, and functions that would override the drivers communication with the instrument for example changing the format that measurement data is returned in.
 
 **Documentation** &mdash; Although difficult to precisely specify, the IVI-Core calls out 4 different required documents:
 
-- *Driver Introduction Document* IVI specifies the detailed contents of this document, including the actual minimum set of sections. The document must contain details on the provided files, how to access the driver source code, and extensive sections on how to connect to the instrument, configure it, and control it. Tjos document also calls out how to access the required example programs. In addition it calls out the supported instrument commands and how to use the Direct IO API.
+- *Driver Introduction Document* IVI specifies the detailed contents of this document, including the actual minimum set of sections. The document must contain details on the provided files, how to access the driver source code, and extensive sections on how to connect to the instrument, configure it, and control it. The document also calls out how to access the required example programs. In addition it calls out the supported instrument commands and how to use the Direct IO API.
 
 - *Help Documentation* This required document is the main driver documentation. It contains details information on all the methods and properties (also known as functions) in the driver and their use.
 
@@ -25,7 +25,7 @@ The IVI Driver Core specification establishes a baseline set of requirements for
 
 **Testing** &mdash; - Drivers must complete thorough testing. IVI requires that every driver API be validated with all reasonable parameters, touching the parameter limits as part of the validation.  Since there is not a practical way for the IVI Foundation to police the testing performed by vendors, IVI requires that vendors document for customers that the required testing has been completed in the *Compliance Document*.  This documentation gives customers the leverage they need to insist on defect fixes if they find problems with drivers.
 
-**Common API** &mdash; IVI Core includes a very brief required API. [Core Driver APIs](http://127.0.0.1:4000/About-IVI/Core-Driver-APIs.html) has details.
+**Common API** &mdash; IVI Core includes a very brief required API. [Core Driver APIs](/About-IVI/Core-Driver-APIs.html) has details.
 
 **Key Capabilities** &mdash; IVI Core defines a couple of key capabilities that must be included in all drivers those are:
 
@@ -37,4 +37,4 @@ Both of these capabilities are controlled using the *Common API*
 
 **Direct IO** &mdash; All drivers that are built on top of an message based interface like SCPI are required to provide a mechanism for users to send and receive strings to the instrument. Although not commonly used, these capabilities provide a way for users to reach down into the instrument control to access special instrument features or use the instrument in ways not anticipated by the driver.
 
-**General Hygiene** &mdash; There are numerous other requirenments throughout the IVI Core specification that are essentiali for a well-behaved driver. Some of these are: multi-thread safety, naming protocols, documentation of suported instrument models, identity APIs, etc.
+**General Hygiene** &mdash; There are numerous other requirements throughout the IVI Core specification that are essential for a well-behaved driver. Some of these are: multi-thread safety, naming protocols, documentation of supported instrument models, identity APIs, et cetera.

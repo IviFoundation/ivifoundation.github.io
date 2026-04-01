@@ -20,5 +20,4 @@ Some of the key benefits of Core IVI.NET drivers are:
 >
 > **NuGet Delivery** &mdash; Core IVI.NET Drivers are delivered with NuGet. This means that each application on a system manages the drivers that is uses. This simplifies application deployment since the NuGet infrastructure takes care of dependency resolution, version management, and controls project bloat. The resulting applications are easier to develop, maintain, and deploy.
 >
-> **Migration Path for Generation 2014 IVI.NET Drivers** &mdash; Core IVI.NET drivers work fine alongside Generation 2014 IVI.NET Drivers. Although Core IVI.NET has much fewer rules and restrications, there is no reason they cannot be used with existing drivers.
-
+> **Migration Path for Generation 2014 IVI.NET Drivers** &mdash; Core IVI.NET drivers work fine alongside Generation 2014 IVI.NET Drivers. Although Core IVI.NET has much fewer rules and restrictions, there is no reason they work well with existing IVI.NET drivers.

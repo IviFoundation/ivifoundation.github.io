@@ -20,7 +20,7 @@ The IVI Foundation produces instrument connectivity specifications that simplify
 
 The specifications primarily fall into 3 categories: specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the control of the instruments.
 
-The IVI Foundation is primarily made up of instrument manufacturers, however instrument users are always welcome to participate in IVI Foundation meetingsk, contribute to the specifications or join the foundation.
+The IVI Foundation is primarily made up of instrument manufacturers, however instrument users are always welcome to participate in IVI Foundation meetings, contribute to the specifications or join the foundation.
 
 ## Controller Software Specifications
 
@@ -42,7 +42,7 @@ Controller software specifications describe software that that runs on test syst
 
 These features work together to provide a sophisticated mechanism for instrument interchangeability.
 
-**IVI Core Drivers** &mdash; [IVI Core drivers](http://127.0.0.1:4000/About-IVI/About-CoreDrivers.html) are simplified instrument drivers. They are similar to the VXI*plug&play* drivers in complexity, but also have robust requirements regarding quality and documentation.  The IVI-Core specification calls out common requirements related to driver completeness, quality, and documentation and additional specifications contain the requirements to target the specifications to specific languages.
+**IVI Core Drivers** &mdash; [IVI Core drivers](/About-IVI/About-CoreDrivers.html) are simplified instrument drivers. They are similar to the VXI*plug&play* drivers in complexity, but also have robust requirements regarding quality and documentation.  The IVI-Core specification calls out common requirements related to driver completeness, quality, and documentation and additional specifications contain the requirements to target the specifications to specific languages.
 
 By simplifying the standards, IVI Core drivers:
 
@@ -51,12 +51,12 @@ By simplifying the standards, IVI Core drivers:
 - work well with package management systems such as NuGet and PyPI
 - can be developed and modified without complex tools
 
-IVI Core drivers can be extended to language environments quite easiy. There are currently IVI Core specifications for Python, .NET, and ANSI-C.
+IVI Core drivers can be extended to language environments quite easily. There are currently IVI Core specifications for Python, .NET, and ANSI-C.
 
 ## Protocol Specifications
 
-The IVI Foundation also has several [protocol specifications](http://127.0.0.1:4000/About-IVI/ProtocolStandards.html). The protocol specifications define the communication between the instruments and the test system. These enable instruments from different manufacturers to expose compatible interfaces so that test systems can be created with common software to control instruments from many vendors and using many interfaces.
+The IVI Foundation also has several [protocol specifications](/About-IVI/ProtocolStandards.html). The protocol specifications define the communication between the instruments and the test system. These enable instruments from different manufacturers to expose compatible interfaces so that test systems can be created with common software to control instruments from many vendors and using many interfaces.
 
 ## The SCPI Specification
 
-Finally, the IVI Foundation provides the [**SCPI Specification**](http://127.0.0.1:4000/downloads/SCPI/scpi-99.pdf). For instruments that are programmed by sending and receiving strings the **SCPI Specification** establishes the language that controls the instruments, initiates operations, and returns results.
+Finally, the IVI Foundation provides the [**SCPI Specification**](/downloads/SCPI/scpi-99.pdf). For instruments that are programmed by sending and receiving strings the **SCPI Specification** establishes the language that controls the instruments, initiates operations, and returns results.
