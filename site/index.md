@@ -31,7 +31,7 @@ simplify test system development and maintenance when using software
 and hardware components from multiple vendors.  These standards include:
 
 * General purpose standards regarding instrument drivers for use in various
-  development environments. That establish a high standard for the quality and
+  development environments. These standards establish a high standard for the quality and
   completeness of those drivers.  Including an industry-wide registration
   mechanism for all conformant instrument drivers.
 
