@@ -19,7 +19,7 @@ The Configurable initial settings facilitate instrument interchangeability by pe
 
 Although these features detract from the ability of the Core IVI.NET drivers to replace existing instruments in a system, many test system designers prefer to directly control the instruments and drivers that a system is deployed with. Also, the instrument-specific code to change initial settings may be best kept with the system instead of being embedded in a system-wide database like the IVI Configuration Store.
 
-Eliminating these features directly simplifies drivers and removes the need to install them individually.
+Eliminating these features directly simplifies drivers and removes the need to install them individually. Removing the need for installation allows the drivers to be managed with NuGet. This simplifies both system development and deployment.
 
 IVI has published a document on [using Core IVI.NET drivers with the IVI Configuration Store](https://github.com/IviFoundation/IviDrivers/blob/main/Documentation/IviDotNetDriversWithCSSharedComponents.md). This describes more about how to instantiate drivers and get initial settings in Core IVI.NET drivers.
 
