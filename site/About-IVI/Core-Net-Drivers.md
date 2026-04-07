@@ -7,7 +7,7 @@ nav_order:  50
 
 # IVI.NET Drivers
 
-The Core IVI.NET Standard is a successor to previous IVI.NET standards from the IVI Foundation. The previous versions of the standard were the subject of the Generation 2014 specifications and are limited to .NET Framework. The Core IVI.NET standard includes both .NET Framework and .NET 6+ (also known as .NET Core) drivers.
+The [Core IVI.NET Standard](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md) is a successor to previous IVI.NET standards from the IVI Foundation. The previous versions of the standard were the subject of the Generation 2014 specifications and are limited to .NET Framework. The Core IVI.NET standard includes both .NET Framework and .NET 6+ (also known as .NET Core) drivers.
 
 The [Core IVI.NET Specification](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md) is easily approachable by driver developers. It is about 10-pages long, and along with the [20-page IVI Core](https://github.com/IviFoundation/InstrumentDriverSpecs/blob/main/IviDriverCore/1.0/Spec/IviDriverCore.md) specification, fully specifies the requirements on a Core IVI.NET Driver.
 

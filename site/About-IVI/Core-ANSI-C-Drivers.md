@@ -7,7 +7,7 @@ nav_order:  60
 
 # IVI-ANSI-C Drivers
 
-The Core IVI-ANSI-C drivers are simple to us, develop and modify. These drivers align well with common customer expectations around an instrument driver. As an IVI conformant driver, users are assured that they will work well with other drivers on the system and that they comply with the IVI requirements around quality, documentation, and delivery.
+The [Core IVI-ANSI-C](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md) drivers are simple to us, develop and modify. These drivers align well with common customer expectations around an instrument driver. As an IVI conformant driver, users are assured that they will work well with other drivers on the system and that they comply with the IVI requirements around quality, documentation, and delivery.
 
 Core IVI-ANSI-C drivers may be supported any compiler and operating system that the driver provider chooses, although IVI-ANSI-C requires that at a minimum Windows be supported.
 

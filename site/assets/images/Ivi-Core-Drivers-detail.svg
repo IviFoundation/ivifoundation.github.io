@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="26.605427mm"
-   height="45.384052mm"
-   viewBox="0 0 26.605427 45.384052"
+   width="164.75644mm"
+   height="61.405987mm"
+   viewBox="0 0 164.75644 61.405986"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
@@ -24,16 +24,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.6168981"
-     inkscape:cx="-207.49607"
-     inkscape:cy="256.97352"
+     inkscape:cx="283.56765"
+     inkscape:cy="279.85684"
      inkscape:window-width="2092"
      inkscape:window-height="1240"
-     inkscape:window-x="483"
-     inkscape:window-y="743"
+     inkscape:window-x="1049"
+     inkscape:window-y="554"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer5" />
   <defs
      id="defs1">
+    <rect
+       x="-160.80173"
+       y="279.54761"
+       width="5.5662136"
+       height="22.264854"
+       id="rect3" />
     <marker
        style="overflow:visible"
        id="marker20"
@@ -120,7 +126,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 3"
-     transform="translate(-128.25002,-4.6294208)">
+     transform="translate(1.6109845,1.3825773)">
     <rect
        style="fill:#e1dbcd;fill-opacity:1;stroke:#000000;stroke-width:0.263772;stroke-linejoin:bevel"
        id="rect1"
@@ -150,7 +156,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-159.90721,-80.470504)">
+     transform="translate(-30.046206,-74.458506)">
     <ellipse
        style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
        id="path3"
@@ -175,7 +181,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan4">IVI Core</tspan></text>
+         id="tspan5">IVI Core</tspan></text>
     <ellipse
        style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
        id="path3-5"
@@ -195,7 +201,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     transform="translate(-159.90721,-80.470504)">
+     transform="translate(-30.046206,-74.458506)">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-13.954419,-9.8223676)"
@@ -203,7 +209,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-2);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan5">IVI-Python</tspan></text>
+         id="tspan6">IVI-Python</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,76.177241,-9.051717)"
@@ -211,7 +217,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan6">IVI-ANSI-C</tspan></text>
+         id="tspan11">IVI-ANSI-C</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,34.7507,-0.82236691)"
@@ -219,7 +225,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan11">IVI.NET</tspan></text>
+         id="tspan12">IVI.NET</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256219;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
        d="M 81.64347,94.401171 61.302728,111.13283"
@@ -237,7 +243,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Layer 4"
-     transform="translate(-128.25002,-4.6294208)">
+     transform="translate(1.6109845,1.3825773)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
@@ -253,27 +259,27 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.64236"
-         y="9.9569778"
+         y="9.956975"
          id="tspan13">Documentation</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.64236"
-         y="13.484756"
+         y="13.48475"
          id="tspan2">Source Code</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.64236"
-         y="17.012533"
+         y="17.012526"
          id="tspan3">Testing</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.64236"
-         y="20.54031"
+         y="20.5403"
          id="tspan15">API and Base Features</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.64236"
-         y="24.068089"
+         y="24.068075"
          id="tspan14">Direct IO</tspan></text>
     <text
        xml:space="preserve"
@@ -291,27 +297,27 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.6554"
-         y="35.894993"
+         y="35.894989"
          id="tspan9">Naming</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.6554"
-         y="39.422771"
+         y="39.422764"
          id="tspan12-1">Map API to language</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.6554"
-         y="42.950546"
+         y="42.950539"
          id="tspan7">Exceptions &amp; Errors</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.6554"
-         y="46.478325"
+         y="46.478313"
          id="tspan1">Packaging</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0116571px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.194591;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
          x="135.6554"
-         y="50.006104"
+         y="50.006088"
          id="tspan14-2" /></text>
     <text
        xml:space="preserve"
@@ -324,5 +330,10 @@
          style="font-size:3.88056px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999"
          x="126"
          y="2.9454541">Specification Content</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,128.25002,4.6294208)"
+       id="text3"
+       style="font-size:10.6667px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;fill-opacity:0.107607;stroke-width:1.00157;stroke-linejoin:bevel" />
   </g>
 </svg>

@@ -7,7 +7,7 @@ nav_order:  40
 
 # IVI-Python Drivers
 
-The IVI-Python standard brings standardization and quality requirements to the already existing body of Python drivers available in the industry.
+The [IVI-Python standard](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverPython/1.0/Spec/IviDriverPython.md) brings standardization and quality requirements to the already existing body of Python drivers available in the industry.
 
 IVI-Python draws heavily on both PEP-8, which specifies good Python style, and IVI-Core that specifies documentation, testing, source availability and direct instrument IO.  IVI-Python does not reiterate these requirements. Therefore, IVI-Python is a terse standard (about 20 pages), focused on the specific aspects of Python for drivers.
 
