@@ -7,7 +7,7 @@ nav_order:  10
 
 # IVI Core Drivers
 
-<br><br>
+<br>
 
 <div class="svg-container" style="display: block; clear: both;" >
  <img src="{{ '../assets/images/Ivi-Core-Drivers.svg' | relative_url }}" alt="My Graphic" style="max-width: 90%; height: auto;">

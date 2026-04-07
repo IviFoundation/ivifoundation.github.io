@@ -19,7 +19,7 @@ program development and maintenance.
         For information on the IVI standards, see <a href="/About-IVI/default.html">Standards</a>.
     </p>
     <p>
-        For information to get started using IVI drivers, see the
+        For information to get started using IVI CS drivers, see the
         <a href="downloads/IVI-GSG-CurrentVersion.pdf">IVI Getting Started Guide (PDF)</a>.
     </p>
 </div>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="126.58756mm"
-   height="59.062733mm"
-   viewBox="0 0 126.58756 59.062733"
+   width="129.23801mm"
+   height="59.828636mm"
+   viewBox="0 0 129.238 59.828637"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.6168981"
-     inkscape:cx="277.6922"
-     inkscape:cy="274.90909"
+     inkscape:cx="282.63995"
+     inkscape:cy="220.4839"
      inkscape:window-width="2123"
      inkscape:window-height="1240"
-     inkscape:window-x="1101"
-     inkscape:window-y="537"
+     inkscape:window-x="526"
+     inkscape:window-y="637"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs1">
     <marker
@@ -117,10 +117,24 @@
        id="rect4-9" />
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     transform="translate(1.5049998,-1.0583208)">
+    <rect
+       style="fill:none;fill-opacity:0.107607;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect1"
+       width="128.97301"
+       height="59.563637"
+       x="-1.3725003"
+       y="1.1908203"
+       rx="0.40006357" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-31.65719,-75.841084)">
+     transform="translate(-30.15219,-76.899405)">
     <ellipse
        style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
        id="path3"
@@ -135,63 +149,23 @@
        cy="126.09859"
        rx="17.061489"
        ry="8.6343079" />
-    <g
-       id="layer2"
-       transform="matrix(0.54201604,0,0,0.60663317,55.190948,68.983792)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="110.32192"
-         y="15.364426"
-         id="text4-5"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="15.364426"
-           id="tspan8">Testing</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="22.705576"
-           id="tspan12">Source Code</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="30.046726"
-           id="tspan13">Documentation</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="37.387875"
-           id="tspan15">Driver Features</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="44.729027"
-           id="tspan16">Direct IO</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87292px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.0203293px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.339355;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-           x="110.32192"
-           y="52.070175"
-           id="tspan14">API</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,34.527272,-38.781818)"
        id="text4"
-       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
+       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan2">IVI Core</tspan></text>
+         id="tspan1">IVI Core</tspan></text>
     <ellipse
-       style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       style="display:inline;fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
        id="path3-5"
        cx="48.889599"
        cy="117.89234"
        rx="17.061489"
        ry="8.6343079" />
     <ellipse
-       style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       style="display:inline;fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
        id="path3-14"
        cx="141.01234"
        cy="117.89234"
@@ -202,7 +176,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 2"
-     transform="translate(-31.65719,-75.841084)">
+     transform="translate(-30.15219,-76.899405)">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-13.954419,-9.8223676)"
@@ -210,7 +184,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-2);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan3">IVI-Python</tspan></text>
+         id="tspan2">IVI-Python</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,78.177022,-9.051717)"
@@ -218,7 +192,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan4">IVI-ANSI-C</tspan></text>
+         id="tspan3">IVI-ANSI-C</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,34.7507,-0.82236691)"
@@ -226,7 +200,7 @@
        style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
          x="188.63281"
          y="485.51781"
-         id="tspan5">IVI.NET</tspan></text>
+         id="tspan4">IVI.NET</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256219;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
        d="M 81.64347,94.401171 61.302728,111.13283"

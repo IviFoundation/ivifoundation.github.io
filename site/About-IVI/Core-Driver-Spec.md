@@ -7,6 +7,14 @@ nav_order:  20
 
 # The IVI Driver Core Specification
 
+<br>
+
+<div class="svg-container" style="display: block; clear: both;" >
+ <img src="{{ '../assets/images/Ivi-Core-Drivers-detail.svg' | relative_url }}" alt="My Graphic" style="max-width: 90%; height: auto;">
+</div>
+
+<br> 
+
 The IVI Driver Core specification establishes a baseline set of requirements for all IVI Core drivers regardless of the language the driver is targeted at.
 
 The IVI Core specification requires the essential features of drivers, with no unnecessary complexity.  This results in:
