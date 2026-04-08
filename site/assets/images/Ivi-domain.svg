@@ -29,13 +29,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.80844905"
-     inkscape:cx="499.72228"
-     inkscape:cy="601.76952"
-     inkscape:window-width="2030"
+     inkscape:zoom="2.2866392"
+     inkscape:cx="342.42394"
+     inkscape:cy="187.83024"
+     inkscape:window-width="3300"
      inkscape:window-height="1634"
-     inkscape:window-x="1002"
-     inkscape:window-y="388"
+     inkscape:window-x="526"
+     inkscape:window-y="294"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -114,131 +114,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.566493,-28.279549)">
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:27.4606;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="25.527273"
-       y="92.945457"
-       id="text1"
-       transform="translate(-2.9454542,-23.083332)"><tspan
-         x="25.527273"
-         y="92.945457"
-         id="tspan1">Test System </tspan><tspan
-         x="25.527273"
-         y="96.914204"
-         id="tspan2">Controller</tspan></text>
+     transform="translate(-5.5664928,-28.279549)">
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.881383;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker82);marker-mid:url(#ArrowTriangleStylized);marker-end:url(#marker83)"
-       d="M 58.347517,44.839269 C 143.90702,44.669823 143.90702,44.669823 143.90702,44.669823"
-       id="path2" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="153.94992"
-       y="70.854546"
-       id="text2"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.265"
-         x="153.94992"
-         y="70.854546"
-         id="tspan3">Instrumentation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="145.48479"
-       y="84.915024"
-       id="text4"><tspan
-         sodipodi:role="line"
-         id="tspan4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="145.48479"
-         y="84.915024">Standard Commands for</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="145.48479"
-         y="90.647659"
-         id="tspan14"> Programmable Instruments</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="145.48479"
-         y="96.380302"
-         id="tspan15"> (SCPI)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="82.371422"
-       y="84.862"
-       id="text4-5"><tspan
-         sodipodi:role="line"
-         id="tspan4-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="82.371422"
-         y="84.862">Protocol Standards</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="82.371422"
-         y="90.594635"
-         id="tspan5">   HiSLIP</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="82.371422"
-         y="96.327278"
-         id="tspan6">   Interop for USBTMC</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="82.371422"
-         y="102.05991"
-         id="tspan7">   PXI plug-in for VISA</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="82.371422"
-         y="107.79255"
-         id="tspan8">   SASL Mechanism Spec</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="5.566493"
-       y="84.58358"
-       id="text4-2"><tspan
-         sodipodi:role="line"
-         id="tspan4-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
-         x="5.566493"
-         y="84.58358">Controller Software Specifications</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
-         x="5.566493"
-         y="90.316216"
-         id="tspan9">  Core Drivers</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
-         x="5.566493"
-         y="96.048859"
-         id="tspan10">  Configurable Settings Drivers</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
-         x="5.566493"
-         y="101.78149"
-         id="tspan11">  VISA IO Library</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
-         x="5.566493"
-         y="107.51413"
-         id="tspan12">  VXIplug&amp;play</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-       x="76.414024"
-       y="49.745453"
-       id="text16"><tspan
-         sodipodi:role="line"
-         id="tspan16"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
-         x="76.414024"
-         y="49.745453">Communication Channel</tspan></text>
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.883025;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker82);marker-mid:url(#ArrowTriangleStylized);marker-end:url(#marker83)"
+       d="m 65.134022,43.818148 85.266608,-0.04291"
+       id="path2"
+       sodipodi:nodetypes="cc" />
     <g
-       transform="matrix(0.05819696,0,0,0.06336485,-23.027293,22.260078)"
+       transform="matrix(0.05819696,0,0,0.06336485,-16.927244,22.260078)"
        id="g74">
       <path
          d="m 15.18,488.765 a 1.456,1.456 0 0 0 1.308,1.575 h 651.984 a 1.6,1.6 0 0 0 0,-3.15 H 16.488 a 1.456,1.456 0 0 0 -1.308,1.575 z"
@@ -778,7 +661,7 @@
     </g>
     <g
        id="g61"
-       transform="translate(32.531823,-88.363639)">
+       transform="translate(38.432009,-88.363639)">
       <path
          d="m 149.6592,128.82995 h -31.13821 a 0.93908454,0.64235479 0 0 1 -0.93785,-0.64152 v -7.18536 a 0.93893025,0.64224925 0 0 1 0.93785,-0.64151 h 31.13821 a 0.93893025,0.64224925 0 0 1 0.93785,0.64151 v 7.18526 a 0.93893025,0.64224925 0 0 1 -0.93785,0.64162 z"
          fill="#e6e6e6"
@@ -817,16 +700,16 @@
          ry="0.38496965" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:31.6343;fill:none;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:31.6343;display:inline;fill:none;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel"
          x="132.38182"
          y="123.70909"
          id="text3"
          transform="matrix(0.53980542,0,0,0.54063452,47.114576,56.539662)"><tspan
            x="132.38182"
            y="123.70909"
-           id="tspan17"><tspan
+           id="tspan21"><tspan
              style="fill:#07a908;stroke-width:0.265"
-             id="tspan13">+1.23567</tspan></tspan></text>
+             id="tspan20">+1.23567</tspan></tspan></text>
       <rect
          style="fill:#4a3131;fill-opacity:1;stroke:none;stroke-width:0.135738;stroke-linejoin:bevel"
          id="use23"
@@ -1132,7 +1015,7 @@
     </g>
     <g
        id="g61-3"
-       transform="translate(32.406064,-79.066296)">
+       transform="translate(38.30625,-79.066296)">
       <path
          d="m 149.6592,128.82995 h -31.13821 a 0.93908454,0.64235479 0 0 1 -0.93785,-0.64152 v -7.18536 a 0.93893025,0.64224925 0 0 1 0.93785,-0.64151 h 31.13821 a 0.93893025,0.64224925 0 0 1 0.93785,0.64151 v 7.18526 a 0.93893025,0.64224925 0 0 1 -0.93785,0.64162 z"
          fill="#e6e6e6"
@@ -1171,16 +1054,16 @@
          ry="0.38496965" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:31.6343;fill:none;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:31.6343;display:inline;fill:none;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel"
          x="132.38182"
          y="123.70909"
          id="text3-0"
          transform="matrix(0.53980542,0,0,0.54063452,47.114576,56.539662)"><tspan
            x="132.38182"
            y="123.70909"
-           id="tspan19"><tspan
+           id="tspan23"><tspan
              style="fill:#07a908;stroke-width:0.265"
-             id="tspan18">+1.23567</tspan></tspan></text>
+             id="tspan22">+1.23567</tspan></tspan></text>
       <rect
          style="fill:#4a3131;fill-opacity:1;stroke:none;stroke-width:0.135738;stroke-linejoin:bevel"
          id="use23-6"
@@ -1486,7 +1369,7 @@
     </g>
     <g
        id="g81"
-       transform="translate(48.89546,-90.654549)">
+       transform="translate(54.795646,-90.654549)">
       <path
          d="m 133.37056,154.50135 h -31.13821 a 0.93908454,0.99300362 0 0 1 -0.93785,-0.99172 v -11.1077 a 0.93893025,0.99284046 0 0 1 0.93785,-0.9917 h 31.13821 a 0.93893025,0.99284046 0 0 1 0.93785,0.9917 v 11.10755 a 0.93893025,0.99284046 0 0 1 -0.93785,0.99187 z"
          fill="#e6e6e6"
@@ -1828,19 +1711,142 @@
        id="rect81"
        width="37.722435"
        height="35.431522"
-       x="148.17963"
+       x="154.07982"
        y="29.90242"
        rx="0.40443152" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2"
+     style="display:inline">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,5.566493,46.406639)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="77.047768"
+       y="21.465904"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="77.047768"
+         y="21.465904">Communication Channel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="145.48479"
+       y="84.915024"
+       id="text4"
+       transform="translate(-5.5664931,-28.279548)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="145.48479"
+         y="84.915024">Standard Commands for</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="145.48479"
+         y="90.647659"
+         id="tspan14"> Programmable Instruments</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="145.48479"
+         y="96.380302"
+         id="tspan15"> (SCPI)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="154.28363"
+       y="42.574997"
+       id="text2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="154.28363"
+         y="42.574997"
+         id="tspan3">Instrumentation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="78.704498"
+       y="56.582451"
+       id="text4-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="78.704498"
+         y="56.582451">Protocol Standards</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="78.704498"
+         y="62.31509"
+         id="tspan5">   HiSLIP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="78.704498"
+         y="68.047729"
+         id="tspan6">   Interop for USBTMC</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="78.704498"
+         y="73.780365"
+         id="tspan7">   PXI plug-in for VISA</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         x="78.704498"
+         y="79.513"
+         id="tspan8">   SASL Mechanism Spec</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,18.12709)"
        id="text83"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,5.566493,46.406639)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="5.566493"
+       y="84.58358"
+       id="text4-2"
+       transform="translate(-5.5664931,-28.279548)"><tspan
+         sodipodi:role="line"
+         id="tspan4-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="5.566493"
+         y="84.58358">Controller Software Specifications</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="5.566493"
+         y="90.316216"
+         id="tspan9">  Core Drivers</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="5.566493"
+         y="96.048859"
+         id="tspan10">  Configurable Settings Drivers</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="5.566493"
+         y="101.78149"
+         id="tspan11">  VISA IO Library</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0.015875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="5.566493"
+         y="107.51413"
+         id="tspan12">  VXIplug&amp;play</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:41.2198;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="25.527273"
+       y="92.945457"
+       id="text1"
+       transform="translate(-9.4701102,-50.090088)"><tspan
+         x="25.527273"
+         y="92.945457"
+         id="tspan24">Test System Controller</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,18.12709)"
        id="text84"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <metadata
      id="metadata83">
