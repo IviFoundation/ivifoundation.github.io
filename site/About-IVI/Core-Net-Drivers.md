@@ -23,9 +23,12 @@ Some of the key benefits of Core IVI.NET drivers are:
 
 IVI.NET Generation 2014 drivers have several features elided from IVI Core. Generation 2014 IVI.NET drivers are called Configuration Settings IVI.NET drivers and the generation 2026 drivers are called Core IVI.NET Drivers.
 
-The IVI.NET Configurable Settings 2014 drivers do comply with Generation 2026 IVI.NET, however IVI Generation 2014 is only defined for .NET Framework. Also, the Generation 2014 drivers implement the more complex Generation 2014 interface that is a superset of the Generation 2026 requirements.
+The IVI.NET Configurable Settings 2014 drivers do comply with Generation 2026 IVI.NET. However:
 
-The Generation 2014 drivers require that the IVI Configurable Settings Shared Components be installed, and that individual drivers register with that infrastructure when they are installed. Therefore Generation 2014 drivers have system wide behavior during installation and cannot be managed with NuGet. The installation is necessary because Generation 2014 uses a system-wide database and other tools that must be installed globally so that when drivers are instantiated they can load configuration information from the system database. This initial configuration is part of the IVI Generation 2014 instrument interchangeability architecture.
+- IVI Generation 2014 is only defined for .NET Framework
+- IVI Generation 2014 drivers implement the more complex Generation 2014 interface instead of the simplified Generation 2026 interface
+
+The Generation 2014 drivers also require that the IVI Configurable Settings Shared Components be installed, and that individual drivers register with that infrastructure when they are installed. Therefore Generation 2014 drivers have system wide behavior during installation and cannot be managed with NuGet. The installation is necessary because Generation 2014 uses a system-wide database and other tools that must be installed globally so that when drivers are instantiated they can load configuration information from the system database. This initial configuration is part of the IVI Generation 2014 instrument interchangeability architecture.
 
 [IVI Core Simplifications](/About-IVI/Core-Simplifications.html) has more information on the simplifications made for IVI.NET Generation 2026 drivers relative to IVI Generation 2014.
 

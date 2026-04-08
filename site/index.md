@@ -30,14 +30,12 @@ The IVI Foundation develops and maintains diverse standards that
 simplify test system development and maintenance when using software
 and hardware components from multiple vendors.  These standards include:
 
-* General purpose standards regarding instrument drivers for use in various
-  development environments. These standards establish a high standard for the quality and
-  completeness of those drivers.  Including an industry-wide registration
-  mechanism for all conformant instrument drivers.
+* General purpose standards regarding instrument drivers for use in various development environments. These standards establish a high standard for the quality and completeness of those drivers.  Including an industry-wide registration mechanism for all conformant instrument drivers. These standards include:
+   - VISA Library for low-level instrument control
+   - Core Instrument Drivers for general purpose instrument control
+   - CS Instrument Drivers that enable instrument interchangeability
 
-* Standards on the protocols that are used to communicate between test
-  systems and instruments.
+* Protocol standards the define details of the communication between  test systems and instruments. This includes the HiSLIP standard that provides rich control of instruments over network connections.
 
 * The SCPI standard which specifies the strings that can be sent
   to instruments to control them.
-

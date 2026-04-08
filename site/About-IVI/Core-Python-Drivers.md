@@ -21,6 +21,6 @@ Some key architectural points:
 
 The additional IVI-Python APIs are:
 
-**error_query_all()** - this is a method that reads the entire error queue from the instrument into a Python collection. The IVI-Core method reads a single error from the instrument, this Python-specific method provides a convenient way to query *all* of the instrument errors into an appropriate Python container.
+**error_query_all()** - this method reads the entire error queue from the instrument into a Python collection. This Python-specific method provides a convenient way to query *all* of the instrument errors into an appropriate Python container, in contrast to the IVI-Core method that reads a single error from the instrument.
 
-**Raise_on_device_error()** – this method clears the instrument error queue and raises an exception if the instrument recorded any errors.  This is useful for cases where the programmer does not care what specific errors are produced by the instrument, but would like to detect instrument errors and handle them as exceptions.
+**raise_on_device_error()** – this method clears the instrument error queue and raises an exception if the instrument had recorded any errors.  This is useful for cases where the programmer does not care what specific errors are produced by the instrument, but would like to detect instrument errors and handle them as exceptions.

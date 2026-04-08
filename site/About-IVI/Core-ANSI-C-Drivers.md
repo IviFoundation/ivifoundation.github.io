@@ -9,7 +9,7 @@ nav_order:  60
 
 The [Core IVI-ANSI-C](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverAnsiC/1.0/Spec/IviDriverAnsi-C.md) drivers are simple to us, develop and modify. These drivers align well with common customer expectations around an instrument driver. As an IVI conformant driver, users are assured that they will work well with other drivers on the system and that they comply with the IVI requirements around quality, documentation, and delivery.
 
-Core IVI-ANSI-C drivers may be supported any compiler and operating system that the driver provider chooses, although IVI-ANSI-C requires that at a minimum Windows be supported.
+Core IVI-ANSI-C drivers may be supported any compiler and operating system that the driver provider chooses, although IVI-ANSI-C requires that at a minimum Windows be supported. This Windows requirement is specific to IVI-ANSI-C and is not part of the IVI Core.
 
 Although IVI-ANSI-C drivers are referred to as ANSI-C drivers, they frequently provide the best instrument interface for use in languages such as C++, Java Script and Rust that do not have dedicated IVI support. IVI-ANSI-C drivers are also frequently used when interfacing to instruments from tools like Excel, R or MATLAB.
 
