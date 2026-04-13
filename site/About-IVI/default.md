@@ -16,9 +16,9 @@ has_toc: false
 
 <br> 
 
-The IVI Foundation produces instrument connectivity specifications that simplify building systems and provide interoperability between different instrument vendors' products. By specifying the software in the controller (like instrument drivers) and the protocols used to control instruments the IVI specifications ensure that instruments from various vendors work well together.
+The IVI Foundation produces instrument connectivity specifications that simplify building systems and provide interoperability between different instrument vendors' products. By specifying both the software in the controller and the protocols used to control instruments the IVI specifications ensure that instruments from various vendors work well together.
 
-The specifications primarily fall into 3 categories: specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the language implemented on the instruments.
+The specifications primarily fall into 3 categories: specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the language implemented in the instruments.
 
 The IVI Foundation is primarily made up of instrument manufacturers; however instrument users are always welcome to participate in IVI Foundation meetings, contribute to the specifications or join the foundation.
 
@@ -26,7 +26,9 @@ The IVI Foundation is primarily made up of instrument manufacturers; however ins
 
 Controller software specifications describe software that runs on test systems to control instruments. This includes 3 generations of instrument driver specifications and the VISA IO Library. The instrument driver specifications are:
 
-**VISA IO Library** &mdash; [VISA](/specifications/default.html#visa-specifications) specifies the library that runs on the test system controller to provide low-level IO to the instruments. This includes exchanging string and control messages with instruments that are controlled with a high-level language like SCPI. VISA also provides APIs for reading and writing registers on register-based instruments like PXI and VXI. VISA simplifies test system software by:
+**VISA IO Library** &mdash; [VISA](/specifications/default.html#visa-specifications) specifies the library that runs on the test system controller to provide low-level IO to the instruments. This includes exchanging string and control messages with instruments that are controlled with a high-level language like SCPI. VISA also includes APIs for reading and writing registers on register-based instruments like PXI and VXI. 
+
+VISA simplifies test system software by:
 
 - VISA allows system software (such as applications and instrument drivers) to be independent of the vendor of the IO Hardware and the IO Software.  For instance, a system can use one vendor's GPIB hardware along with a different vendor's implementation of Secure HiSLIP.
 
@@ -59,4 +61,4 @@ The IVI Foundation also has several [protocol specifications](/About-IVI/Protoco
 
 ## The SCPI Specification
 
-Finally, the IVI Foundation provides the [**SCPI Specification**](/downloads/SCPI/scpi-99.pdf). Originally developed in 1989, SCPI specifies the strings exchanged with instruments, and how they respond to control messages, such as device clear or a status query. This standard has been stable since 1999.
+Finally, the IVI Foundation provides the [SCPI Specification](/About-IVI/scpi.html). Originally developed in 1989, SCPI specifies the strings exchanged with instruments, and how instruments respond to control messages, such as device clear or a status query. This standard has been stable since 1999.
