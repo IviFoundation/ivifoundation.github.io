@@ -5,7 +5,13 @@ This is the IVI Foundation website, built on Jekyll and hosted on GitHub Pages.
 The DNS name "www.ivifoundation.org" points to this site.
 
 ## Previewing locally on Windows
+There are 2 scripts to run the site within containers under Windows, however in both cases the containers run Linux content.
 
+### Kubernetes tool
+
+Details forthcoming, however the tool with documentation is kube_server.ps1
+
+### Docker Tool
 The easiest way to preview the site is to serve your local files in a [jekyll/jekyll](https://github.com/envygeeks/jekyll-docker) container.
 
 Prerequisites:
