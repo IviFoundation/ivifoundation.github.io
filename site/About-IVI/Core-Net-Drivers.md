@@ -21,7 +21,7 @@ Some of the key benefits of Core IVI.NET drivers are:
 
 ## IVI.NET Generation 2014 and Generation 2026
 
-IVI.NET Generation 2014 drivers have several features elided from IVI Core. Generation 2014 IVI.NET drivers are called Configuration Settings IVI.NET drivers and the generation 2026 drivers are called Core IVI.NET Drivers.
+IVI.NET Generation 2014 drivers have several features omitted from IVI Core. Generation 2014 IVI.NET drivers are called Configuration Settings IVI.NET drivers and the generation 2026 drivers are called Core IVI.NET Drivers.
 
 The IVI.NET Configurable Settings 2014 drivers do comply with Generation 2026 IVI.NET. However:
 
