@@ -25,7 +25,7 @@ IVI.NET Generation 2014 drivers have several features elided from IVI Core. Gene
 
 The IVI.NET Configurable Settings 2014 drivers do comply with Generation 2026 IVI.NET. However:
 
-- IVI Generation 2014 is only defined for .NET Framework
+- IVI Generation 2014 is only defined for .NET Framework, that is versions of .NET before .NET 6.0
 - IVI Generation 2014 drivers implement the more complex Generation 2014 interface instead of the simplified Generation 2026 interface
 
 The Generation 2014 drivers also require that the IVI Configurable Settings Shared Components be installed, and that individual drivers register with that infrastructure when they are installed. Therefore Generation 2014 drivers have system wide behavior during installation and cannot be managed with NuGet. The installation is necessary because Generation 2014 uses a system-wide database and other tools that must be installed globally so that when drivers are instantiated they can load configuration information from the system database. This initial configuration is part of the IVI Generation 2014 instrument interchangeability architecture.

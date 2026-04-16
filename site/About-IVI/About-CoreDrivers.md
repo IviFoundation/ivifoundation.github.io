@@ -17,7 +17,7 @@ nav_order:  10
 
 Starting with IVI Generation 2026, the IVI Foundation determined that the industry needed a new generation of driver standards that:
 
-- provide the simplicity of VXI*play&play* drivers
+- provide the simplicity of VXI*plug&play* drivers
 - are targeted to modern languages such as Python and IVI.NET
 - have the quality and documentation requirements of CS Drivers
 - do not require installation
