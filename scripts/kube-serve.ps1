@@ -17,6 +17,21 @@
 #     $jekyllArgs += "--unpublished"
 # }
 
+# Resolve the repo root as an absolute path (parent of the scripts/ directory).
+# $PSScriptRoot is always the directory containing this script, regardless of where
+# the user runs it from, so this works for any checkout location.
+$sitePath = (Resolve-Path "$PSScriptRoot\..\site").Path
+
+# If your Kubernetes cluster is running on WSL, you may need to adjust the path to the
+# site directory to be compatible with WSL. For example, if your site directory is located
+# at C:\folder1\IviWebsite\ivifoundation.github.io\site, you would use the following path
+# in the Kubernetes YAML: /mnt/c/folder1/IviWebsite/ivifoundation.github.io/site. 
+# You can try to do that automatically with a command like this:
+if ($sitePath -match '^([A-Z]):\\(.*)') {
+    $sitePath = '/mnt/' + $Matches[1].ToLower() + '/' + $Matches[2] -replace '\\', '/'
+}
+
+
 # Create the temporary Kubernetes YAML file for the pod
 $tmp_kube_yaml= New-TemporaryFile
 
@@ -66,18 +81,10 @@ spec:
   volumes:
     - name: site
       hostPath:
-        path: /mnt/c/Users/jmueller/git-ivi/website/ivifoundation.github.io/site
+        path: $sitePath
         type: Directory
 "@ | Set-Content $tmp_kube_yaml
 
-
-# warning - parameters to force rebuild hard coded in yaml for now 
-kubectl apply -f $tmp_kube_yaml
-kubectl port-forward pod/ivi-foundation-website 4000:4000
-
-
-# now create a service to forward the port 
-# Kubernetes port forwarding is a bit more complex than Docker's, so we need to create a temporary YAML file for the service as well. This service will allow us to access the Jekyll server running in the pod on port 4000 from our local machine.  Otherwise the Jekyll server will only be accessible from within the cluster, which is not what we want for development purposes.
 
 $tmp_portforward_yaml = New-TemporaryFile
 @"
@@ -95,7 +102,20 @@ spec:
       nodePort: 30400
 "@ | Set-Content $tmp_portforward_yaml
 
+kubectl apply -f $tmp_kube_yaml
 kubectl apply -f $tmp_portforward_yaml
 
+Remove-Item -Force "$tmp_kube_yaml"
+Remove-Item -Force "$tmp_portforward_yaml"
 
-Remove-Item  -Force "$tmp_kube_yaml"
+# Wait for the container to start (restartPolicy:Never pods become Ready as soon as the
+# process launches, which is before bundle install finishes — so this just confirms the
+# pod is alive, not that Jekyll is serving yet).
+Write-Host "Waiting for pod to start..."
+kubectl wait --for=condition=Ready pod/ivi-foundation-website --timeout=300s
+
+
+Write-Host "The site will be accessible at http://localhost:30400. It might take a few minutes!"
+
+
+
