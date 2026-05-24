@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="42.709087"
+       height="24.054548"
+       x="8.0181818"
+       y="38.618183" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:27.4606;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="25.527273"
+       y="92.945457"
+       id="text1"
+       transform="translate(-8.6727272,-41.89091)"><tspan
+         x="25.527273"
+         y="92.945457"
+         id="tspan2">Test System </tspan><tspan
+         x="25.527273"
+         y="96.914204"
+         id="tspan18">Controller</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.274203;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.563439,50.727193 C 141.05474,50.563716 141.05474,50.563716 141.05474,50.563716"
+       id="path2" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="48.600002"
+       height="30.436363"
+       x="141.31166"
+       y="35.50909" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="148.9091"
+       y="49.254543"
+       id="text2"><tspan
+         style="stroke-width:0.265"
+         x="148.9091"
+         y="49.254543"
+         id="tspan3">Instrumentation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="138.64397"
+       y="72.969566"
+       id="text4"><tspan
+         id="tspan4"
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="138.64397"
+         y="72.969566">Standard Commands for</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="138.64397"
+         y="78.26123"
+         id="tspan14"> Programmable Instruments</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="138.64397"
+         y="83.552887"
+         id="tspan15"> (SCPI)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="81.880516"
+       y="72.916542"
+       id="text4-5"><tspan
+         id="tspan4-1"
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="81.880516"
+         y="72.916542">Protocol Standards</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="81.880516"
+         y="78.208206"
+         id="tspan5">   HiSLIP</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="81.880516"
+         y="83.499863"
+         id="tspan6">   Interop for USBTMC</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="81.880516"
+         y="88.791527"
+         id="tspan7">   PXI plug-in for VISA</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="81.880516"
+         y="94.083191"
+         id="tspan8">   SASL Mechanism Spec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="5.0755839"
+       y="72.638123"
+       id="text4-2"><tspan
+         id="tspan4-7"
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="5.0755839"
+         y="72.638123">Controller Software Specifications</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="5.0755839"
+         y="77.929787"
+         id="tspan9">  Core Drivers</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="5.0755839"
+         y="83.221451"
+         id="tspan10">  Configurable Settings Drivers</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="5.0755839"
+         y="88.513107"
+         id="tspan11">  VISA IO Library</tspan><tspan
+         style="font-size:4.23333px;letter-spacing:0.015875px;stroke-width:0.265"
+         x="5.0755839"
+         y="93.804771"
+         id="tspan12">  VXI<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan13">plug&amp;play</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="67.418182"
+       y="49.745453"
+       id="text16"><tspan
+         id="tspan16"
+         style="stroke-width:0.265"
+         x="67.418182"
+         y="49.745453">Communication Channel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';letter-spacing:0.015875px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="72.490906"
+       y="24.709091"
+       id="text17"><tspan
+         id="tspan17"
+         style="stroke-width:0.265"
+         x="72.490906"
+         y="24.709091">IVI Standards</tspan></text>
+  </g>
+</svg>

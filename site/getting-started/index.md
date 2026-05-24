@@ -1,33 +1,26 @@
 ---
 layout: default
 nav_order: 4
-title: Getting Started
+title: Getting Started with CS Drivers
 redirect_from: 
     - resources/default.aspx/
     - resources
 ---
 
-This page contains various resources for learning more about IVI and the
-IVI standards.
+# Getting Started with IVI CS Drivers
 
-## Contents
+This page contains various resources for learning more about IVI CS (Configurable Settings) Drivers.
 
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
-## IVI Instrument Driver Fundamentals Course
+## IVI CS Driver Fundamentals Course
 
 In this two-hour class, you will learn about the types of IVI drivers,
 how to use them, and how to select between them.
 
 Taking this class will help you get started creating test programs to
 control instruments and give you a better understanding of how to use
-the IVI features. The classes are open to the public free of charge at
-our IVI Foundation meetings in the US, Europe and China.
-Contact [Aaron Hall](mailto:execdir@ivifoundation.org), Director of Services, IVI
-Foundation, to get the date and location of the next course.
+the IVI CS Driver features.
 
 To view/download the course outline, [click here](../assets/docs/IVI%20Instrument%20Driver%20Fundamentals%20Course.pdf).
 
@@ -56,7 +49,6 @@ Sponsor Member of the IVI Foundation.
 ***Note:*** For the full IVI Instrument Driver Fundamentals Course in
 pdf file, [click here](../assets/docs/IVI%20Instrument%20Driver%20Fundamentals%20Course%20Full.pdf).
 
-
 **Demos**
 
 - [Using IVI-C CVI Demo](https://www.youtube.com/watch?v=kAwG3afdrIs)
@@ -65,7 +57,6 @@ pdf file, [click here](../assets/docs/IVI%20Instrument%20Driver%20Fundamentals%2
 - [Using IVI-COM LabVIEW Demo](https://www.youtube.com/watch?v=pBVnl2OeW0k)
 - [Using IVI-COM Demo](https://www.youtube.com/watch?v=uDQsv4tc35I)
 - [Using IVI-C C++ Demo](https://www.youtube.com/watch?v=BWnROPvUjSg)
-
 
 ## Short IVI Getting Started Guides
 
@@ -93,13 +84,14 @@ the following:
 - [IVI Getting Started Guide Video for > MATLAB](https://www.youtube.com/user/IVIFoundation#p/u/3/N-xbW1r79b4)
 - [IVI Getting Started Guide Video for Keysight > VEE](https://www.youtube.com/user/IVIFoundation#p/u/0/F7n0RIGXwGM)
 
-
 ## White Papers
 
 [Understanding the Benefits of IVI](../assets/docs/Understanding%20the%20Benefits%20of%20IVI.pdf)
 by Kirk G. Fertitta, Pacific Mindworks
 
-## Autotestcon 2012 Presentations
+
+<!-- JM 2026-04-01 -- this is just too old to continue to hype.. -->
+<!-- ## Autotestcon 2012 Presentations
 
 - [Delivering Interchangeability and More](../downloads/Autotestcon%202012%20Presentations/Delivering%20Interchangeability%20and%20More.pptx)
 - [Designing Highly Efficient LXI-based Systems](../downloads/Autotestcon%202012%20Presentations/Designing%20Highly%20Efficient%20LXI-based%20Systems.pptx)
@@ -116,4 +108,4 @@ by Kirk G. Fertitta, Pacific Mindworks
 
 [Click here](../assets/docs/Upgrading%20to%20Windows%207%20-%20How%20it%20Impacts%20your%20IVI%20and%20VISA%20Installations.pdf)
 to view/download "Upgrading to Windows 7 - How it Impacts your IVI and
-VISA Installations.pdf"
+VISA Installations.pdf" -->

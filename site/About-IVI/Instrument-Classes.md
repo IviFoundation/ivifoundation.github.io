@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Standards
+parent: CS Drivers
 title: Instrument Classes
 nav_order:  3
 ---

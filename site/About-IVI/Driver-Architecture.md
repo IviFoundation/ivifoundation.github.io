@@ -1,11 +1,11 @@
 ---
 layout: default
-parent: Standards
-title: Driver Architecture
+parent: CS Drivers
+title: CS Driver Architecture
 nav_order:  2
 ---
 
-# Driver Architecture
+# CS (Configurable Settings) Driver Architecture
 
 IVI drivers provide many capabilities that go beyond those of
 VXI*plug&play* drivers. The IVI specifications have been developed to
