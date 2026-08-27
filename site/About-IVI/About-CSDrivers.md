@@ -1,19 +1,20 @@
 ---
 layout: default
 parent: Standards
-title: Driver Overview
-nav_order:  1
+title: CS Drivers
+nav_order: 20
 ---
 
-# Driver Standards Overview
 
-The IVI Driver standards define an open driver architecture, a set of
-instrument classes, and shared software components. Together these
-provide critical elements needed for instrument interchangeability.
+# IVI Configurable Settings Drivers
+
+The IVI CS (Configurable Settings) Driver standards define an open driver
+architecture, a set of instrument classes, and shared software components.
+Together these provide facilities for instrument interchangeability.
 
 ## Benefits
 
-IVI drivers offer several benefits to measurement system designers:
+IVI CS drivers offer several benefits to measurement system designers:
 
 - IVI's defined Application Programming Interfaces (APIs) standardize
   common measurement functions reducing the time needed to learn a new

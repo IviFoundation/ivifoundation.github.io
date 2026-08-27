@@ -16,10 +16,10 @@ program development and maintenance.
         Getting Started
     </h2>
     <p>
-        For information on the IVI standards, see <a href="/getting-started/">Getting Started</a>.
+        For information on the IVI standards, see <a href="/About-IVI/default.html">Standards</a>.
     </p>
     <p>
-        For information to get started using IVI drivers, see the
+        For information to get started using IVI CS drivers, see the
         <a href="downloads/IVI-GSG-CurrentVersion.pdf">IVI Getting Started Guide (PDF)</a>.
     </p>
 </div>
@@ -30,19 +30,12 @@ The IVI Foundation develops and maintains diverse standards that
 simplify test system development and maintenance when using software
 and hardware components from multiple vendors.  These standards include:
 
-* General purpose standards regarding instrument drivers for use in various
-  development environments. That establish a high standard for the quality and
-  completeness of those drivers.  Including an industry-wide registration
-  mechanism for all conformant instrument drivers.
+* General purpose standards regarding instrument drivers for use in various development environments. These standards establish a high standard for the quality and completeness of those drivers.  Including an industry-wide registration mechanism for all conformant instrument drivers. These standards include:
+   - VISA Library for low-level instrument control
+   - Core Instrument Drivers for general purpose instrument control
+   - CS Instrument Drivers that enable instrument interchangeability
 
-* Standards that specify APIs of specific classes of instruments that
-  facilitate interchanging instruments.
+* Protocol standards the define details of the communication between  test systems and instruments. This includes the HiSLIP standard that provides rich control of instruments over network connections.
 
 * The SCPI standard which specifies the strings that can be sent
   to instruments to control them.
-
-* Standards regarding APIs used in programs that control instruments
-  to send and receive the strings specified by SCPI.
-
-* Standards related to how messages are transferred between instruments
-  and computers.

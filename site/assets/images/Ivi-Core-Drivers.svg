@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="129.23801mm"
+   height="59.828636mm"
+   viewBox="0 0 129.238 59.828637"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Ivi-Core-Drivers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6168981"
+     inkscape:cx="282.63995"
+     inkscape:cy="220.4839"
+     inkscape:window-width="2123"
+     inkscape:window-height="1240"
+     inkscape:window-x="526"
+     inkscape:window-y="637"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker20"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path20" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker18"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <rect
+       x="188.63278"
+       y="470.65427"
+       width="77.308517"
+       height="45.766644"
+       id="rect4" />
+    <rect
+       x="188.63278"
+       y="470.65427"
+       width="94.625626"
+       height="29.068005"
+       id="rect4-2" />
+    <rect
+       x="188.63278"
+       y="470.65427"
+       width="105.75805"
+       height="19.790981"
+       id="rect4-7" />
+    <rect
+       x="188.63278"
+       y="470.65427"
+       width="77.308517"
+       height="45.766644"
+       id="rect4-9" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     transform="translate(1.5049998,-1.0583208)">
+    <rect
+       style="fill:none;fill-opacity:0.107607;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect1"
+       width="128.97301"
+       height="59.563637"
+       x="-1.3725003"
+       y="1.1908203"
+       rx="0.40006357" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.15219,-76.899405)">
+    <ellipse
+       style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       id="path3"
+       cx="94.001244"
+       cy="88.363632"
+       rx="17.061489"
+       ry="8.6343079" />
+    <ellipse
+       style="fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       id="path3-1"
+       cx="94.001244"
+       cy="126.09859"
+       rx="17.061489"
+       ry="8.6343079" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,34.527272,-38.781818)"
+       id="text4"
+       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
+         x="188.63281"
+         y="485.51781"
+         id="tspan1">IVI Core</tspan></text>
+    <ellipse
+       style="display:inline;fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       id="path3-5"
+       cx="48.889599"
+       cy="117.89234"
+       rx="17.061489"
+       ry="8.6343079" />
+    <ellipse
+       style="display:inline;fill:#e8e3f8;fill-opacity:0.868902;stroke:#000000;stroke-width:0.341839;stroke-linejoin:bevel"
+       id="path3-14"
+       cx="141.01234"
+       cy="117.89234"
+       rx="17.061489"
+       ry="8.6343079" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(-30.15219,-76.899405)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-13.954419,-9.8223676)"
+       id="text4-6"
+       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-2);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
+         x="188.63281"
+         y="485.51781"
+         id="tspan2">IVI-Python</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,78.177022,-9.051717)"
+       id="text4-8"
+       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
+         x="188.63281"
+         y="485.51781"
+         id="tspan3">IVI-ANSI-C</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,34.7507,-0.82236691)"
+       id="text4-3"
+       style="font-weight:bold;font-size:17.3333px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua Bold';letter-spacing:0.06px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-9);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel"><tspan
+         x="188.63281"
+         y="485.51781"
+         id="tspan4">IVI.NET</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256219;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 81.64347,94.401171 61.302728,111.13283"
+       id="path16" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.263936;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#marker18)"
+       d="M 94.437352,97.077837 94.090547,115.91955"
+       id="path17" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.254801;stroke-linejoin:bevel;stroke-opacity:1;marker-end:url(#marker20)"
+       d="m 108.17255,92.929339 19.36254,17.720451"
+       id="path19" />
+  </g>
+</svg>

@@ -1,36 +1,72 @@
 ---
 layout: default
-nav_order:  1
+nav_order: 1
 title: Standards
 has_children: true
 has_toc: false
 ---
 
-# About IVI
+# IVI Specifications
 
-These pages will help you learn more about the IVI Foundation and IVI
-technology.
+<br><br>
 
+<div class="svg-container" style="display: block; clear: both;" >
+ <img src="{{ '../assets/images/Ivi-domain.svg' | relative_url }}" alt="My Graphic" style="max-width: 90%; height: auto;">
+</div>
 
-- See [Driver Overview](Driver-Overview.html) to get an overview of IVI Driver technology
-  and benefits.
-- The [Architecture](Driver-Architecture.html) page describes the overall IVI
-  Driver software architecture, explaining the major software components and
-  standard instrument classes.
-- [Instrument Classes](Instrument-Classes.html) specify standard APIs
-  for common kinds of instruments to facilitate instrument interchange.
-- The [Measurement and Stimulus](MeasurementAndStimulusInterchangeability.html) page 
-  describes IVI's Measurement and Stimulus
-  Subsystem specification, which supports interchangeability in addition
-  to that provided by common driver APIs.
-- [Conformance](Conformance.html) explains IVI's process for assuring
-  that commercial drivers are conformant to the IVI specifications.
-- The [SCPI](scpi.html) page introduces the SCPI standard that 
-  specifies the command strings sent to instruments to control them.
-- The [VXI _plug&play_](vxi_plugandplay.html) describes the VXI _plug&play_
-  standards that broadly apply to the VISA IO library and C-language
-  drivers.
-- Finally the [Member Resources](MemberCompanyResources.html) page provides links to other
-  web pages where you can to download  drivers, get  
-  application information and review IVI-related software products.
+<br> 
 
+The IVI Foundation produces instrument connectivity specifications that simplify building systems and provide interoperability between different instrument vendors' products. By specifying both the software in the controller and the protocols used to control instruments the IVI specifications ensure that instruments from various vendors work well together.
+
+The specifications primarily fall into 3 categories:
+
+ specifications related to software that runs on controllers, specifications related to the communication between the controller and instruments, and the *SCPI* specification that describes the language implemented in the instruments.
+
+**Controller software specifications** &mdash; Define the software components that run on the test system, including applications, instrument drivers, and the VISA I/O library used to control instruments.
+
+**Communication specifications** &mdash; Define the protocols and interfaces that enable communication between the controller and instruments, ensuring interoperability across different vendors and connection types.
+
+**SCPI specification (instrument command language)** &mdash; Defines the standard command language used by instruments, specifying how commands are structured and how instruments respond.
+
+The IVI Foundation is primarily made up of instrument manufacturers; however instrument users are always welcome to participate in IVI Foundation meetings, contribute to the specifications or join the foundation.
+
+## Controller Software Specifications
+
+Controller software specifications describe software that runs on test systems to control instruments. This includes 3 generations of instrument driver specifications and the VISA IO Library. The instrument driver specifications are:
+
+**VISA IO Library** &mdash; [VISA](/specifications/default.html#visa-specifications) specifies the library that runs on the test system controller to provide low-level IO to the instruments. This includes exchanging string and control messages with instruments that are controlled with a high-level language like SCPI. VISA also includes APIs for reading and writing registers on register-based instruments like PXI and VXI. 
+
+VISA simplifies test system software by:
+
+- VISA allows system software (such as applications and instrument drivers) to be independent of the vendor of the IO Hardware and the IO Software.  For instance, a system can use one vendor's GPIB hardware along with a different vendor's implementation of Secure HiSLIP.
+
+- VISA allows system software to be independent of the physical interface.  That is, VISA provides a single API to control instruments regardless of if they are connected via LAN, USB, PCI, PXI Express, RS-232, GPIB or other interfaces.
+
+**VXI*plug&play* Drivers** &mdash; [VXI*plug&play*](/specifications/default.html#:~:text=PDF-,Other%20VXIplug%26play%20Specifications,-%3A), initially completed in 1994, provides a basic specification of instrument drivers in several contemporaneous programming environments. These standards have been maintained and are the basis for some of the newer IVI C-language driver specifications.
+
+**IVI Configurable Settings Drivers** &mdash; [IVI Configurable Settings](/About-IVI/About-CSDrivers.html) drivers build on the VXI*plug&play* specifications. They extended the previous specifications with support for Microsoft .NET and Microsoft COM. IVI CS (Configurable Settings) Drivers provide mechanisms for instrument interchangeability through three features:
+
+- Instrument class definitions
+- Abstract instantiation
+- Configurable initial settings
+
+These features work together to provide a sophisticated mechanism for instrument interchangeability.
+
+**IVI Core Drivers** &mdash; [IVI Core drivers](/About-IVI/About-CoreDrivers.html) are instrument drivers without many of the features that drive complexity in IVI CS Drivers. They are similar to the VXI*plug&play* drivers in complexity but they are targeted at more modern languages and have robust requirements regarding quality and documentation.  The IVI-Core specification calls out common requirements related to driver completeness, quality, and documentation and additional specifications contain the requirements to target the specifications to specific languages.
+
+By simplifying the standards, IVI Core drivers:
+
+- provide source code that is easily extended by driver users
+- do not require installing additional infrastructure
+- work well with package management systems such as NuGet and PyPI
+- can be developed and modified without complex tools
+
+IVI Core drivers can be extended to language environments quite easily. There are currently IVI Core specifications for Python, .NET, and ANSI-C.
+
+## Protocol Specifications
+
+The IVI Foundation also has several [protocol specifications](/About-IVI/ProtocolStandards.html). The protocol specifications define aspects of the communication between the instruments and the test system. These enable instruments from different manufacturers to expose compatible interfaces so that test systems can be created with common software to control instruments from many vendors and using many interfaces.
+
+## The SCPI Specification
+
+Finally, the IVI Foundation provides the [SCPI Specification](/About-IVI/scpi.html). Originally developed in 1989, SCPI specifies the strings exchanged with instruments, and how instruments respond to control messages, such as device clear or a status query. This standard has been stable since 1999.
