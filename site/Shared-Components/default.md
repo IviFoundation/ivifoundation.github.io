@@ -78,7 +78,7 @@ greater.
 The IVI.NET DSC (DriverCore Shared Component) is required 
 for use or development of IVI Core Drivers built to the new 
 IVI Driver Standards (IVI Generation 2026). The IVI.NET DSC 
-is available as NuGet package from NuGet.org, and as a standalone installer.
+is available as a NuGet package from NuGet.org and as a standalone installer.
 
 For information on developing and using the IVI.NET DSC, see:
 [IVI.NET Drivers with DriverCore Shared Component](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md).
