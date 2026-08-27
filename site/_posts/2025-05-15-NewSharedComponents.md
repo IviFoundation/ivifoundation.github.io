@@ -7,7 +7,7 @@ excerpt_separator: "<!--excerpt-->"
 
 The IVI Foundation has just released new shared components for developing instrument drivers consistent with the recently announced new IVI Driver Standards.  The components facilitate implementing Microsoft .NET IVI Conformant instrument drivers and support both .NET 6+ and .NET Framework.  The new shared components are:
 
-- The IVI Driver Shared Components (DSC) for new IVI Core Drivers
+- The IVI DriverCore Shared Component (DSC) for new IVI Core Drivers
 - The IVI Driver Configurable Settings Shared Components (CSSC) for drivers that are based on IVI Generation 2014
 
 [The new IVI Standards](https://www.ivifoundation.org/2025/02/13/NewDriverSpecs.html) align the IVI driver standards with common customer expectations around driver capability, while retaining the IVI Requirements for:

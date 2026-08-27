@@ -73,6 +73,22 @@ greater.
 | [IVI.NET CSSC Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes_3.1.8927.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues. |
 | [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.html) | Download older versions of the IVI.NET Shared Components. |
 
+## IVI.NET DriverCore Shared Component (DSC)
+
+The IVI.NET DSC (DriverCore Shared Component) is required 
+for use or development of IVI Core Drivers built to the new 
+IVI Driver Standards (IVI Generation 2026). The IVI.NET DSC 
+is available as a NuGet package from NuGet.org and as a standalone installer.
+
+For information on developing and using the IVI.NET DSC, see:
+[IVI.NET Drivers with DriverCore Shared Component](https://github.com/IviFoundation/IviDrivers/blob/main/IviDriverNet/1.0/Spec/IviDriverNet.md).
+
+The IVI.NET DSC depends on .NET Standard 2.0 for dual-targeted drivers and supports Windows 10 (64-bit) and Windows 11.
+
+| ------------ | --------------- |
+| [IviDriverCoreSharedComponent_110.exe](../downloads/Shared%20Components/IviDriverCoreSharedComponent_110.exe)  | This file is an executable installer that installs the IVI.NET DriverCore Shared Component on either a 32-bit or 64-bit system. |
+| [IVI.NET DSC Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20DriverCore%20Shared%20Component%20Release%20Notes_1.1.0.docx) | This document provides information on the current version of the IVI.NET DriverCore Shared Component, including known issues. |
+
 ## VISA and VISA.NET Shared Components
 
 VISA and VISA.NET Shared Components install common components needed to
