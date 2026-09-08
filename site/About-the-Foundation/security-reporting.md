@@ -7,7 +7,7 @@ nav_order: 7
 
 # Reporting a Security Issue
 
-The IVI Foundation is committed to providing secure software to its users. We take security seriously and appreciate the efforts of users and security researchers to help us improve the security of our software.
+The IVI Foundation is committed to supporting the open-source community that develops the IVI shared components and drivers in producing secure software. We take security seriously and appreciate the efforts of users and security researchers to help improve the security of these components.
 
 We encourage the community to report any vulnerabilities they may discover and participate in their resolution.
 
@@ -39,3 +39,7 @@ If you desire, we will acknowledge your role in finding and resolving the issue 
 ## Getting Help
 
 For security-related inquiries, please email us at <security@ivifoundation.org>.
+
+## Cybersecurity policy
+
+Enquiries from market surveillance authorities should be addressed to the Foundation's single point of contact for cybersecurity matters at <security@ivifoundation.org>.

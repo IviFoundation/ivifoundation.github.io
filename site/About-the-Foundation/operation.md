@@ -7,19 +7,9 @@ nav_order:  2
 
 # How the IVI Foundation Operates
 
-The IVI foundation was incorporated as a not-for-profit corporation in
-the State of Delaware in March 2001. IVI is an open consortium of users,
-systems integrators and instrument vendors. The consortium was founded
-to promote specifications for programming test instrument that simplify
-interchangeability, provide better performance, and reduce the cost of
-program development and maintenance.
+The IVI Foundation was incorporated as a not-for-profit corporation in the State of Delaware in March 2001. It is set up in such a way that all its earnings after costs are used exclusively to achieve its not-for-profit objectives.
 
-The IVI Consortium meets face-to-face meetings 3-4 times per year.
-These meetings usually last 2-3 days.  An agenda is published in advance. 
-Individuals can choose to
-attend only the portions of the meeting that interest them. Attendees are
-charged nominal meeting fees to cover the cost of meeting space,
-continental breakfast and lunch.
+IVI is an open consortium of users, systems integrators and instrument vendors. The instrument vendors take part as contributors and as funders: they contribute source code and engineering time to the development and maintenance of the IVI shared components and drivers, they finance the Foundation’s work through membership contributions, and they integrate the published components into their own products. The Foundation itself does not monetize that software: it charges no price for it, monetizes no other product or service through it, and requires no processing of personal data as a condition of use for purposes other than improving the security, compatibility or interoperability of the software. It publishes the IVI shared components and instrument drivers as free and open-source software. For every published version, the complete source code is publicly available under the Apache License, Version 2.0, without registration, payment or membership.
 
 The IVI Foundation operates in accordance with its
 [bylaws](../assets/docs/bylaws-approved-2007-10-19.pdf).
