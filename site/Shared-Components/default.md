@@ -38,7 +38,7 @@ Foundation.
 
 Report vulnerabilities in the components published here through the IVI Foundation's coordinated vulnerability disclosure process: [Security Reporting](../About-the-Foundation/security-reporting.html).
 
-The components offered here are published under the open source License, Version 2.0. For each version offered for download, the complete corresponding source code is published at the same time, under the same version number, and is publicly available without registration, payment or membership at github.com/orgs/IviFoundation.
+The components offered here are published under the Apache License, Version 2.0. For each version offered for download, the complete corresponding source code is published at the same time, under the same version number, and is publicly available without registration, payment or membership at <https://github.com/orgs/IviFoundation>.
 The Foundation publishes one version of each component only: the version offered here is identical for every recipient. Support provided by instrument vendors relates to the vendors' own products into which these components are integrated, not to a different version of the components themselves.
 
 ## IVI Shared Components
