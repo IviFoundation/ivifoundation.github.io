@@ -40,6 +40,6 @@ If you desire, we will acknowledge your role in finding and resolving the issue 
 
 For security-related inquiries, please email us at <security@ivifoundation.org>.
 
-## Cybersecurity policy
+## Cybersecurity Policy
 
 Inquiries from market surveillance authorities should be addressed to the Foundation's single point of contact for cybersecurity matters at <security@ivifoundation.org>.
