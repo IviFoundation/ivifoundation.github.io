@@ -9,7 +9,7 @@ nav_order:  2
 
 The IVI Foundation was incorporated as a not-for-profit corporation in the State of Delaware in March 2001. It is set up such that all its funding is used exclusively to achieve its not-for-profit objectives.
 
-The consortium was founded to promote specifications for programming test instrument that simplify interchangeability, provide better performance, and reduce the cost of program development and maintenance.
+The consortium was founded to promote specifications for programming test instruments that simplify interchangeability, provide better performance, and reduce the cost of program development and maintenance.
 
 IVI is an open consortium of users, systems integrators and instrument vendors. The instrument vendors take part as contributors and as funders: they contribute source code and engineering time to the development and maintenance of the IVI shared components and drivers, they finance the Foundation’s work through membership contributions, and they integrate the published components into their own products. The Foundation itself does not monetize that software: it charges no price for it, monetizes no other product or service through it, and requires no processing of personal data as a condition of use for purposes other than improving the security, compatibility or interoperability of the software. It publishes the IVI shared components and instrument drivers as free and open-source software (work in progress). 
 
