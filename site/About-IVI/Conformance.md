@@ -22,4 +22,4 @@ IVI members may also display the standard IVI logo in association with
 Instruments or software applications that are IVI-related or
 IVI-enabled.
 
-Both logos are private marks of the IVI Foundation, awarded on the basis of the supplier's own declaration and without independent assessment; they indicate conformity with the IVI specifications only. 
+Both logos are private marks of the IVI Foundation, awarded on the basis of the supplier's own declaration and without independent assessment. They indicate conformity with the IVI specifications only. 
