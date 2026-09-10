@@ -36,4 +36,4 @@ technology.
 
 The Foundation publishes the software that implements these standards as free and open source (work in progress) and maintains it on a continuing basis; it also operates the conformance program and the driver registry. It does not supply finished instruments or software products. Those are built by the instrument vendors and other integrators that incorporate the published components into their own products.
 
-See the Charter for the Foundation's purpose and the Operation page for how it is organized and funded.
+See the [Charter](../About-the-Foundation/charter.md) for the Foundation's purpose and the [Operation page](../About-the-Foundation/operation.md) for how it is organized and funded.
