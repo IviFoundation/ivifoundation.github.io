@@ -36,6 +36,10 @@ support directly from those vendors. The components are also available
 via the links below, however no customer support is provided by the IVI
 Foundation.
 
+Report vulnerabilities in the components published here through the IVI Foundation's coordinated vulnerability disclosure process: [Security Reporting](../About-the-Foundation/security-reporting.html).
+
+The source code for components offered here is published as open source (coming soon). For each version offered for download, the complete corresponding source code is published at the same time, under the same version number, and is publicly available without registration, payment or membership at [github.com/IviFoundation](https://github.com/IviFoundation). The Foundation publishes one version of each component only: the version offered here is identical for every recipient. Support provided by instrument vendors relates to the vendors' own products into which these components are integrated, not to a different version of the components themselves.
+
 ## IVI Shared Components
 
 The IVI Shared Components are required for use or development of
@@ -44,7 +48,9 @@ IVI-COM, IVI-C, or IVI.NET drivers. The IVI Shared Components require
 
 | ------------ | --------------- |
 | [IviSharedComponents\_303.exe](../downloads/Shared%20Components/IviSharedComponents_303.exe)  | This file is an executable installer that installs the IVI Shared Components on either a 32-bit or 64-bit system.This executable installer installs the same components as the MSI package. |
+| IVI Shared Components 3.0.3 — source code (coming soon) | The complete corresponding source code of the version above, published as open source. |
 | [Cleanup Utility (exe)](../downloads/Shared%20Components/x86/CleanupUtility.exe)  | Utility used to uninstall the IVI Shared Components version 2.2.1 or greater.                                                                                                               |
+| [Cleanup Utility — source code](coming soon) | The complete corresponding source code of the utility above, published as open source.                                                                                                              |
 | [IVI Shared Components Release Notes (docx)](../downloads/Shared%20Components/IVI%20Shared%20Components%20Release%20Notes%203.0.docx) | This document provides information on the current and previous versions of the IVI Shared Components, including known issues.    |
 | [Older IVI Shared Components Versions](OlderIviSharedComponents.html) | Download older versions of the IVI Shared Components.                                                                                                                                       |
 
@@ -70,6 +76,7 @@ greater.
 
 | ------------ | --------------- |
 | [IviNetSharedComponents_311.exe](../downloads/Shared%20Components/IviNetSharedComponents_311.exe)  | This file is an executable installer that installs the IVI.NET Shared Components on either a 32-bit or 64-bit system. The IVI Shared Components 2.0.0 or greater (links above) **must be installed before installing the IVI.NET Shared Components**. |
+| [IVI.NET CS Shared Components 3.1.1 — source code](coming soon)  | The complete corresponding source code of the version above, published as open source. |
 | [IVI.NET CSSC Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20Shared%20Components%20Release%20Notes_3.1.8927.docx) | This document provides information on the current and previous versions of the IVI.NET Shared Components, including known issues. |
 | [Older IVI.NET Shared Components Versions](OlderIviNetSharedComponents.html) | Download older versions of the IVI.NET Shared Components. |
 
@@ -87,6 +94,7 @@ The IVI.NET DSC depends on .NET Standard 2.0 for dual-targeted drivers and suppo
 
 | ------------ | --------------- |
 | [IviDriverCoreSharedComponent_110.exe](../downloads/Shared%20Components/IviDriverCoreSharedComponent_110.exe)  | This file is an executable installer that installs the IVI.NET DriverCore Shared Component on either a 32-bit or 64-bit system. |
+| [IVI.NET DSC 1.1.0 — source code](coming soon)  | The complete corresponding source code of the version above, published as open source. |
 | [IVI.NET DSC Release Notes (docx)](../downloads/Shared%20Components/IVI.NET%20DriverCore%20Shared%20Component%20Release%20Notes_1.1.0.docx) | This document provides information on the current version of the IVI.NET DriverCore Shared Component, including known issues. |
 
 ## VISA and VISA.NET Shared Components
